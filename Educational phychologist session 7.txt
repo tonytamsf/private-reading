@@ -1,0 +1,1694 @@
+EDUCATIONAL PSYCHOLOGIST, 37(3/4), 191-206
+Copyright © 1996, Lawrence Erlbaum Associates, Inc.
+Sociocultural Approaches to Learning and Development:
+A Vygotskian Framework
+Vera John-Steiner and Holbrook Mahn
+University of New Mexico
+Sociocultural approaches emphasize the interdependence of social and individual processes in
+the coconstruction of knowledge. This article uses three central tenets of a Vygotskian
+framework to examine the relation between learning and development: (a) social sources of
+individual development, (b) semiotic (signs and symbols, including language) mediation in
+human development, and (c) genetic (developmental) analysis. The role played by culture and
+language in human development is an essential aspect of the Vygotskian framework and
+provides an overarching theme for this article. The methodological foundation of this framework
+is examined, particularly as it contrasts with other perspectives on the process of
+internalization of social interaction in the construction of knowledge. The article concludes by
+surveying sociocultural research on and applications to classroom learning and teaching,
+particularly that which examines the role of collaboration.
+It is significant that this special issue of Educational Psychologist
+contains an article on sociocultural theory on the
+centenary of the birth of its founder, the Russian psychologist
+Lev Vygotsky. In the last few decades there has been increasing
+interest in this theory and its implications for research on
+classroom learning and teaching. There is a range of interpretations
+and applications of sociocultural approaches, reflecting
+the vitality of this perspective." Nevertheless, some common
+assumptions of the sociocultural community have been
+refined and clarified by contemporary scholars based on
+Vygotsky’s original writings. A number of sources provide
+overviews of these approaches and reflect the varied interpretations
+of Vygotsky’s theory (Cole & Scribner, 1978; John-
+Steiner & Souberman, 1978; van der Veer & Valsiner, 1991 ;
+Wertsch, 1985, 1991).
+To examine the central concepts of sociocultural theory,
+the methodological foundations should be analyzed. The dialectical
+method Vygotsky used differentiates it from other
+perspectives presented in this issue. We focus on the differences
+between social constructivist and sociocultural approaches
+because these two perspectives are often associated,
+resulting in confusion about their similarities and differences.
+This article consists of three main sections: (a) a brief
+overview of sociocultural approaches, (b) an examination of
+sociocultural methodology, and (c) an overview of sociocultural
+contributions to research and applications to classroom
+learning and teaching. An overarching focus is the interdependence
+of social and individual processes in the coconstruction
+of knowledge. This focus clarifies the differences between
+sociocultural theories based on Vygotsky’s
+contributions and other perspectives reviewed in this issue.
+Requests for reprints should be sent to Vera John-Steiner, Department of
+Linguistics, University of New Mexico, Albuquerque, NM 87131. E-mail:
+vygotsky @ unm.edu
+Vygotsky’s works have been studied and interpreted by a variety of
+scholars, some of whom prefer to use the term cultural-historical. In this
+article, we refer broadly to the legacy of Vygotsky’s work and the contributions
+to and interpretations of his theory as the sociocultural approach. Of
+particular significance in the various expansions of this framework are the
+contributions of activity theorists, including Leontiev (1978) and Engeström
+(1987, 1990). See the journal Mind, Culture, and Activity for the breadth of
+disciplines and countries represented by contributors to the sociocultural
+enterprise. Mind, Culture, and Activity is published four times a year by the
+Laboratory of Comparative Human Cognition, University of California, San
+Diego, La Jolla, CA 92093-0092. Fax: (619) 534-7746.
+AN OVERVIEW OF SOCIOCULTURAL
+THEORY
+Sociocultural approaches to learning and development were
+first systematized and applied by Vygotsky and his collaborators
+in Russia in the 1920s and 1930s. They are based on
+the concept that human activities take place in cultural contexts,
+are mediated by language and other symbol systems,
+and can be best understood when investigated in their historical
+development. At a time when psychologists were intent
+on developing simple explanations of human behavior, Vygotsky
+developed a rich, multifaceted theory through which
+192 JOHN-STEINER AND MAHN
+he examined a range of subjects including the psychology of
+art; language and thought; and learning and development,
+including a focus on the education of students with special
+needs. However, his work was suppressed for 20 years and did
+not become accessible again until the late 1950s and early 1960s.
+Since then, sociocultural approaches have gained increasing
+recognition and have been further developed by scholars in over
+a dozen countries. Contemporary interpretations and reinterpretations
+of Vygotsky’s and his collaborators’ work reflect the
+visibility and obscurity of this theory’s 60-year existence. The
+expansions and interpretations in the last 25 years have led to
+diverse perspectives on sociocultural theory.
+The dissemination of Vygotsky’s ideas and the application
+of his work in diverse national contexts have contributed to
+“a complex of related but heterogeneous proposals” (Rogoff,
+Radziszewska, & Masiello, 1995, p. 125). Vygotsky’s ideas
+are condensed and at times not fully developed because he
+died at a young age of tuberculosis. Much of his work remains
+untranslated into English. In spite of these difficulties, his
+theories are increasingly influential in Western countries. The
+impact of Vygotsky’s ideas has grown substantially in the
+United States, particularly since the publication of a selection
+of his writings in Mind in Society (Vygotsky, 1978).
+The power of Vygotsky’s ideas lies in his explanation of
+the dynamic interdependence of social and individual processes.
+He arrived at his views by analyzing the crisis in
+psychology he saw in the two predominant schools in the
+field, “each of which claimIed] to possess an explanatory
+system adequate to become the basis of general psychology”
+(Kozulin, 1990, p. 87). In contrast to those approaches, which
+focused on internal or subjective experience, and behaviorist
+approaches, which focused on the external, Vygotsky conceptualized
+development as the transformation of socially shared
+activities into internalized processes. In this way he rejected
+the Cartesian dichotomy between the internal and the external.
+The nature of the interdependence between individual
+and social processes in the construction of knowledge can
+be clarified by examining three major themes in Vygotsky’s
+writings highlighted by Wertsch (1991): (a) Individual
+development, including higher mental functioning, has
+its origins in social sources; (b) human action, on both the
+social and individual planes, is mediated by tools and signs;
+and (c) the first two themes are best examined through
+genetic, or developmental, analysis. In developing these
+themes, we rely on Vygotsky’s writings as well as the
+elaborations of his ideas by his coworkers and scholars
+influenced by his work.
+Social Sources of Development
+Human development starts with dependence on caregivers.
+The developing individual relies on the vast pool of transmitted
+experiences of others. Vygotsky, in his well-known genetic
+law of development, emphasized this primacy of social
+interaction in human development:
+Every function in the cultural development of the child comes
+on the stage twice, in two respects; first in the social, later in
+the psychological, first in relations between people as an
+interpsychological category, afterwards within the child as an
+intrapsychological category. ... All higher psychological
+functions are internalized relationships of the social kind, and
+constitute the social structure of personality, (as cited in
+Valsiner, 1987, p. 67)
+This principle describes a process situated in, but not limited
+to, social interaction. When beginning an activity, learners depend
+on others with more experience. Over time they take on
+increasing responsibility for their own learning and participation
+in joint activity (Lave & Wenger, 1991). Expanding Vygotsky’s
+genetic law of development, Rogoff (1990) characterized this
+process as guided participation. In her cross-cultural studies, she
+documented children’s various forms of participation with parents
+and peers. Rogoff found that even when children were not
+conversational partners with adults, they were involved in the
+adult world as participants in adult agricultural and household
+work. She described the supportive engagement of Mayan mothers
+with their children as an example of the nonverbal guidance
+adults give children:
+The routine arrangements and interactions between children
+and their caregivers and companions provide children with
+thousands of opportunities to observe and participate in the
+skilled acti vities of their culture. Through repeated and varied
+experience in supported routine and challenging situations,
+children become skilled practitioners in the specific cognitive
+activities in their communities. (Rogoff, 1991, p. 351)
+Thus, learners participate in a wide variety of joint activities
+that provide the opportunity for synthesizing several
+influences into the learner’s novel modes of understanding
+and participation. By internalizing the effects of working
+together, the novice acquires useful strategies and crucial
+knowledge.
+The acquisition of language provides another example of a
+social source of development. Zukow-Goldring and Ferko
+(1994) and other researchers showed the close relation between
+promoting shared attention between beginning speakers and
+their caregivers and the emergence of the lexicon. Contemporary
+research supports the sociocultural claim that the relationships
+between individuals forms a basis for cognitive and linguistic
+mastery. This process, whether in the classroom or elsewhere,
+includes transmission, construction, transaction, and transformation
+in a continuing, complex interplay.
+Semiotic Mediation
+Semiotic mediation is key to all aspects of knowledge
+coconstruction. For Vygotsky, semiotic mechanisms (including
+psychological tools) mediate social and individual functioning
+and connect the external and the internal, the social
+and the individual (Wertsch & Stone, 1985). Vygotsky (1981)
+A VYGOTSKIAN FRAMEWORK 193
+listed a number of examples of semiotic means: “language;
+various systems of counting; mnemonic techniques; algebraic
+symbol systems; works of art; writing; schemes, diagrams,
+maps and mechanical drawings; all sorts of conventional signs
+and so on” (p. 137). Other tools, increasingly recognized in
+sociocultural discourse—the paint brush, the computer, calendars,
+and symbol systems—are central to the appropriation
+of knowledge through representational activity by the developing
+individual.
+In the introduction to Vygotsky’s Thought and Language,
+Bruner (1962) described Vygotsky’s view of the role of
+semiotic mediation:
+He believed that in mastering nature we master ourselves. For
+it is the internalization of overt action that makes thought, and
+particularly the internalization of external dialogue that
+brings the powerful tool of language to bear on the stream of
+thought. Man, if you will, is shaped by the tools and instruments
+that he comes to use, and neither the mind nor the hand
+alone can amount to much And if neither hand nor intellect
+alone prevails, the tools and aids that do are the developing
+streams of internalized language and conceptual thought that
+sometimes run parallel and sometimes merge, each affecting
+the other, (p. vii)
+Wertsch (1991) adopted Wittgenstein’s metaphor of a
+socially provided tool kit of semiotic means. Those means and
+practices, which become internalized and available for independent
+activity, are critical in supporting and transforming
+mental functioning. Physical tools are directed toward the
+external world; psychological tools are directed internally and
+are appropriated during activity.
+Knowledge is not internalized directly, but through the use
+of psychological tools. Vygotsky’s colleague Leontiev (1981)
+used the term appropriation to describe the adoption by an
+individual of one of these socially available psychological
+tools and wrote that children
+cannot and need not reinvent the artifacts that have taken
+millennia to evolve in order to appropriate such objects into
+their own system of activity. The child has only come to an
+understanding that is adequate for using the culturally elaborated
+object in the novel life circumstances he encounters, (as
+cited in Newman, Griffin, & Cole, 1989, p. 63)
+Leinhardt (1996), in her discussion of teaching-instructional
+explanations of mathematical concepts, provided another example
+of semiotic mediation. In describing the role of representations,
+she illustrated the concept percent by discussing
+various representations, such as number lines, circles, and
+squares. Representational activities, whether in the form of inner
+As first used by Wood, Bruner, and Ross (1976), scaffolding is a metaphor
+for graduated assistance provided to the novice, akin to the caipenter’s
+scaffold.
+speech, imagery, or kinetic concepts, are linked to culturally
+shared systems, such as language, and to developmental activities,
+including scaffolding1 (John-Steiner, 1995).
+Thus, psychological tools tire not invented by the individual
+in isolation. They are products of sociocultural evolution
+to which individuals have access by being actively engaged
+in the practices of their communities. In a recent article,
+Wertsch (1994) elaborated on the centrality of mediation in
+understanding Vygotsky’s contributions to psychology and
+education:
+[Mediation] is the key in his approach to understanding how
+human mental functioning is tied to cultural, institutional, and
+historical settings since these settings shape and provide the
+cultural tools that are mastered by individuals to form this
+functioning. In this approach, the mediational means are what
+might be termed the “carriers” of sociocultural patterns and
+knowledge, (p. 204)
+Cognitive pluralism. Although the importance of semiotic
+mediation in thinking is recognized by most members
+of the sociocultural thought community, interpretations of it
+differ. Almost all sociocultural researchers place language in
+a central position; however, some consider that other semiotic
+means are of little theoretical interest (Kozulin, 1990). We
+claim a pluralistic rather than a monistic theory of semiotic
+mediation (John-Steiner, 1991, 1995) and coined the term
+cognitive pluralism for this stance. Evidence for cognitive
+pluralism includes the planning notes of experienced thinkers,
+which incorporate words, drawings, musical notes, and scientific
+diagrams (John-Steiner, 1985).
+The diversity of these means and the psychological tools that
+they represent are of special interest to educators who work in
+multicultural settings and with children who have special needs.
+In an issue of Educational Psychologist devoted to Vygotsky’s
+ideas, Gindis (1995) described the emphasis Vygotsky placed
+on the variety of psychological tools in approaching the study of
+children who had special physical or mental circumstances:
+“Vygotsky pointed out that our civilization has already developed
+different means (e.g., Braille system, sign language, lip
+reading, finger spelling, etc.) to accommodate a handicapped
+child’s unique way of acculturation through acquiring various
+symbol systems” (p. 79).
+These acts of representation are embedded in social practice
+and rely on socially developed semiotic means. Ecology,
+history, culture, and family organization play roles in patterning
+experience and events in the creation of knowledge (John-
+Steiner, 1995). For example, the tasks confronting children,
+such as learning to talk, to walk, and to attach meaning to their
+experiences, are reflected in cognitive strategies derived in
+part from the culturally patterned environment into which
+they are born. Their thought is shaped by the prevalent methods
+of physical and economic survival, by the language and
+visual symbols used by their people, and by socially ordered
+194 JOHN-STEINER AND MAHN
+ways of parenting. Some children born into tribal or agricultural
+communities spend many hours strapped to the back of
+their mothers and other caregivers. In this position, they
+observe and represent the life of their community in a way
+that is not possible to children placed in cribs and playpens
+(John-Steiner, 1985)
+Representational activities and the sociocultural theory
+of semiotic mediation are fundamental to Vygotsky’s concept
+of internalization and the transformation of interpersonal
+processes into intrapersonal ones. Vygotsky used the
+concept of semiotic mediation to explain qualitative transformations
+in the human mind historically, ontogeneti-
+cally, and microgenetically. The role played by semiotic
+mediation in the development of higher psychological
+processes provided a central focus for Vygotsky’s research.
+The concept of semiotic mediation is essential to the sociocultural
+view that the process of internalization is transformative
+rather than, transmissive.
+Genetic Analysis
+Vygotsky (1978) used genetic analysis, which examines the
+origins and the history of phenomena, focusing on their
+interconnectedness, to develop his theoretical framework
+and guide his research. In describing this approach he emphasized
+the
+need to concentrate not on the product of development but on
+the very process by which higher forms are established. ...
+To study something historically means to study it in the
+process of change; that is the dialectical method’s basic
+demand. To encompass in research the process of a given
+thing’s development in all its phases and changes—from birth
+to death—fundamentally means to discover its nature, its
+essence, for “it is only in movement that a body shows what
+it is.” Thus, the historical (that is in the broadest sense of
+history) study of behavior is not an auxiliary aspect of theoretical
+study, but rather forms its very base. (pp. 64-65)
+According to this perspective, learning and development
+take place in socially and culturally shaped contexts. Historical
+conditions are constantly changing, resulting in changed
+contexts and opportunities for learning. For that reason, there
+can be no universal schema that adequately represents the
+dynamic relation between external and internal aspects of
+development (John-Steiner & Souberman, 1978).
+Vygotsky argued that psychological systems that unite
+separate functions into new combinations and complexes
+arise in the process of development. An example of this
+unification is the linking of spoken and written language into
+a new and broader semiotic system. When it was discovered
+that it was “possible to represent the sounds of language using
+marks in clay just as it is possible to represent objects” (Cole,
+1990, p. 95), a qualitative transformation in the development
+of humanity occurred. The unification of separate functions
+represented in literacy also provides insights into the relations
+between individual and social processes.
+In his studies of disabilities, Vygotsky analyzed the unification
+of separate physiological (anatomical, biochemical,
+and evolving neural) and psychological processes. His collaborator,
+neuropsychologist Luria (1973, 1979), examined
+cognitive functions in brain damage at different levels uf
+analysis. This led to the concept of functional systems, which
+is particularly useful in the examination of phenomena at the
+interface of neural and cognitive processes. Functional systems
+are dynamic psychological systems in which diverse
+internal and external processes are coordinated and integrated.
+These systems reveal a variety of characteristics,
+including the use of variable means or mechanisms by individuals
+to perform particular tasks. In order to succeed when
+faced with new learning challenges, these indi vi du als reorganize
+their cognitive strategies. Cole and Scribner (19/4)
+used die concept of functional systems extensively in their
+cross-cultural research, as did Newman. Griffm, and Colo
+(1989), who found that
+external devices like talk and charts and writing are windows
+in the evolution and appearance of cognitive constructs, They
+are an essential part of the functional system that gives the
+actors as well as the analysts access to the changes occurring.
+(p. 73)
+Functional system analysis captures the dynamic relation
+between changing and stable features of phenomena and the
+ways in which these are integrated in different contexts. In
+work with Native American children, John-Steiner and Österreich
+(1975) found it particularly useful in examining the
+children’s use of various learning styles and modalities to
+accomplish similar goals and tasks. A functional systems
+approach helped analyze Native American children’s learning
+approaches, viewing them as part of a dynamic system instead
+of splitting them into visual and verbal approaches.
+Within genetic analysis, the use of functional systems provides
+a framework for representing the complex interrelationships
+between external devices, psychological tools, the individual,
+and the social world. Vygotsky used the sociocultural
+framework based on the three central tenets described previously—social
+sources of development, semiotic mediation,
+and genetic analysis—to develop his concept of internalization.
+VYGOTSKY’S METHODOLOGICAL
+APPROACH
+An understanding of Vygotsky’s methodological approach
+helps to clarify the concept of internalization and to differentiate
+it from other theoretical perspectives. Vygotsky approached
+methodological issues on two interrelated levels:
+the theoretical and the psychological, On the theoretical level
+he examined complex systems in the process of change, using
+dialectical logic to understand the interrelationships between
+A VYGOTSKIAN FRAMEWORK 195
+components of the systems. On the psychological level he
+chose research methods to capture the dynamics of process
+consistent with his theoretical approach. On both levels his
+emphasis was on the examination of cognitive change in
+diverse contexts: “Any psychological process, whether the
+development of thought or voluntary behavior, is a process
+undergoing changes right before one’s eyes” (Vygotsky,
+1978, p. 61) To capture the processes at play, Vygotsky
+used the experimental-developmental method in which
+developmental changes are provoked in laboratory settings.
+Through intervention, the experimenter is able to
+record participants’ initial efforts to solve a problem beyond
+their existing means or strategies. One of the intervention
+methods was providing auxiliary means through
+which the problem could be solved. This type of mediated
+assistance was of theoretical and methodological interest to
+Vygotsky . In studying memory in complex choice responses,
+he focused on the developmental changes taking place in the
+course of one or several sessions during which the learner
+appropriated new psychological tools.
+Contemporary Vygotskian scholars researching cognitive
+change in classroom learning rely on both experimental and
+qualitative methods to focus on developmental processes.
+Sociocultural researchers reject “the cause-effect, stimu-
+lus-response, explanatory science in favor of a science that
+emphasizes the emergent nature of mind in activity and that
+acknowledges a central role for interpretation in its explanatory
+framework” (Cole, 1996).
+Vygotskian researchers use this theoretical and methodological
+approach to study and describe the concept of internalization.
+This is germane to the discussion of classroom learning and
+teaching in this issue of Educational Psychologist. There is a
+vigorous discussion among sociocultural theorists and proponents
+of different theoretical perspectives about the way that
+concepts are learned and the processes through which they are
+acquired, appropriated, or internalized. These processes cannot
+be adequately understood, we believe, without comprehending
+the dialectical method Vygotsky used to examine them. The next
+section presents Vygotsky’s use of the dialectical method, explains
+the authors’ conception of internalization, and distinguishes
+sociocultural concepts of internalization from other
+perspectives.
+Dialectical Method
+Vygotsky did not simply try to impose laws or principles of
+dialectics on existing psychological theories, rather he scientifically
+investigated and analyzed concrete questions in specific
+areas of psychological inquiry. This approach was described by
+one of his collaborators, Leontiev (1977), who wrote that in
+science “dialectic logic does not amount to just the formalistic
+imposition of its principles on any particular scientific discipline.
+It itself develops as scientific inquiry proceeds; it is the result of
+empirical science” (p. 54). Vygotsky underscored the centrality
+of this method to all of his work:
+The search for method becomes one of the most important
+problems of the entire enterprise of understanding the
+uniquely human forms of psychological activity. In this case,
+the method is simultaneously prerequisite and product, the
+tool and the result of the study. (Vygotsky, 1978, p. 65)
+In contrast to Aristotelian logic, which places phenomena
+such as mind and matter into fixed, unchanging categories,
+Vygotsky (1978) analyzed higher mental functions as developmental
+processes in a constant state of dialectical change.
+He examined mind and matter in their interconnectedness and
+included a “scientific explanation of both external manifestations
+and the process under study” (p. 63).
+A central concept of dialectics, the unification of contradictions,
+distinguishes it from traditional approaches:
+“Whereas, within the standard view, conceptual unity among
+objects relies on the commonality of elements, it is the interrelatedness
+of diverse elements and the integration of opposites
+that creates unity within dialectics” (Falmagne, 1995, p.
+207). Dialectics surmounts dichotomies by looking at phenomena
+as syntheses of contradictions. In 20th-century physics,
+it was the unified vision of light as both wave and particle
+that led to a broader theoretical understanding. In nature,
+qualitative transformations unify contradictions—water, for
+example, as unification of hydrogen and oxygen, will go
+through transformations from gas to liquid to solid with
+quantitative changes in temperature. In addition, physical
+tools can unify contradictory functions—the claw hammer is
+used to both pound in and pull out nails; the pencil is used to
+create and erase (Weber, 1992).
+Vygotsky (1986) used the dialectical notion of synthesis
+to analyze a central psychological tool—verbal thought. He
+examined the way that thought and speech, which initially
+have separate planes or levels of development in children
+in a “prelinguistic period in thought and a preintellectual
+period of speech” (p. 210), become inextricably intertwined.
+Throughout his work Vygotsky used the dialectical
+method to analyze, explain, and describe interrelationships
+fundamental to human development where others posited
+dichotomies—for example, mind and matter, language and
+thought, external and inner speech, nature and culture, and
+social and individual processes in the construction of
+knowledge.
+Our concept of development implies a rejection of the
+frequently held view that cognitive development results
+from the gradual accumulation of separate changes. We
+believe that child development is a complex dialectical
+process characterized by periodicity, unevenness in the
+development of different functions, metamorphosis or
+qualitative transformation of one form into the other, intertwining
+of external and internal factors, and adaptive
+196 JOHN-STEINER AND MAHN
+processes that overcome impediments that the child encounters.
+(Vygotsky, 1978, p. 73)
+Using this approach, sociocultural theorists analyze internalization
+and individual and social processes as interrelated
+parts of neurophysiological, psychological, educational, political,
+and cultural systems (Tobach, 1995).
+Internalization
+Our concept of internalization recognizes unique human
+minds that owe their existence to and are inextricably intertwined
+with social, historical, cultural, and material processes
+(including brain activities). Internalization is conceived of as
+a representational activity, a process that occurs simultaneously
+in social practice and in the human brain/mind. Sociocultural
+researchers include the learners’ appropriation of
+socially elaborated symbol systems as a critical aspect of
+learning-driven development. This appropriation of symbol
+systems was a central focus of Vygotsky’s work, particularly
+as applied to educational pedagogy, and led to his most fully
+elaborated application of the concept of internalization—the
+transformation of communicative language into inner speech
+and further into verbal thinking (Vygotsky, 1986, chap. 7).
+Although “cognitive constructivist research and practice
+... is mostly oriented toward understanding the individual
+learner” (Derry, this issue, p. 164) and separates individual
+processes of knowledge construction from social processes of
+joint understanding, we think of them as connected and interdependent.
+The development of the mind of the child is both
+individual and social at the same time and is the result of a
+long process of developmental events (Vygotsky, 1978). A
+focus of sociocultural research is the study of the way that the
+coconstruction of knowledge is internalized, appropriated,
+transmitted, or transformed in formal and informal learning
+settings.
+Vygotsky (1978) examined and explained the processes
+through which humans construct minds in interaction with the
+external world of nature and with other humans, changing in
+the process both themselves and nature:
+The dialectical approach, while admitting the influence of
+nature on man, asserts that man, in turn, affects nature and
+creates through his changes in nature new natural conditions
+for his existence. This position is the keystone of our approach
+to the study and interpretation of man’s higher psychological
+functions and serves as the basis for the new methods of
+experimentation and analysis we advocate, (pp. 60-61)
+The Russian philosopher Ilyenkov added that “the socio-
+historical environment, the world of things, created by human
+labour, and the system of human relations, formed in the
+process of labour” must also be considered, and that “outside
+the individual lies not only nature as such (‘in itself), but also
+humanized nature, nature remade by human labour” (as cited
+in Bakhurst, 1995, p. 165).
+In a psychological framework, the unification of nature
+and culture is powerfully embodied in early development. For
+example, a human embryo is both a material and a conceptual
+reality for the mother, but its own consciousness is dependent
+on the full (prenatal and postnata 1) develop ment of the infant’s
+own nervous system and his or her subsequent internalization
+of culturally developed sign systems. Bakhurst (1995) wrote
+that “the nature and content of an individual’s mental life
+cannot be understood independently of the culture of which
+that individual is part” (p. 159). He further suggested that
+there are two intuitions that He behind the claims of “strong
+cultural theories of the mind”:
+The first is that meaning is the medium of the mental, and
+meaning is (in some sense) socially constructed; the second
+is that the human mind, and the forms of talk in which human
+beings explain and predict the operations of minds, should be
+understood on the model of tools, and like all artifacts, we
+cannot make sense of them independently of the social processes
+which make them what they are. (p. 159)
+Lemke (1995) posed the contradictory character of the
+relation between individual and social processes in the making
+of meaning: “how to have an active, creative human
+subject which constructs social meanings, at the same tinie
+that this subject itself must: be a social construction” (p. 80).
+Vygotsky’s use of dialectics to unravel this contradictory
+relation between individual and social processes in which the
+individual constructs the social and at the same time is constructed
+by the social distinguishes the sociocultural perspective
+from others presented in this issue. We favor the view of
+Penuel and Wertsch (1995):
+Sociocultural processes on the one hand and individual functioning
+on the other [exist] in a dynamic, irreducible tension
+rather than a static notion of social determination. A sociocultural
+approach ... considers these poles of sociocultural processes
+and individual functioning as interacting moments in
+human action, rather than as static processes that exist in
+isolation from one another, (p. 84)
+Distinctions From Other Perspectives
+The way in which internalization has been interpreted by a
+variety of critics highlights the distinctions between sociocultural
+and other approaches. For example, social constructivist
+critics of the Vygotskian framework, such as Cobb
+and Yackel (this issue), characterize it as a transmission
+model through which students inherit the cultural meanings
+that constitute their intellectual bequest from prior generations.
+Their position was both linked to and differentiated
+from a Vygotskian stand when they questioned the metaphor
+“of students and teachers being embedded or included in
+A VYGOTSKIAN FRAMEWORK 197
+social practice” (Cobb, Wood, & Yackel, 1993, p. 96). Although
+their emergent approach has many commonalities
+with sociocultural theory, Cobb and Yackel repeatedly criticize
+the latter as a transfer-of-knowledge model in which
+students imitate “established mathematical practices” (this
+issue, p. 179). This interpretation of sociocultural theory
+reduces and simplifies the mutuality of learning and its interpersonal
+and intergenerational dynamic. In attempting to
+differentiate their approaches from sociocultural theory, social
+constructivists misinterpret the transformative character
+of internalization as described by sociocultural researchers
+(John-Steiner, 1996).
+The conceptualization of internalization as unidirectional
+transmission freezes the debate, in part, by distorting sociocultural
+theorists’ views of the roles of both teacher and
+student. It does not recognize that the sociocultural theory of
+internalization analyzes the complex process of transmission,
+transformation, and synthesis in the coconstruction of knowledge.
+As Leontiev wrote, “the process of internalization is not
+the transferal of an external activity to a preexisting internal
+‘plane of consciousness’: it is the process in which this plane
+is formed” (as cited in Wertsch & Stone, 1985, p. 163). In
+classroom learning, the student plays an active role and constantly
+informs the teacher as their mutual negotiation and
+collaboration build knowledge.
+As well as the presentation of new information, there needs
+to be extended opportunity for discussion and problem-solving
+in the context of shared activities, in which meaning and
+action are collaborati vely constructed and negotiated. In other
+words, education must be thought of in terms not of the
+transmission of knowledge but of transaction and transformation.
+(Chang-Wells & Wells, 1993, p. 59)
+We explore other studies of classroom collaboration exhibiting
+transformative knowledge coconstruction later in this
+article.
+There are different modes of internalization, reflecting
+different teaching-interaction strategies. A continuum with
+direct instruction on one end and creative, collaborative learning
+on the other could describe the wide range of teaching-learning
+situations in which internalization occurs.
+Whether in the learning of a young child or in the activities
+of experienced thinkers, internalization is a fundamental part
+of the lifelong process of the coconstruction of knowledge
+and the creation of the new.
+Other critics warn that using the concept of internalization
+to explain the learning processes creates the danger of focusing
+on just the individual mental construction of knowledge.
+For example, Packer (1993), in his analysis, which was linked
+to a hermeneutic, interpretive approach, suggested that “Descartes’
+ghost may still be with us” (p. 263) because he saw
+elements of dualism in sociocultural concepts of internalization.
+Although he appreciated the work of Vygotskian scholars,
+Packer was concerned that “the processes and mechanisms
+being examined keep creeping back inside the head”
+(p. 263). In contrasting the view of learning as mental change
+with an alternative that focuses on participatory activities, his
+analysis is similar to that of Rogoff (1994): “Learning is a
+process of transforming participation in shared sociocultural
+endeavors” (p. 210).
+In our view, internalization is simultaneously an individual
+and a social process. In working with, through, and beyond
+what they have appropriated in social participation and then
+internalized, individuals coconstruct new knowledge. In contrast
+to facile internalization, which leads to a limited combination
+of ideas, internalization that involves sustained social
+and individual endeavors becomes a constituent part of the
+interaction with what is known and leads to the creation of
+new knowledge. Chang-Wells and Wells (1993), in their
+study of the role of instructional conversations in classroom
+learning, described this interdependent and transformative
+view of internalization: “It is at points of negotiation of
+meaning in conversation that learning and development occur,
+as each learner’s individual psychological processes mediate
+(and at the same time are mediated by) the constitutive
+intermental processes of the group” (p. 86).
+Sociocultural approaches are also distinguished from other
+perspectives by the importance they place on cultural variation
+and its interrelationship with development (John-Steiner
+& Panofsky, 1992). This distinction is particularly relevant in
+contrasting sociocultural approaches with those derived from
+a Piagetian framework. The emphasis on culture resulted in
+the broad use by sociocultural researchers of approaches that
+examine the ways in which learning and teaching take place
+under different cultural circumstances and in different historical
+contexts, contributing to a contextualized rather than a
+universalistic theory of development. And although social
+constructivists do engage in an analysis of cultural norms,
+they maintain a conceptual dichotomy between the individual’s
+constructive activity, on the one hand, and social processes,
+on the other. For example, Cobb and Yackel (this issue)
+view the individual through one lens and the social through
+another, without making explicit the dialectical interdependence
+of social and individual processes. To study these processes
+interdependently requires a reliance on cross-cultural
+comparisons and active collaboration between researchers
+drawn from varied backgrounds examining teachers and children
+in diverse settings.
+The significant role of cross-cultural comparisons in theory
+construction and the development of educational practice
+is illustrated by the work of Tharp and Gallimore (1988) and
+their collaborators who developed a highly effective, culturally
+sensitive approach to teaching Hawaiian children. In their
+well-known Kamehameha Early Education Program, instructional
+conversations were designed to resemble the talk story
+format—overlapping speech, joint performance, and informal
+turn taking—favored in the native Hawaiian community.
+However, when this highly successful program was implemented
+among Navajo children, the results were mixed (Jor
+198 JOHN-STEINER AND MAHN
+dan, Tharp, & Vogt, 1985). The researchers became aware of
+the difficulties in applying a promising, culturally sensitive
+approach from one indigenous context to another. They found
+that for Hawaiian children, four or five students in groups of
+mixed sex and ability produced the maximum peer interaction
+and learning cooperation. However, Navajo children were
+uncomfortable in the larger mixed groups and worked best in
+dyads of the same sex. These studies illustrated the importance
+to sociocultural approaches of inclusion of anthropologists,
+native teachers, and the learners themselves as educational
+activity planners whose joint efforts help educators
+understand the culturally patterned learning styles children
+bring to school. This emphasis upon interdisciplinary action
+research by Vygotskian educators contrasts with other approaches
+in educational psychology.
+Sociocultural researchers emphasize methods that document
+cognitive and social change. Rather than seeing a
+dichotomy between quantitative and qualitative research,
+approaches are chosen that emphasize process, development,
+and the multiple ways in which both can be revealed.
+They include experimental research such as Frauenglass
+and Diaz’s (1985) work on private speech, which studied
+Vygotsky’s hypotheses on the universality and self-regulatory
+significance of private speech. In a laboratory setting,
+they
+compared the frequencies of preschoolers’ private speech in
+perceptual versus semantic tasks, with or without instructions
+that permitted and encouraged theuse of overt verbalizations.
+... [And found] that researchers who choose to study private
+speech in laboratory settings must pay close attention to task
+and setting variables that may increase or inhibit the amount
+of private speech produced by children in their samples.
+(Diaz, 1992, p. 57)
+Other sociocultural approaches combine experimental
+and ethnographic research as illustrated by Scribner and
+Cole’s (1981) work in Liberia. In their studies of literacy,
+they included observational and ethnographic methods and
+combined them with tasks first developed in laboratory
+settings. Examples of sociocultural methods of research on
+cognitive change in the classroom are described in the next
+section.
+SOCIOCULTURAL EDUCATIONAL
+RESEARCH AND PRACTICE
+This section briefly examines Vygotsky’s analysis of the
+relation between learning and development, his concept of
+the zone of proximal development, and implications drawn
+from them for research on collaborative learning. Vygotsky’s
+analysis of spontaneous and scientific concepts is
+then examined, focusing on the central roles in concept
+formation played by language and culture. The integrated
+influences of culture and language are then examined in
+practical applications of sociocultural approaches to classroom
+learning and teaching in literacy instruction. An additional
+and related theme highlighted in this section is the way
+sociocultural theory helps educators provide instruction that
+recognizesandempowerslinguisticallyandculturallydiverse
+students.
+Learning and Development and the Zone
+of Proximal Development
+In contrast to prevailing theories of his time that dichotomized
+learning and development, viewing one as an external and the
+other as an internal process, Vygotsky (1978) looked at their
+unity and interdependence starting from a child’s birth:
+Our hypothesis establishes the unity but not the identity of
+learning processes and internal developmental processes. It
+presupposes that the one is converted into the other. Therefore,
+it becomes an important concern of psychological research
+to show how external knowledge and abilities in
+children become internalized, (pp. 90-91)
+Vygotsky thus criticized theories such as Piaget’s, in
+which “maturation is viewed as a precondition of learning but
+never the result of it” (1978, p. 80), and developed the
+following position:
+Learning awakens a variety of internal developmental processes
+that are able to Operate only when the child is interacting with
+people in his environment and in cooperation with his peers_
+Learning is not development; however, properly organized
+learning results in mental development and sets in motion a
+variety of developmental processes that would be impossible
+apart from learning. Thus learning is a necessary and universal
+aspect of the process of developing culturally organized, specifically
+human, psychological functions, (p. 90)
+To help explain the way that this social and participatory
+learning took place, Vygotsky (1978) developed the concept of
+the zone of proximal development, which he defined as “the
+distance between the actual developmental level as determined
+through independent problem solving and the level of potential
+development as determined through problem solving under adult
+guidance or in collaboration with more capable peers” (p. 86).
+Sociocultural theorists, expanding the concept of the zone of
+proximal development, increasingly conceptualize learning as
+distributed (Cole & Engeström, 1993), interactive (Chang-Wells
+& Wells, 1993), contextual (John-Steiner, Panofsky, & Smith,
+1994), and the result of the learners ’ participation in a community
+of practice (Rogoff, 1994).
+Brown and her collaborators (1992, 1993) developed and
+implemented educational programs based on this concept of
+learning. They suggested that the acti ve agents within the zone
+of proximal development “can include people, adults and
+children, with various degrees of expertise, but it can also
+include artifacts, such as books, videos, wall displays, seien-
+A VYGOTSKIAN FRAMEWORK 199
+tifie equipment and a computer environment intended to
+support intentional learning” (1993, p. 191). In expanding the
+zone of proximal development to include artifacts in addition
+to people, Brown integrated Vygotsky’s analyses of tools and
+symbols with the roles played by the participants in the
+learning process. One of the important features of Brown and
+her collaborators’ work is the examination of the way “divergent
+classrooms can become learning communities—communities
+in which each participant makes significant contributions
+to the emergent understandings of all members,
+despite having unequal knowledge concerning the topic under
+study” (Palincsar, Brown, & Campione, 1993, p. 43). They
+examined the role of “reciprocal teaching,” an approach in
+which “students and teachers take turns leading discussions
+about shared text” (p. 43), to see whether structured dialogues
+foster a learning community. The teachers in these studies had
+a changing role. They shared with the students the well-defined
+tasks of questioning, clarifying, summarizing, and predicting
+in order to construct text-based knowledge. These
+studies exemplify two themes in sociocultural approaches to
+classroom learning and teaching: (a) the implementation of
+an educational program that allowed for or encouraged the
+coconstruction of knowledge and (b) the analysis of this
+learning that contributed to our understanding of classroom
+learning from a sociocultural perspective. Collaborative
+learning plays an increasing role in these as well as many other
+innovative classrooms.
+Collaboration Research
+In current applications of sociocultural theory with emphases
+on coparticipation, cooperative learning, and joint discovery,
+teachers bring existing knowledge to students by cocon-
+structing it with them. These applications make clear the need
+to examine patterns of interaction and collaboration in this
+type of classroom. A major goal of our research is to produce
+a theoretical model of the collaboration process and to identify
+collaborator’s values, roles, working methods, and conflict-
+resolution strategies.3 Through the analysis of selected project
+documents and transcribed discourse from group meetings, as
+well as through focused interviews, our initial work revealed
+four patterns—distributed, complementary, family, and integrative—among
+individuals, small groups, and larger complex
+collaborations (see Figure 1). We use a circle and dotted
+lines to show that collaborative efforts are dynamic, changing
+3
+Supported by National Science Foundation Grant #SBR-9423277, we,
+together with Michele Minnis, Robert J. Weber, and Teresa Meehan, are
+examining values, roles, responsibilities, working methods, and conflict-
+resolution strategies to develop patterns of collaboration in long-term interdisciplinary
+and interinstitutional projects organized to solve complex social
+and technical problems. The two main collaborative groups we are analyzing
+consist of adults involved in a water consortium and adults and adolescents
+participating in a program the focus of which is on middle school students
+whose home, school, and community environments make them susceptible
+to drug and alcohol abuse.
+processes. Although the corresponding characteristics of values,
+working methods, and roles for each pattem are depicted
+in the bands around the wheel, there is no rigidity in the
+divisions. The order of the patterns is not hierarchical, and a
+collaboration can be initiated at any level and be transformed
+over time. A goal is to examine how the resolutions of tensions
+inherent in collaborations transform the character of the collaboration
+and determine whether it continues.
+In the move from the outer edge of the wheel in Figure 1
+to the center, collaborations tend to be longer term and are
+characterized by the increasing importance of negotiated and
+common values. In distributed collaborations, such as collective
+e- mail discussions in which the exchange of information
+is featured, values need not extend beyond similar interests;
+whereas in integrated collaborations—long-term, often dyadic,
+and intimate—values are reflected in the development
+of shared ideologies. Complementary collaborations, such as
+those found in the organization of teams in classrooms and in
+the business world, are distinguished by clear divisions of
+labor and discipline-based approaches. In contrast, family
+collaborations, often centered on providing social services,
+including education, are characterized by the fluidity of roles
+and the integration of expertise.
+The conceptualization of the patterns of collaboration in
+Figure 1 is of use in the study of classrooms engaged in
+collaborative learning. Complex social relationships and different
+cultural values shape the intellectual interdependence
+in the coconstruction of knowledge in classes that are not
+based on the traditional teacher-centered transmission model
+of education.
+The way that cultural and linguistic factors shape learning and
+development and the impact that tírese factors have on pedagogical
+approaches provide a theoretical foundation for sociocultural
+research of collaboration in the classroom. There is a growing
+literature on cooperative learning and peer collaboration, of
+interest to both Piagetian and Vygotskian researchers (Damon
+& Phelps, 1989; Slavin, 1983, 1987; Tudge & Rogoff, 1989),
+which can inform classroom practice.
+In differentiating their approach from others, Forman and
+McPhail (1993) highlighted three features of a sociocultural
+perspective on the study of collaboration in education. First,
+rather than locating the source of individual motivation and
+understanding within or between individuals, they located it
+in sociocultural practices in which children have the opportunity
+“to observe and participate in essential economic, religious,
+legal, political, instructional, or recreational activities.”
+Through guided participation “children internalize or appropriate
+their affective, social, and intellectual significance” (p.
+218). Second, Forman and McPhail wrote,
+For Vygotsky, cognitive, social, and motivational factors
+were interrelated in development. Thus it makes no sense to
+evaluate the benefits of peer collaboration in purely intellectual
+terms, e.g., via individual achievement testing. A Vygotskian
+perspective also implies that the outcomes of peer
+200 JOHN-STEINBRAND MAHN
+Collaboration: Roles, Values and Working Methods
+Roles sÿi4
+/ .A° ,
+/ ^
+'' ^ # ''' 4rf>
+/ *$■ / / сЯ-°Ч
+/ Λ '' ^
+/ * / S У
+■ ' ' * /V
+S %> 'n. Values
+• i /
+• I
+> I ( 1 I I
+*w\ %л
+4 '' V*>
+V;\ \\ % \
+\ ''' % '''
+\\ \ \
+Ä '· % \ % \
+'"v\V \ %. \ » \
+' Ф· cTL \ Λ i \
+4 «Ł » «Ь ■* 1 \ *T 0> ’ Id I I ' Ä i I
+l 1
+I I
+V \
+' ^ 4'
+' V* 4 * \ \ fL
+' ' \ 4 yv 4 t*
+\ ^ Г1 '4 \
+\ \ X \>
+\ <5 \ \ \ \ \ \> ' <į( 'N
+\ %
+Patterns \
+/ » 0» / i / ‘ - ¡ ú I
+ŕ / P
+ao / Ä » ƒ „Л / d# / и / ^ Л ' ' # /
+^ /
+■"
+0у(\»даЧС ^ /
+~--^УУ У / siv~ «P у Working
+yjc^ Methods
+FIGURE 1 Phases of the developmental research cycle.
+collaboration must be evaluated in context and over time. (p.
+218)
+The third feature of Forman and McPhail’s (1993) approach
+was that discourse analysis can be used to examine
+participants’
+epistemological and affective dispositions toward collaborative
+problem solving. Their discourse should reflect their
+individual and shared understandings and feelings about the
+task setting, as well as the definitions of the activity that are
+provided by their particular cultural and historical situation,
+(pp. 218-219).
+Using this framework, Forman and McPhail (1993) examined
+the ways in which learners assist each other. Their work,
+which focused on dyads engaged in problem-solving activities,
+illustrated the complementary pattern of collaboration.
+The two students in the study, after initial differences on task
+definition, developed a division of labor based on areas of
+expertise reflected in specialized forms of discourse—scientific
+and mathematical. This study highlighted the need to
+develop joint perspectives over time to achieve shared goals.
+Forman and McPhail emphasized the role of mutuality and
+the use of specialized forms of discourse “to engage in logical
+arguments, to share ideas, and to work together in the pursuit
+of common goals” (p. 226). (This finding corresponds to our
+own; we found the importance of trust in the development of
+working methods in sustained collaboration.)
+A different pattern of collaboration was revealed in Moll
+and Whitmore’s (1993) study of a bilingual classroom in
+the southwestern United States in which reading and writing
+in two languages were integrated in project-oriented
+literacy activities. This study, using a sociocultural approach,
+examined the interactive and contextual character
+of cognitive change as students created and participated in
+communities of learners. The collaboration described by
+Moll and Whitmore (1993) exemplified the family pattern,
+with a fluidity of roles and a reliance on various areas of
+expertise from the students and the teacher in the joint
+construction of knowledge. Because the teachers and children
+were actively and mutually creating learning situations,
+the roles of both were flexible. The children often
+took the lead in shaping text-related discussions. The
+teacher’s roles included those of guide and supporter
+whose “guidance [was] purposely mediated, almost hidden,
+embedded in the activities”; participant in thematic
+research activities; evaluator of the students’ development;
+and facilitator and planner who organized “the environment,
+curriculum, and materials to provide functional and
+purposeful uses for language, literacy, and learning processes”
+(p. 38). At the same time the “children [had] consid
+A VYGOTSKIAN FRAMEWORK 201
+erable control of virtually all aspects of their own learning
+experiences.They select[ed] groups, reading materials, writing
+topics, theme topics, and language to use for each” (p. 38). Moll
+and Whitmore (1993) described a pattern of collaboration in
+which the development of trust among the participants was of
+central concern. These patterns of shared responsibilities in
+teaching and learning contribute to a broadened understanding
+of the zone of proximal development and help illustrate the
+emerging patterns of collaboration shown in Figure 1.
+Another example of the family pattern of collaboration is
+the afterschool program known as the Fifth Dimension, developed
+by Michael Cole, Peg Griffin, and their collaborators
+at the University of California, San Diego, which brings
+together children and adolescents, community institutions,
+undergraduate students, and researchers. It relies upon computer
+technology, collaborative learning, play, and imagination
+“within the framework of a shared and voluntarily accepted
+system of impersonal rules” (Nicolopoulou & Cole,
+1993, p. 293). Cole (1995) and his colleagues extended Vygotskian
+analyses of learning beyond the dyadic and small-
+group level to include an examination of different sites as
+institutional and cultural contexts for these activities. The
+success of the Fifth Dimension is based, in part, on the
+character of the collaboration, which includes a fluidity of
+roles across ages and areas of expertise. The integration of
+play and learning helps meet the shared goals and objectives
+of the program. This innovative, collaborative program contrasts
+with traditional models of education, which isolate
+teachers in their classrooms.
+Sociocultural research on collaboration also includes examination
+of the mutual dependence of teachers engaged in
+collective activity and dialogue in the process of curriculum
+innovation. Engeström (1994), in his study of teachers, found
+an additional benefit of collaboration research:
+One of the most persistent methodological difficulties of
+studying thinking has to do with access to online data from
+thought processes. When thinking is defined as a private,
+individual phenomenon only indirect data is accessible.
+Thinking embedded in collaborative practical activity must
+to a significant degree take the form of talk, gesture, use of
+artifacts, or some other publicly accessible mediational instrumentality;
+otherwise mutual formation of ideas would be
+rendered impossible. Collaborative thinking opens up access
+to direct data on thought processes, (p. 45)
+Teachers in traditional schools often do not have the opportunity
+to interact with colleagues, as did the teachers in the
+Engeström study, and thus have “limited opportunities for
+receiving assistance through modeling and feedback, two
+means of assistance crucial to acquisition of complex social
+repertoires . necessary to meet (he criterion of teaching-as-
+assisted-performance in the zone of proximal development”
+(Gallimore & Tharp, 1990, p. 201).
+A particularly powerful example of collaboration, and one
+that can inform our efforts at educational reform, was provided
+by Brazilian teachers who worked together with community
+activists to educate previously excluded populations
+(Souza Lima, 1995). Their local initiatives, broadened and
+strengthened through the use of the sociocultural theories of
+Vygotsky, Wallon, and Freire, were applied to citywide and
+broader reform efforts. Studies of teachers in dynamic interactions
+with other teachers, students, researchers, and reformers
+are important in the ongoing sociocultural research into
+collaboration and educational change.
+Spontaneous and Scientific Concepts
+In classrooms in which there is coparticipation, cooperative
+learning, and joint discovery, environments are created in
+which students are able to build upon the culturally shaped
+knowledge and value systems they bring to school. Vygotsky’s
+analysis of spontaneous and scientific concepts provides
+a foundation for examining how children learn before
+they enter school and how this knowledge relates to concepts
+learned at school.
+By spontaneous concepts Vygotsky meant concepts that are
+acquired by the child outside of the context of explicit instruction.
+In themselves these concepts are mostly taken from
+adults, but they never have been introduced to the child in a
+systematic fashion and no attempts have been made to connect
+them with other related concepts. Because Vygotsky
+explicitly acknowledged the role of adults in the formation of
+these so-called spontaneous concepts he preferred to call
+them “everyday” concepts, thus avoiding the idea that they
+had been spontaneously invented by the child. ... By “scientific”
+concepts Vygotsky meant concepts that had been explicitly
+introduced by a teacher at school. Ideally such concepts
+would cover the essential aspects of an area of
+knowledge and would be presented as a system of interrelated
+ideas, (van der Veer & Vlasiner, 1991, p. 270)
+Although Vygotsky (1986) discussed spontaneous and
+scientific concepts by highlighting their distinguishing characteristics,
+he recognized their interdependence. He wrote,
+We believe that the two processes—the develop ment of spontaneous
+and of nonspontaneous concepts—are related and
+constantly influence each other. They are parts of a single
+process: the development of concept formation which is
+affected by varying external and internal conditions but is
+essentially a unitary process, not a conflict of antagonistic,
+mutually exclusive forms of thinking, (p. 157)
+The social situatedness of concept formation was studied
+by Moll (1992), who used Vygotsky’s analysis to gain insight
+into providing effective education for linguistically and culturally
+diverse students:
+202 JOHN-STEINER AND MAHN
+One advantage [of a sociocultural approach] is that in studying
+human beings dynamically, within their social circumstances,
+in their full complexity, we gain a much more complete
+and ... a much more valid understanding of them. We
+also gain, particularly in the case of minority children, a more
+positive view of their capabilities and how our pedagogy
+often constrains, and just as often distorts, what they do and
+what they are capable of doing, (p. 239)
+Analyzing how students learn, as well as acknowledging
+and attempting to understand the culturally conditioned
+knowledge they bring to the classroom, can help lead to
+effective teaching. In an ethnographic study looking at how
+the knowledge that existed in Mexican American students’
+households could be used to bring about innovative instructional
+practice, Moll and Greenberg (1990) found a variety of
+“funds of knowledge” including knowledge “about different
+soils, tire cultivation of plants, and water management ...
+animal husbandry, veterinary medicine, ranch economy, and
+mechanics as well as carpentry, masonry, electrical wiring”
+(p. 323). They also found that this knowledge was socially
+distributed and that a reciprocal relation existed between
+everyday knowledge used to understand school material and
+classroom activities used to help students understand social
+reality. To facilitate this interaction, an afterschool lab was
+created “within which researchers, teachers, and students
+[met] to experiment with the teaching of literacy. We
+[thought] of this lab setting, following Vygotsky, as a ‘mediating’
+structure that facilitate[d] strategic connections, multiple
+paths, between classrooms and household” (p. 320). Without
+such mediating structures, investigations into discourse
+practices in school and home found that the variations between
+the two can lead to problems as students adjust to the
+requirements of formal education.
+In order to understand children in school settings, sociocultural
+approaches examine the development of language and
+the ways in which culturally different modes of discourse,
+both within and between cultures, shape children’s development
+and impact their educational experiences.
+From birth, the social forms of child-caretaker interactions,
+the tools used by humans in society to manipulate the environment,
+the culturally institutionalized patterns of social
+relations, and languageį operating together as a socio-semi-
+otic system, are used by the child in cooperation with adults
+to organize behavior, perception, memory, and complex mental
+processes. For children, the development of language is a
+development of social existence into individuated persons
+and into culture. (John-Steiner & Tatter, 1983, p. 83)
+The linguist Gee (1989) argued that “discourses are intimately
+related to the distribution of social power and hierarchical
+structure in society” (p. 20). The impact of different,
+culturally patterned modes of discourse is felt from the primary
+grades through higher education. Minnis (1994) examined
+the ways in which linguistically and culturally diverse
+students were at a disadvantage in law school when faced with
+the norms of a legal community indifferent to their culture,
+discourse, and values. She quoted a Chicana law student:
+The game is alien to your upbringing. It is a manipulation of
+words in a foreign tongue—words which mystify, manipulation
+which obscures your search for justice. You will fee! as
+if you don’t belong. ... Group learning was almost impossible.
+Most of my classmates were heartlessly competitive. ...
+If I were to call someone ambitious in English, it would be a
+compliment. If I were to say the same in Spanish, it would be
+an insult, (pp: 382-383)
+Studies of schooled discourses are of particular interest to
+contemporary students of education and development. Some
+of these discourses are empowering, as in the bilingual classroom
+studied by Moll and Whitmore (1993); others contribute
+to the oppression of the silenced (Belenky, Clinchy, Goldberger,
+& Tarule, 1986; Cazden, 1988, 1993; Freire, 1970). Gee
+(1991), drawing on research by Scribner and Cole (1981),
+Heath (1983), and others, identified sociocultural explanations
+of school failure: (a) discontinuities between the culture
+(values, attitudes, and beliefs) of the home and school; (b)
+mismatches in communicative practices between nonmainstream
+children and mainstream teachers, which lead to mis-
+communication and misjudgments; and (c) the internalization
+of negative slereotypes by minority groups who have been
+marginalized and often see school as a site for opposition and
+resistance. Children whose mode of discourse is different
+from that used in school instruction find themselves at a
+disadvantage and often drop out, or are forced out, of school.
+The ways in which children acquire language and construct
+knowledge in nonschool environments and the dynamic relation
+with what they are taught in school is maximally relevant
+to school learning. The conceptual and theoretical tool of
+spontaneous and scientific concepts provides particularly interesting
+applications and expansions in literacy acquisition.
+Literacy Acquisition
+Since the time when Vygotsky and the young Russian psychologists
+of the 1920s faced the social task of educating an
+overwhelmingly illiterate population following the tremendous
+upheavals that transformed the Soviet Union during the
+Russian Revolution of 1917, literacy acquisition has been a
+central concern of sociocultural theory. Forexample, Scribner
+and Cole (1981) built on Vygotsky’s examination of the role
+of literacy in the transformation of children’s learning when
+they enter school and analyzed the relation between literacy
+and cognitive development. They found that literacy can be
+acquired independently of schooling (particularly, schooling
+in the vast Western systems of education) and that literacy
+practices used in different contexts have specific effects on
+cognitive competencies. Their findings contrasted with more
+un i versal accounts of the relation between I iteracy and formal
+modes of thought (Olson, 1977).
+A VYGOTSKIAN FRAMEWORK 203
+Chang-Wells and Wells (1993) used Vygotsky’s work on
+both learning and development, and spontaneous and scientific
+concepts to examine three dimensions of change in mental
+functioning that can be ascribed to formal learning: intellectuali-
+zation of mental functions, bringing them under conscious and
+voluntary control; decontextualization, being able to detach a
+concept from the context in which it was first encountered; and
+a movement toward integration and systematization. They asserted
+that all these dimensions of cognitive change
+are dependent on literacy, when it is understood not simply
+as the encoding and decoding of written language or the use
+of written texts for functional purposes but as engaging with
+texts of all kinds in ways that exploit the symbolic representation
+of meaning as a means of empowering intrapersonal
+mental activity, (p. 61)
+Using this theoretical foundation, they analyzed the use of
+effective instructional discourse in two classrooms designed
+to present literacy instruction in the students’ zones of proximal
+development.
+To create an effective learning environment for literacy
+acquisition, Vygotsky (1978) wrote,
+Teaching should be organized in such a way that reading and
+writing are necessary for something. ... That writing should
+be meaningful... That writing be taught naturally ... and that
+the natural methods of teaching reading and writing involve
+appropriate operations on the child’s environment, (pp.
+117-118)
+These considerations influenced recent sociocultural approaches
+to literacy instruction for children and adults in
+school, at workplaces, and in after-school, home, and day care
+settings (Clay & Cazden, 1990; John-Steiner, Panofsky, &
+Smith, 1994; McNamee, 1990; Scribner & Cole, 1981; Ze-
+broski, 1994).
+Using a genetic approach to literacy acquisition, sociocultural
+theory examines the origins of both reading and writing.
+Panofsky ( 1994) studied the role of parent-child book reading
+in early literacy socialization, focusing on the functions and
+uses of language. She differentiated between representational
+and interactional functions of language, building upon Vygotsky’s
+distinctions. Illustrating the roles of scaffolding and the
+zone of proximal development, she noted “a shift in the use
+of functions from a predominance of parent initiations to a
+predominance of child initiations” (p. 239).
+Vygotsky (1978) considered early literacy experiences
+important in the acquisition process. He saw the origin of
+writing in a child’s gesture, which “is the initial visual sign
+that contains the child’s future writing as an acorn contains a
+future oak. Gestures, it has been correctly said, are writing in
+air, and written signs frequently are simply gestures that have
+been fixed” (p. 107). In the child’s development, there are two
+other domains in which gestures are linked to the origins of
+written language. The first is in scribbling and the dramatizations
+that often accompany it; the second is in the area of
+symbolic play, in which a child assigns meaning to an object
+through gesture. The varied sources of writing in children’s
+early years intrigued Vygotsky, who wrote of drawing and
+play as preparation to literacy. In a related vein, McLane
+(1990) found in a study of writing by children in an afterschool
+day care program thait “children will, with adult involvement
+and support, use writing as a resource for extending
+their interests in drawing, in pretend and exploratory play,
+and as a means of exploring and conducting social relationships”
+(p. 317).
+As a result of being read to and using a writing tool to
+inscribe a piece of paper, or often a wall, the child develops
+spontaneous concepts in the process of telling stories, acting
+out roles in imaginative play, or creating representations.
+When children begin formal schooling, they start with a
+foundation that is shaped by the nature of the interaction
+between caretaker and child, by literacy uses valued by a
+particular culture, by print in the environment, and by the
+child’s own activity in literacy events. The challenge is to
+value and build on what the child brings to the classroom. “By
+broadening both teachers’ and students’ views of students’
+backgrounds and existing knowledge, the unique experiences
+that students bring to school make an important contribution
+to the process of literacy acquisition” (Hiebert, 1991, p. 3). In
+a study of Latino households in California, Gallimore and
+Goldenberg (1993) identified meaningful settings, which provide
+literacy activities, such as letter writing, for novice
+learners of reading and writing. They focused on cultural
+experiences in everyday life and on the active participation of
+young learners in literacy events. If such a focus is not
+adopted, teachers will not be able to understand their students’
+attempts at literate ways of thinking (Langer, 1991), nor will
+they be able to provide the learning opportunities to facilitate
+literacy acquisition for all students.
+Such differences in language use in ethnically mixed classes
+often result in differential access to literacy experiences. ...
+Teachers often unknowingly exclude or reduce the time minority
+students participate in literacy activities because features
+of their discourse do not conform to teachers’ expectations
+or match their speaking style. (McCullom, 1991, pp.
+111-112)
+Understanding differences such as these are also important
+in teaching English to speakers of other languages. Sociocultural
+theory recognizes the need for cultural, cognitive, and
+attitudinal bridges between English as a Second Language
+(ESL) students and their new environment. The use of dialogue
+journals with elementary and secondary students, as
+well as with adults, has been found to be an effective technique
+to coconstruct knowledge by allowing ESL students to
+draw on their own experiences and develop their own voices
+in meaningful, interactive, written communication (Mahn,
+1992; Staton, Shuy, Peyton, & Reed, 1988).
+204 JOHN-STEINER AND MAHN
+In recent years there has been a critical réévaluation of the
+traditional methods of literacy instruction based on a single,
+universal timetable and on cross-cultural universality. Vygotsky’s
+advice about teaching literacy as a natural process is
+realized in whole language (Goodman, 1975; Goodman &
+Goodman, 1979) and process approaches to reading and writing
+(Calkins, 1986; Emig, 1971; Graves, 1983; Murray, 1985).
+Illese approaches view the interdependence of social and individual
+processes as a natural part of each student’s development
+(Scinto, 1986). Reading and writing are not structured as solitary
+acts, rather they develop in collaborative efforts in a community
+of learners (Zebroski, 1994). The core elements of these innovative
+approaches to literacy instruction draw from and are supported
+by sociocultural theory and research.
+The proponents and practitioners of such techniques and
+approaches, however, may not have ever heard of Vygotsky
+or of sociocultural approaches. Increasingly, however, teachers
+exposed to these ideas offer the sentiment that sociocultural
+theoretical perspectives provide the language for what they
+are doing in their classrooms. This shows both the limitations
+of and the promise for sociocultural approaches. Because this
+theory is complex and breaks radically from the traditional
+American educational model in which teachers were
+schooled, it is hard to appropriate. The tendency is to abstract
+parts of the theory from the whole, which results in distorted
+understandings and applications. As more educators become
+aware of the broad scope of sociocultural theory, they will
+develop practical applications that will broaden and strengthen
+this theoretical framework. Such a perspective offers exciting
+opportunities for researchers and teachers as we face the challenges
+of educating youth for the 21 st century.
+CONCLUSION
+A goal for sociocultural theorists is the sustained development
+of methodological approaches to educational and psychological
+research that focus on process and provide ways of documenting
+change and transformation. In this article we presented
+a sociocultural approach to learning and development
+and implications for classroom learning and teaching. An
+emerging theme in both theory and practice is the collaborative
+and transformative way in which knowledge is coconstructed.
+We focused on three central tenets from Vygotsky’s
+complex legacy—social sources of individual development,
+semiotic mediation, and genetic analysis—and presented an
+argument for viewing learning as distributed, interactive,
+contextual, and the result of the learners’ participation in a
+community of practice.
+Our aim was to weave together some of Vygotsky’s key
+ideas with pressing, contemporary concerns, particularly the
+need to shape educational institutions to deliver instruction
+that meets the needs of all students, especially the linguistically
+and culturally diverse who historically have been marginalized
+by traditional models of pedagogy. We believe a
+sociocultural point of view provides a deeper understanding
+of both the possibilities for and the problematic nature of
+educational reform. Because educational institutions are a
+part of and reflect the larger social system in which they are
+situated, a proposal for substantial reform would have to
+consider economic, political, historical, social, and cultural
+factors. Although such an analysis was not the intent of this
+article, we believe a concept we presented—the socially
+structured interdependence of teaching and research, theory
+construction, and educational intervention—provides a starting
+point for local reform initiatives, such as those in Brazil
+described previously.
+In the sociocultural framework, notions of community and
+participation were applied primarily to novice learners. The
+applications of these notions to adults to study the dynamics
+of collaboration and the interdependence of individual and
+social processes are areas for further practical and theoretical
+development. Social constructivist frameworks, although not
+necessarily contradictory to sociocultural ones, focus more on
+the possibilities for change within the individual child;
+whereas sociocultural theoretical perspectives, as they develop
+and are applied to educational systems, look at change
+at different levels of analysis and organization. Central to the
+task of educators and psychologists is conceiving of our work
+as a system rather than as a set of isolated activities. The
+sociocultural perspective can only thrive with the continued,
+and at times discordant, articulation of the many voices of this
+thought community.
+REFERENCES
+Bakhurst, D. (1995). On the social constitution of mind: Bruner, Ilyenkov,
+and the defence of cultural psychology. Mind, Culture, and Activity,
+2,158-171.
+Belenky, M. F., Clinchy, B. M., Goldberger, N. R., & Tarule, J. M. (1986).
+Women’s ways of knowing: The development of self, voice, and mind.
+New York: Basic Books.
+Brown, A. L. (1992). Design experiments: Theoretical and methodological
+challenges in creating complex interventions in classroom settings.
+Journal of the Learning Sciences, 2(2), 141-178.
+Brown, A. L„ Ash, D., Rutherford, M., Nakagawa, K., Gordon, A., &
+Campione, J. C. (1993). Distributed expertise in the classroom. In G.
+Salomon (Ed.), Distributed cognitions: Psychological and educational
+considerations (pp. 188-228). New York: Cambridge University
+Press.
+Bruner, J. (1962). Introduction. In L. S. Vygotsky, Thought and language
+(pp. v-x). Cambridge, MA: MIT Press.
+Calkins, L. M. (1986). The art of teaching writing. Portsmouth, NH: Heinemann.
+Cazden, C. (1988). Classroom discourse, Portsmouth, NH: Heinemann.
+Cazden, C. (1993). Vygotsky, Hymes. and Bakhtin: From word to utterance
+and voice. In E. A. Forman, N. Minick, & C. A. Stone (Eds.), Contexts
+for learning: Sociocultural dynamics in children’s development (pp.
+197-212). New York: Oxford University Press.
+Chang-Wells, G. L. M., & Wells, G. (1993). Dynamics of discourse:
+Literacy and the construction of knowledge. In E. A. Forman, N.
+Miniek, & C. A. Stone (Eds.). Contexts for learning: Sociocultural
+dynamics in children’s development (pp. 58-90). New York: Oxford
+University Press.
+Clay, M. M., & Cazden, C. B. (1990). A Vygotskian interpretation of Reading
+Recovery. In L. C. Moll (Ed.), Vygotsky and education: Instructional
+A VYGOTSKIAN FRAMEWORK 205
+implications of sociohistorical psychology (pp. 206-222). New York:
+Cambridge University Press.
+Cobb, P., Wood, T., & Yackel, E. (1993). Discourse, mathematical thinking,
+and classroom practice. In E. A. Forman, N. Minick, & C. A. Stone
+(Eds.), Contexts for learning: Sociocultural dynamics in children’s
+development (pp. 91-119). New York: Oxford University Press.
+Cole, M. (1990). Cognitive development and formal schooling: The evidence
+from cross-cultural research. In L. C. Moll (Ed.), Vygotsky and education:
+Instructional implications of sociohistorical psychology (pp.
+89-110). New York: Cambridge University Press.
+Cole, M. (1995). Cultural-historical psychology: A meso-genetic approach.
+In L. M. W. Martin, K. Nelson, & E. Tobach (Eds,), Sociocultural
+psychology: Theory and practice of doing and knowing (pp. 168-204).
+New York: Cambridge University Press.
+Cole, M. (1996). April 28 contribution to LISTSERV xmca@weber.ucsd.
+http://communication.ucsd.edu/MCA/Mail/Mail-april 96
+Cole, M., & Engeström, Y. (1993). A cultural-historical approach to distributed
+cognition. In G. Salomon (Ed.), Distributed cognitions: Psychological
+and educational considerations (pp. 1-46). New York: Cambridge
+University Press.
+Cole, M., & Scribner, S. (1974). Culture and thought: A psychological
+introduction. New York: Wiley.
+Cole, M., & Scribner, S. (1978). Introduction. In M. Cole, V. John-Steiner, S.
+Scribner, & E. Souberman (Eds.),Vygotsky, L. S., Mind in society: The
+development of higher psychological processes (pp. 1-16). Cambridge,
+MA: Harvard University Press.
+Damon, W„ & Phelps, E. (1989). Critical distinctions among three approaches
+to peer education. International Journal of Educational Research, 13,9-19.
+Diaz, R. M. (1992). Methodological concerns in the study of private speech.
+In R. M. Diaz & L. E. Berk (Eds.), Private speech: From social interaction
+to self-regulation (pp. 55-81). Hillsdale, NJ: Lawrence Erlbaum
+Associates, Inc.
+Emig, J. (1971). The composing processes of twelfth graders. Urbana, IL:
+National Council of Teachers of English.
+Engeström, Y. (1987). Learning by expanding. An activity-theoretical approach
+to developmental research. Helsinki, Finland: Orienta-Konsultit.
+Engeström, Y. (1990). Learning, working and imagining: Twelve studies in
+activity theory. Helsinki, Finland: Orienta-Konsultit.
+Engeström, Y. (1994). Teachers as collaborative thinkers: Activity-theoretical
+study of an innovative teacher team, in I. Carlgren, G. Handal, & S.
+Vaage (Eds,), Teachers' minds and actions: Research on teachers’
+thinking and, practice (43-61). Bristol, PA: Falmer.
+Falmagne, R. J. (1995). The abstract and the concrete. In L. M. W. Martin, K.
+Nelson, & B. Tobach (Eds.), Sociocultural psychology: Theory and
+practice of doing and knowing (pp. 205-228). New York: Cambridge
+University Press.
+Forman, E. A., & McPhail, J. (1993). Vygotskian perspective on children’s
+collaborative problem-solving activities. In E. A. Forman, N. Minick, & C.
+A. Stone (Eds.), Contexts for learning: Sociocultural dynamics in children ’s
+development (pp. 213-229). New York: Oxford University Press.
+Frauenglass, M. H., & Diaz, R. M. (1985). Self-regulatory functions of
+children’s private speech: A critical analysis of recent challenges to
+Vygotsky’s theory. Developmental Psychology, 21, 357-364.
+Freire, P. (1970). Pedagogy of the oppressed. New York: Continuum.
+Gallimore, R., & Goldenberg, C. (1993). Activity settings of early literacy:
+Home and school factors in children’s emergent literacy. In E. A. Forman,
+N. Minick, & C. A. Stone (Eds.), Contexts for learning: Sociocultural
+dynamics it; children’s development (pp. 315-335). New York: Oxford
+University Press.
+Gallimore, R., & Tharp, R. (1990). Teaching mind in society: Teaching,
+schooling, and literate discourse. In L, C. Moll (Ed.), Vygotsky and
+education: Instructional implications of sociohistorical psychology (pp.
+175-205). New York: Cambridge University Press.
+Gee, J. (1989). What is literacy? Journal (ftEducation, 171, 18-25.
+Gee, J. (1991). Socio-cultural approaches to literacy (literacies). Annual
+Review of Applied Linguistics, 12, 31—48.
+Gindis, B. (1995). The social/cultural implication of disability: Vygotsky’s
+paradigm for special education. Educational Psychologist,
+30, 77-82.
+Goodman, K. (1975). Acquiring literacy is natural: Who skilled Cock Robin? In
+F. Gollasch (Ed.), Language & literacy: The selected writings of Kenneth
+S. Goodman (Vol. 2, pp. 243-249). London: Routledge & Kegan Paul.
+Goodman, K., & Goodman, Y. (1979). Learning to read is natural. In L.
+Resnick & P. Weaver (Eds.), Theory and practice of early reading
+(Vol. 1, 137-154). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+Graves, D. H. (1983). Writing: Teachers & children at work. Portsmouth, NH:
+Heinemann.
+Heath, S. Bí. (1983). Ways with words: Language, life, and work in communities
+and classrooms. New York: Cambridge University Press.
+Hiebert, E. H. (1991). Introduction. In E. H. Hiebert (Ed.), Literacy for a
+diverse society: Perspectives, practices, and policies (pp. 1-6). New
+York: Teachers College Press.
+John-Steiner, V. (1985). Notebooks of the mind: Explorations in thinking. New
+York: Harper & Row.
+John-Steiner, V. (1991). Cognitive pluralism: A Whorfian analysis. In B.
+Spolsky & R. Cooper (Eds.), Festschrift in honor of Joshua Fishman’s
+65th birthday (pp. 61-74). The Hague, Netherlands: Mouton.
+John-Steiner, V. (1995). Cognitive pluralism: A sociocultural approach. Mind,
+Culture, and Activity, 2,2-10.
+John-Steiner, V. (1996, February). Creativity and collaboration in knowledge
+construction. Paper presented ait the National Council of Teachers of
+English Assembly on Research. Vygotsky Centennial: Vygotskian Perspectives
+on Literacy and Research, Chicago, IL.
+John-Steiner, V., & Österreich, H. (1975). Learning styles among Pueblo
+children (NIE Research Grant, Final Report). Albuquerque: University
+of New Mexico, Department of Educational Foundations.
+John-Steiner, V., & Panofsky, C. P. (1992). Narrative competence: Cross-cultural
+comparisons. Journal of Narrative and Life History, 2, 219-233.
+John-Steiner, V., Panofsky, C. P., & Smith, L. W. (1994). Sociocultural
+approaches to language and literacy: An interactionist perspective. New
+York: Cambridge University Press.
+John-Steiner, V., & Souberman, E. (1978). Afterword. In M. Cole, V. John-
+Steiner, S. Scribner, & E. Souberman (Eds.), Vygotsky, L. S., Mind in
+society: The development of higher psychological processes (120-133).
+Cambridge, MA: Harvard University Press.
+John-Steiner, V., & Tatter, P. (1983). An interactionist model of language
+development. In B. Bain (Ed.), The sociogenesis of language and human
+conduct (pp. 79-97). New York: Plenum.
+Jordan, C., Tharp, R. G., & Vogt, L. (1985). Compatibility of classroom and
+culture: General principles with Navajo and Hawaiian incidents. (Working
+paper). Honolulu, HI: Kamehameha Schools/Bishop Estate, Center
+for Development of Early Education.
+Kozulin, A. (1990). Vygotsky’s psychology: A biography of ideas. Brighton,
+UK: Harvester Wheatsheaf.
+Langer, J. A. (1991). Literacy and scfiooling: A sociocognitive perspective. In
+E. H. Hiebert (Ed.), Literacy for a diverse society: Perspectives, practices,
+and policies (pp. 7-27). New York: Teachers College Press.
+Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral
+participation. New York: Cambridge University Press.
+Leinhardt, G. (1996, April). Focusing on knowledge systems for teaching.
+Paper presented at the annual conference of the American Educational
+Research Association, New York.
+Lemke, J. L. (1995). Textual politics, discourse and social dynamics. London:
+Taylor & Francis.
+Leontiev, A. N. (1977). The dialectical method in the psychology of memory.
+Soviet Psychology, I, 53-69.
+Leontiev, A. N. (1978). Activity, consciousness, and personality. Englewood
+Cliffs, NJ: Prentice-Hall.
+Leontiev, A. N. (1981). Problems of the development of mind. Moscow:
+Progress Publishers.
+Luria, A. (1973). The working brain: An introduction to neuropsychology.
+New York: Basic Books.
+206 JOHN-STEINER AND MAHN
+Luna, A. (1979). The making of mind. Cambridge, MA: Harvard University
+Press.
+Mahn, H. (1992). ESL students and the reading and writing processes: An
+attitudinal profile. Unpublished master’s thesis, California State University,
+Los Angeles.
+McCulIom, P. (1991). Cross-cultural perspectives on classroom discourse
+and literacy. In E. H. Hiebert (Ed.), Literacy for a diverse society:
+Perspectives, practices, and policies (pp. 108-121). New York: Teachers
+College Press.
+McLane, J. B. (1990). Writing as a social process. In L. C. Moll (Ed.),
+Vygotsky and education: Instructional implications of sociohistorical
+psychology (pp. 304-318). New York: Cambridge University Press.
+McNamee, G. D. (1990). Learning to read and write in an inner-city
+setting: A longitudinal study of community change. In L. C. Moll
+(Ed.), Vygotsky and education: Instructional implications of sociohistorical
+psychology (pp. 287-302). New York: Cambridge University
+Press.
+Minnis, M. (1994). Towatd a definition of law school readiness, ln V.
+John-Steiner, C. P. Panofsky, & L. W. Smith (Eds.), Sociocultural
+approaches to language and literacy: An interactionist perspective (pp.
+347-390). New York: Cambridge University Press.
+Moll, L. C. (1992). Literacy research in community and classrooms: A
+sociocultural approach. In R. Beach, J. L. Green, M. L. Kamil, & T.
+Shanahan (Eds.), Multidisciplinary perspectives on literacy research
+(pp. 211-244). Urbana, IL: National Council of Teachers of English.
+Moll, L. C., & Greenberg: J. B. (1990). Creating zones of possibilities:
+Combining social contexts for instruction. InL. C. Moll (Ed.), Vygotsky
+and education: Instructional implications of sociohistorical psychology
+(pp. 319-348). New York: Cambridge University Press.
+Moll, L. C., & Whitmore, K. F. (1993). Vygotsky in classroom practice:
+Moving from individual transmission to social transaction. In E. A.
+Forman, N. Minick, & C. A. Stone (Eds.), Contexts for learning:
+Sociocultural dynamics in children’s development (pp. 19-42). New
+York: Oxford University Press.
+Murray D. M. ( 1985). A writer teaches writing. (2nd ed.). Boston: Houghton
+Mifflin.
+Newman, D., Griffin, P., & Cole, M. (1989). The construction zone: Working
+for cognitive change in schools. Cambridge, England: Cambridge University
+Press.
+Nicolopoulou, A., & Cole, M. (1993). Generation and transmission of shared
+knowledge in the culture of collaborative learning: The Fifth Dimension,
+its play-world, and its institutional contexts. In E. A. Forman, N.
+Minick, & C. A. Stone (Eds.), Contexts for learning: Sociocultural
+dynamics in children’s development (pp. 283-314). New York: Oxford
+University Press.
+Olson, D. ( 1977). From utterance to text: The bias of language in speech and
+writing. Harvard Education Review, 47,257-281.
+Packer, M. (1993). Away from internalization. In E. A. Forman, N. Minick, & C.
+A. Stone (Eds.), Contexts for learning: Sociocultural dynamics in children’s
+development (pp. 254-265). New York: Oxford University Press.
+Palincsar, A. M„ Brown, A. L., & Campione, J. C. (1993). First-grade
+dialogues for knowledge acquisition and use. In E. A. Forman, N.
+Minick, & C. A. Stone (Eds.), Contexts for learning: Sociocultural
+dynamics in children’s development (pp. 43-57). New York: Oxford
+University Press.
+Panofsky, C. P. (1994). Developing the representational functions of language:
+The role of parent-child book-reading activity. In V. John-Ste-
+iner, C. P. Panofsky, & L. W. Smith (Eds.), Sociocultural approaches
+to language and literacy: An interactionist perspective (pp. 223-242).
+New York: Cambridge University Press.
+Penuel, W. R., & Wertsch, J, V. (1995). Vygotsky and identity formation: A
+sociocultural approach. Educational Psychologist, 30, 83-92.
+Rogoff, Б. (1990). Apprenticeship in thinking. New York: Oxford University
+Press.
+Rogoff, В. (1991). Guidance and participation in spatial planning. In L. B.
+Resnick, J. M. Levine, & S. B. Teasley (Eds.), Perspectives on socially
+shared cognition (pp. 349-364). Washington, DC: American Psychological
+Association.
+Rogoff, В. (1994). Developing understanding of the idea of communities of
+learners. Mind, Culture, and Activity, 1, 209-229.
+Rogoff, В., Radziszewska, В., & Mastello, T. (1995). Analysis of developmental
+processes in sociocultural activity. In L. M. W. Martin, K.
+Nelson, & E. Tobach (Eds.), Sociocultural psychology: Theory and
+practice of doing and knowing ( p p . 125-149) . New York: Cambridge
+University Press.
+Scinto, L. F. M. (1986). Written language and psychological development.
+Orlando, FL: Academic.
+Scribner, S., & Cole, M. (1981 ). The psychology of literacy. Cambridge, MA:
+Harvard University Press.
+Slavin, R. E. G983). When does cooperative learning increase student
+achievement? Psychological Bulletin, 94, 429-445.
+Slavin, R. E. ( 1987). Developmental and motivational perspectives on cooperative
+learning: A reconciliation. Child Development, 58, 1161-1167.
+Souza Lima, E. (1995). Culture revisited: Vygotsky’s ideas in Brazil. Anthropology
+A Education Quarterly, 26, 443-458.
+Staton, J., Shuy, R., Peyton, J. K.. & Reed, L. (1988). Dialogue journal
+communication: Classroom, linguistic, social, and cognitive views.
+Norwood, NJ: Ablex.
+Tharp, R. G., & Gallimore, R. (1988). Rousing mitais to life: Teaching
+and learning in social context. New York: Cambridge University
+Press.
+Tobach, E. (1995). The uniqueness of human labor. In L. M. W. Martin, K.
+Nelson, & E. Tobach (Eds.), Sociocultural psychology: Thcoty and
+practice of doing and knowing (pp. 43-66). New York: Cambridge
+University Press.
+Tudge, J., & Rogofí, В. (1989). Peer influences on cognitive development:
+Piagetian and Vygotskian perspectives. In M. Bomstein & J. Bruner
+(Eds.), Interaction in human development (pp. 17-40). Hillsdale, NJ:
+Lawrence Erlbaum Associates, Inc.
+Vaisinei', J. (1987). Culture and the development of children’s action: A
+cultural-historical theory of development. Chichester, UK: Wiley.
+van der Veer, R„ & Voisiner, J. (1991). Understanding Vygotsky: A quest for
+synthesis. Cambridge, MA: Blackwell.
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological
+processes. (M. Cole, V. John-Steiner. S. Scribner, & E. Sohber-
+man, Eds.). Cambridge. MA: Harvard University Press.
+Vygotsky, L. S. (1981). The instrumental method in psychology. In J. V.
+Wertsch (Ed.), The concept of activity in Soviet psychology (pp.
+134-144). Arntonk, NY: Sharpe.
+Vygolsky, L. S. (1986). Thought and language. (A. Kozulin, Ed.). Cambridge,
+МА; MIT Press.
+Weber, R. J. (1992). Forks, phonographs, and hot air balloons. New York:
+Oxford University Press.
+Wertsch, J. V. (1985). Vygotsky and the socialformation of mind. Cambridge,
+MA: Harvard University Press.
+Wertsch. J. V. (1991). Voices of the mind: A sociocultural approach to
+mediated action. Cambridge, MA: Harvard University Press.
+Wertsch, .1. (1994). Mediated action in sociocultural studies. Mind, Culture,
+and Activity, 1,202-208.
+Wertsch, J. V., & Slone, C. A. (1985). The concept of internalization in
+Vygotsky's account of the genesis of higher mental functions. In J. V.
+Weitsch (Ed.), Culture, communication, and cognition: Vygotskian
+perspectives (pp. 162-179). New York: Cambridge University Press.
+Wood, D. J., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem
+solving. Journal of Child Psychology and Psychiatry, 17(2), 89-100.
+Zebroski, J. T. ( 1994). Thinking through theory: Vygotskian perspectives on
+the leaching of writing. Portsmouth. NH: Heinemann.
+Zukow-Goldring. P.. & Ferko, K. R. (1994). An ecological approach to the
+emergence of the lexicon: Socializing attention. In V. John-Steiner, C.
+P. Panoľsky. & L. W. Smith (Ees.), Sociocultural approaches to language
+and literacy: An interactionist perspective (pp. 170-190). New
+York1 Cambridge University Press.
+Copyright of Educational Psychologist is the property of Taylor & Francis Ltd and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
