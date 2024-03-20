@@ -1,32 +1,3 @@
-MIND IN SOCIETY
-The Development
-of Higher
-Psychological Processes
-Portratt of L. S. Vygotsky at age 35
-í Ý U Į ĹCC č fi Ita.Cjfj J, .
-ишйь (juftų ƒ
-f*<-J iLéuU ‘j/H o-jf£ fa’ (COOU.
-c f* cti fjcíid / /С AJ fH~
-^ouih ca fJL l$a.íf ¡‘ Ц t<t
-’ *
-/с it i-C j-Ć AMt ^ (л £
-hv jéx (Lpcnujij^ ØjCt* К
-(fS~lÅA.(j bAíAãAaA cA-fcfóCą^^
-A ¿U. fa. vi. СХШ .
-/{<Clte i^e^ł ïcfbbUy UĄ
-ß-i/iUj*€ cp'K p уаж ■
-J
-/ k'а X J(X^A>Uoftap
-e n
-Oi k.jtAA f\J) JUA/UpU.
-£*Ţ_ ■ łiŁf£*£ Si "“Q j $t~
-ΰ.
-Ζ. Åfa^ xASxfoÅifl
-lu>ų aa Ąó ffu· A^uio
-¡fu
-J. Å'¿LA /ukfyv^ Ψ“Γ*^*Γ·
-hßySSi~< ca/a&v Sjø
-UfdL) S2J A
 Fragment of Vygotsky’s note
 first suggesting mediation as the
 basis of higher psychological
@@ -37,14 +8,20 @@ of two stimuli, which differentially
 determine behavior; from
 this results the mastery of one’s
 own psychological operations.
+
+
 Always assuming two stimuli, we
 must answer the following
 questions: 1. How does one
 remember stimulus Si with the
 aid of stimulus S2 ( where Si is
 the object and S2 is the instrument).
+
+
 2. How is attention
 directed to Si with the aid of S2.
+
+
 3. How is a word associated
 with Si retrieved via S2 and
 L. S. VYGOTSKY
@@ -65,10 +42,18 @@ Printed in the United States of America
 20 19 18 17 16 15 14
 Library of Congress Cataloging in Publication Data
 Vygotskn, Lev Semenovich, 1896-1934.
+
+
 Mind in society.
 Includes index.
+
+
 1. Cognition. 2. Cognition in children.
+
+
 I. Cole, Michael, 1938- II. Title.
+
+
 BF311.V93 1978 155.4Ί3 77-26023
 ISBN 0-674-57629-2 (paper)
 To the memory of
@@ -91,10 +76,14 @@ and Language. Furthermore, we came to believe that the image of
 Vygotsky as a sort of early neobehaviorist of cognitive development—an
 impression held by many of our colleagues—was strongly belied by these
 two works.
+
+
 We have constructed the first four chapters of this volume from
 “Tool and Symbol.” The fifth chapter summarizes the major theoretical
 and methodological points made in “Tool and Symbol” and applies them
 to a classic problem in cognitive psychology, the nature of choice reaction.
+
+
 This chapter was taken from section 3 of The History of the Development
 of Higher Psychological Functions. Chapters 6 and 8 (learning
 and development, and the developmental precursors of writing) are
@@ -106,6 +95,8 @@ on play, is based on a lecture delivered at the Leningrad Pedagogical
 Institute in 1933 and published in Voprosi Psikhologii (Problems of Psychology)
 in 1966. Complete references are given in the list of Vygotsky’s
 works that follows the text of this volume.
+
+
 At several places we have inserted material from additional sources
 in order to more fully explicate the meaning of the text. In most cases
 these importations are from sections of The History of the Development
@@ -116,7 +107,11 @@ from the work of Vygotsky’s students or collaborators which provide
 concrete examples of experimental procedures or results which the original
 text describes with extreme brevity. References to these sources are
 given in the notes.
+
+
 In putting separate essays together we have taken significant liberties.
+
+
 The reader will encounter here not a literal translation of Vygotsky
 but rather our edited translation of Vygotsky, from which we have
 omitted material that seemed redundant and to which we have added
@@ -135,6 +130,8 @@ respects. We realize that in tampering with the original we may have
 distorted history; however, we hope that by stating our procedures and
 by adhering as closely as possible to the principles and content of the
 work, we have not distorted Vygotsky’s meaning.
+
+
 We owe a special debt to the late Alexander R. Luria for providing
 an initial translation of much of the material included in chapters 1-5,
 for tirelessly tracking down references and expanding upon details of
@@ -142,10 +139,16 @@ experiments, and for reading our manuscript. Chapters 6 and 7 were
 translated by Martin Lopez-Morillas. Chapter 5 and parts of chapters
 1-5 were translated by Michael Cole. We wish to thank James Wertsch
 for his assistance in translating and interpreting especially difficult passages.
+
+
 Editora’ Proface
 The editing ot these writings has occupied us for several years.
+
+
 Working in separate locations, educated in differing intellectual traditions,
 each team of editors found certain material of special interest.
+
+
 Since there is not one but many issues to be illuminated by such a complex
 body of thought, we have written two essays reflecting various
 aspects of "reading Vygotsky.”
@@ -184,9 +187,13 @@ to build. The architect not only changes the form given to him by
 nature, within the constraints imposed by nature, he also carries out
 а рифове of his own which defines the means and the character of
 the activity to which he must subordinate his will.
+
+
 Karl Marx, Capital
 It is precisely the alteration of nature by men, not nature as such,
 which is the most essential and immediate basis of human thought.
+
+
 Friedrich Engels, Dialectics of Nature
 Introduction
 MICHAEL COLE AND SYLVIA SCRIBNER
@@ -206,6 +213,8 @@ Russia. These essays are certainly of interest from the perspective of
 intellectual history, but they are not historical relics. Rather, we offer
 them as a contribution to quandaries and discussions in contemporary
 psychology.
+
+
 In order to understand how the ideas in this volume can retain their
 relevance across the reaches of time and culture that separate us from
 Vygotsky, we have repeatedly found ourselves reflecting upon the state
@@ -215,6 +224,8 @@ psychology and society in postrevolutionary Russia, since they were the
 source of the immediate problems facing Vygotsky as well as a source
 of inspiration as he and his colleagues sought to develop a Marxist
 theory of human intellectual functioning.
+
+
 1
 Introduction
 2
@@ -233,6 +244,8 @@ side budged from its armchair. Both of these philosophical traditions
 were operating under the assumption, dating from the work of René
 Descartes, that the scientific study of man could apply only to his
 physical body. To philosophy was assigned the study of his soul.
+
+
 While the conflict between these two approaches reaches down to
 the present day, in the 1860s the terms of this discussion were changed
 irrevocably by the almost simultaneous publication of three books. Most
@@ -264,6 +277,8 @@ study of bumans. The tsar’s censor seemed to understand the revolutionary,
 materialist implications of Sechenov’s thesis; he banned publication
 of the book for as long as he could. When the book appeared, it
 bore a dedication to Charles Darwin.
+
+
 These books by Darwin, Fechner, and Sechenov can be viewed as
 essential constituents of psychological thought at the end of the nineteenth
 century. Darwin linked animals and humans in a single conceptual
@@ -280,7 +295,11 @@ relationships between animal and human behavior? Environmental
 and mental events? Physiological and psychological processes? Various
 schools of psychology attacked one or another of these questions,
 providing partial answers within theoretically limited perspectives.
+
+
 The first such school was established by Wilhelm Wundt in 1880.
+
+
 Wundt took as his task the description of the contents of human consciousness
 and their relation to external stimulation. His method consisted
 of analyzing various states of consciousness into their constituent
@@ -292,14 +311,20 @@ to be “nothing more than” the by-product of faulty methods of observation
 complex mental functions, or as they were then known, “higher psychological
 processes” (voluntary remembering and deductive reasoning, for
 example), could not in principle be studied by experimental psychologists.
+
+
 They could only be investigated, he maintained, by historical
 studies of cultural products such as folktales, customs, and language.
+
+
 By the beginning of World War I introspective studies of human
 conscious processes came under attack from two directions. In the
 United States and Russia psychologists discontented with the controversies
 surrounding the correct introspective descriptions of sensations,
 and with the sterility of the research this position had produced, renounced
 the study of consciousness in favor of the study of behavior.
+
+
 Exploiting the potential suggested by Pavlov’s study of conditioned
 Introduction
 4
@@ -325,9 +350,13 @@ either the basic elements of consciousness postulated by Wundt or
 simple stimulus-response theories of behavior. The Gestalt psychologists
 rejected, in principle, the possibility of accounting for complex processes
 in terms of simple ones.
+
+
 Such, in great brevity, was the situation in European psychology
 when Vygotsky first appeared on the scene. The situation was not very
 different in Russia.
+
+
 POSTREVOLUTIONARY PSYCHOLOGY IN RUSSIA
 In the early decades of the twentieth century psychology in Russia,
 as in Europe, was torn between contending schools, each of which
@@ -349,6 +378,8 @@ idealistic basis of his psychological theory and for the restricted role he
 assigned to Marxism in psychology. Kornilov, who called his own approach
 reactology, sought to subsume all branches of psychology within
 a Marxist framework that used behavioral reactions as the basic data.
+
+
 Kornilov s critique of Chelpanov in 1923 won the day. Chelpanov
 was removed as director of the Institute of Psychology and was replaced
 by Kornilov, who immediately brought together a corps of young
@@ -369,6 +400,8 @@ human psychological processes. Borrowing a phrase from his German
 contemporaries, he often referred to the “crisis in psychology” and set
 himself the task of achieving a synthesis of contending views on a
 completely new theoretical basis.
+
+
 For Vygotsky’s Gestalt contemporaries, a crisis existed because
 established theories (primarily Wundt’s and Watsonian behaviorism)
 could not, in their view, explain complex perceptual and problem-
@@ -382,6 +415,8 @@ crisis would still exist because psychology would remain split into two
 irreconcilable halves: a “natural science” branch that could explain
 elementary sensory and reflex processes, and a “mental science” half
 that could describe emergent properties of higher psychological processes.
+
+
 What Vygotsky sought was a comprehensive approach that
 would make possible description and explanation of higher psychological
 functions in terms acceptable to natural science. To Vygotsky, explana-
@@ -396,6 +431,8 @@ the behavior developed. Vygotsky’s goals were extremely ambitious,
 perhaps unreasonably so. He did not achieve these goals (as he was well
 aware). But he did succeed in providing us with an astute and prescient
 analysis of modern psychology.
+
+
 A major reason for the continued relevance of Vygotsky’s work is
 that in 1924 and the following decade he constructed a penetrating
 critique of the notion that an understanding of the higher psychological
@@ -406,6 +443,8 @@ laws. At the same time he provided a devastating critique of theories
 which claim that the properties of adult intellectual functions arise from
 maturation alone, or are in any way preformed in the child and simply
 waiting for an opportunity to manifest themselves.
+
+
 In stressing the social origins of language and thinking, Vygotsky
 was following the lead of influential French sociologists, but to our
 knowledge he was the first modern psychologist to suggest the mechanisms
@@ -415,6 +454,8 @@ became an early advocate of combining experimental cognitive psychology
 with neurology and physiology. Finally, by claiming that all of
 these should be understood in terms of a Marxist theory of the history of
 human society, he laid the foundation for a unified behavioral science.
+
+
 MARXIST THEORETICAL FRAMEWORK
 Contrary to the stereotype of Soviet scholars scurrying to make
 their theories conform to the Politburo’s most recent interpretation of
@@ -423,6 +464,8 @@ resource from very early in his career. “A psychologically relevant
 application of dialectical and historical materialism” would be one
 accurate summary of Vygotsky’s sociocultural theory of higher mental
 processes.
+
+
 Vygotsky saw in the methods and principles of dialectical materialism
 a solution to key scientific paradoxes facing his contemporaries. A
 central tenet of this method is that all phenomena be studied as processes
@@ -433,6 +476,8 @@ the scientist’s task is to reconstruct the origin and course of development
 of behavior and consciousness. Not only does every phenomenon have
 its history, buř ŕhis history is characterized by changes both qualitative
 (changes in form and structure and basic characteristics) and quantitative.
+
+
 Vygotsky applied this line of reasoning to explain the transformation
 of elementary psychological processes into complex ones. The
 schism between natural scientific studies of elementary processes and
@@ -440,8 +485,12 @@ speculative reflection on cultural forms of behavior might be bridged
 by tracing the qualitative changes in behavior occuring in the course of
 development. Thus, when Vygotsky speaks of his approach as “developmental,”
 this is not to be confused with a theory of child development.
+
+
 The developmental method, in Vygotsky’s view, is the central method
 of psychological science.
+
+
 Marx’s theory of society (known as historical materialism) also
 played a fundamental role in Vygotsky’s thinking. According to Marx,
 historical changes in society and material life produce changes in
@@ -459,6 +508,8 @@ simply by his presence; man, by his changes, makes it serve his ends,
 masters it. This is the final, essential distinction between man and other
 animals” (p. 291). Vygotsky brilliantly extended this concept of mediation
 in human-environment interaction to the use of signs as well as tools.
+
+
 Like tool systems, sign systems (language, writing, number systems) are
 created by societies over the course of human history and change with
 the form of society and the level of its cultural development. Vygotsky
@@ -467,12 +518,16 @@ brings about behavioral transformations and forms the bridge between
 early and later forms of individual development. Thus for Vygotsky,
 in the tradition of Marx and Engels, the mechanism of individual
 developmental change is rooted in society and culture.
+
+
 In later chapters (especially chapter 5) Vygotsky generalizes his
 conception of the origin of higher psychological functions in a way that
 Introduction
 8
 reveals the close relationship between their fundamentally mediated
 nature and the dialectical, materialist conception of historical change.
+
+
 Citations of Marxist classics were sometimes used to excess by
 certain Soviet psychologists as they sought a means for building a Marxist
 psychology from the chaos of competing schools of thought. Yet
@@ -483,12 +538,16 @@ building in psychology:
 I don’t want to discover the nature of mind by patching together a lot of
 quotations. I want to find out how science has to be built, to approach
 the study of the mind having learned the whole of Marx’s method.
+
+
 ... In order to create such an enabling theory-method in the generally
 accepted scientific manner, it is necessary to discover the essence of
 the given area of phenomena, the laws according to which they change,
 their qualitative and quantitative characteristics, their causes. It is
 necessary to formulate the categories and concepts that are specifically
 relevant to them—in other words, to create one’s own Capital.
+
+
 The whole of Capital is written according to the following method: Marx
 analyzes a single living “cell” of capitalist society—for example, the
 natine of value. Within this cell he discovers the structure of the entire
@@ -501,9 +560,13 @@ the key to psychology as a whole, [from unpublished notebooks]
 A careful reading of this manuscript provides convincing proof of
 both Vygotsky’s sincerity and the fruitfulness of the framework he
 developed.
+
+
 THE INTELLECTUAL AND SOCIAL SETTING
 Developmental and historical approaches to the study of human
 nature were not unique to Vygotsky in the Soviet Union in the 1920s.
+
+
 Within psychology, an older colleague, P. P. Blonsky, had already
 adopted the position that an understanding of complex mental functions
 requires developmental analysis.3 From Blonsky Vygotsky adopted the
@@ -511,6 +574,8 @@ notion that “behavior can be understood only as the history of behavior.”
 Blonsky was also an early advocate of the view that the technological
 activities of people were a key to understanding their psychological
 makeup, a view that Vygotsky exploited in great detail.
+
+
 Introduction
 9
 Vygotsky and many other Soviet theorists of the day were ako
@@ -520,8 +585,12 @@ in the history of mental processes as reconstructed from anthropological
 evidence of the intellectual activity of primitive peoples. The scant
 references in this book are a pale reflection of the extent of Vygotsky’s
 interest in the development of mental processes understood historically.
+
+
 This aspect of his work received special attention in a publication
 titled Studies in the History of Behavior published jointly with A. R.
+
+
 Luria in 1930. It served as the impetus for Luria’s two expeditions to
 Central Asia in .1931 and 1932, the results of which were published
 long after Vygotsky’s death.5
@@ -530,6 +599,8 @@ where interest centered on the problem of the origin of language and its
 influence on the development of thought. Discussions in linguistics dealt
 with concepts similar to Vygotsky’s and also similar to the work of Sapir
 and Whorf, who were then becoming influential in the United States.
+
+
 While an acquaintance with academic issues of the 1930s is helpful
 to understanding Vygotsky’s approach to human cognition, a consideration
 of sociopolitical conditions during this time in the Soviet Union is
@@ -553,6 +624,8 @@ treatment and remediation. Thus, it was consistent with his general
 theoretical view that his work should be carried out in a society that
 sought the elimination of illiteracy and the founding of educational
 programs to maximize the potential of individual children.
+
+
 Vygotsky’s participation in the debates surrounding the formulation
 Introduction
 10
@@ -562,6 +635,8 @@ policy were intricately intertwined, as different groups vied for the
 right to represent psychology. With Kornilov s ouster from the Institute
 of Psychology in 1930, Vygotsky and his students were for a brief time in
 the ascendancy, but he was never recognized as the official leader.
+
+
 In the years just prior to his death Vygotsky lectured and wrote
 extensively on problems of education, often using the term “pedology,”
 which roughly translates as “educational psychology.” In general
@@ -576,9 +651,13 @@ nonindustrialized sections of central Asia) had not yet developed the
 intellectual capacities associated with modern civilization. Two years
 following his death the Central Committee of the Communist Party
 issued a decree halting all psychological testing in the Soviet Union.
+
+
 At the same time all leading psychological journals ceased publication
 for almost twenty years. A period of intellectual ferment and experimentation
 was at an end.
+
+
 But by no means did Vygotsky’s ideas die with him. Even before
 his death he and his students established a laboratory in Kharkov headed
 by A. N. Leontiev (currently Dean of the Psychology Faculty at Moscow
@@ -590,12 +669,16 @@ of Vygotsky’s former students hold leading positions in the Institute
 of Defectology and the Institute of Psychology within the Soviet Academy
 of Pedagogical Sciences, as well as university departments of psychology
 such as that at Moscow University.
+
+
 As inspection of any compendium of Soviet psychological research
 will show, Vygotsky continued and continues to influence research in
 a wide variety of basic and applied areas related to cognitive processes,
 their development and dissolution. His ideas have not gone unchallenged,
 even by his students, but they remain a living part of Soviet
 psychological thought.
+
+
 Introduction
 U
 VYGOTSKY’S USE OF THE EXPERIMENTAL METHOD
@@ -611,9 +694,13 @@ methodology of experimental psychology as practiced in most American
 laboratories may be inclined to withhold the term “experiment” from
 Vygotsky’s studies and consider them to be little more than interesting
 demonstrations or pilot studies. And so, in many respects, they were.
+
+
 We have found it useful to keep in mind the nature of the manuscripts
 that are the basis of this book. They do not constitute a report of
 a series of research studies from which general propositions are extrapolated.
+
+
 Rather, in these writings Vygotsky was concerned with presenting
 the basic principles of his theory and method. He drew upon the
 very limited pool of empirical work available to him in order to illustrate
@@ -635,6 +722,8 @@ they were conducted. Vygotsky’s concept of the experiment differed
 from that of American psychology, and understanding this difference is
 important for an appreciation of Vygotsky’s contribution to contemporary
 cognitive psychology.
+
+
 As every student of an introductory experimental course knows,
 the purpose of an experiment as conventionally presented is to deter-
 Introduction
@@ -648,14 +737,20 @@ provides the basis for comparison across experiments and for drawing
 inferences about cause-and-effect relationships. The experiment, in
 short, is designed to produce a certain performance under conditions
 that maximize its interpretability.
+
+
 For Vygotsky, the object of experimentation is quite different. The
 principles of his basic approach (presented in chapter 5 of this volume)
 do not stem from a purely methodological critique of established experimental
 practices; they flow from his theory of the nature of higher
 psychological processes and the task of scientific explanation in psychology.
+
+
 If higher psychological processes arise and undergo changes
 in the course of learning and development, psychology will only fully
 understand them by determining their origin and mapping their history.
+
+
 At first sight it would appear that such a task precludes the experimental
 method and requires study of individual behavior over long periods of
 time. But Vygotsky believed (and ingeniously demonstrated) that the
@@ -667,6 +762,8 @@ given function.” He called this method of investigation the “experimental-ge
 method, a term he shared with Heinz Werner, an outstanding
 contemporary whose developmental, comparative approach
 to psychology was well-known to Vygotsky.
+
+
 To serve as an effective means of studying “the course of development
 of process,” the experiment must provide maximum opportunity
 for the subject to engage in a variety of activities that can be observed,
@@ -692,6 +789,8 @@ is well illustrated in studies on writing (chapter 7), in which
 young toddlers were provided with pencil and paper and asked to make
 representations of events, thus disclosing to the investigator the child’s
 earliest understanding of the nature of graphic symbolism.
+
+
 With all these procedures the critical data furnished by the experiment
 is not performance level as such but the methods by which the performance
 is achieved. The contrast between conventional experimental
@@ -739,6 +838,8 @@ based on careful observation, will constitute an important part of
 experimental findings. To some, such findings may seem merely anecdotal;
 Vygotsky maintained that if carried out objectively and with
 scientific rigor, such observations have the status of validated fact.
+
+
 Another consequence of this new approach to experimentation is
 to break down some of the barriers that are traditionally erected between
 “laboratory” and “field.” Experimental interventions and observations
@@ -746,6 +847,8 @@ may often be as well or better executed in play, school, and
 clinical settings than in the psychologist’s laboratory. The sensitive observations
 and imaginative interventions reported in this book attest
 to this possibility.
+
+
 Finally, an experimental method that seeks to trace the history of
 the development of psychological functions sits more comfortably than
 the classical method alongside other methods in the social sciences concerned
@@ -754,6 +857,8 @@ well as the history of the child. To Vygotsky, anthropological and
 sociological studies were partners with observation and experiment in
 the grand enterprise of accounting for the progress of human conscious-,
 ness and intellect.
+
+
 Biographical Note on
 L. S. Vygotsky
 Lev Semyonovitch Vygotsky was bom November 5, 1896, in the
@@ -761,6 +866,8 @@ town of Orsha, northeast of Minsk in Byelorussia. In 1913 he completed
 gymnasium in Gomel with a gold medal. In 1917, after graduating from
 Moscow University with a specialization in literature, he began his
 literary research.
+
+
 From 1917 to 1923 Vygotsky taught literature ancfpsychology in a
 school in Gomel, where he also directed the theater section of the adult
 education center and gave many speeches and lectures on problems
@@ -770,6 +877,8 @@ reissued as The Psychology of Art. He also founded a psychological
 laboratory in the Teacher Training Institute, where he gave a course
 on psychology, the contents of which were later published in Pedagogical
 Psychology.
+
+
 In 1924 Vygotsky moved to Moscow and began to work first at the
 Institute of Psychology and then in the Institute of Defectology, which
 he founded. At the same time he directed a department for the education
@@ -780,6 +889,8 @@ State University (later the Moscow State Pedagogical Institute), and
 the Hertzen Pedagogical Institute in Leningrad. Between 1925 and 1934
 Vygotsky gathered around him a large group of young scientists working
 in the areas of psychology, defectology, and mental abnormality.
+
+
 An interest in medicine led Vygotsky simultaneously to undertake medical
 training, first in the medical institute in Moscow and later in Kharkov,
 15
@@ -789,6 +900,8 @@ where he gave a psychology course in the Ukrainian Psychoneurological
 Academy. Not long before his death Vygotsky was invited to head
 the department of psychology in the All-Union Institute of Experimental
 Medicine. He died of tuberculosis June 11, 1934.
+
+
 A. R. Luria
 Part One / Mind in Society
 Basic Theory
@@ -800,6 +913,8 @@ The primary purpose of this book is to characterize the uniquely
 human aspects of behavior, and to offer hypotheses about the way these
 traits have been formed in the course of human history and the way
 they develop over an individual’s lifetime.
+
+
 This analysis will be concerned with three fundamental issues: (1)
 What is the relation between human beings and their environment,
 both physical and social? (2) What new forms of activity were responsible
@@ -809,11 +924,15 @@ of activity? (3) What is the nature of the relationship between the use
 of tools and the development of speech? None of these questions has
 been fully treated by scholars concerned with understanding animal
 and human psychology.
+
+
 Karl Stumpf, a prominent German psychologist in the early years of
 the twentieth century, based his studies on a set of premises completely
 different from those I will employ here.1 He compared the study of
 children to the study of botany, and stressed the botanical character of
 development, which he associated with maturation of the whole organism.
+
+
 The fact is that maturation per se is a secondary factor in the development
 of the most complex, unique forms of human behavior. The
 development of these behaviors is characterized by complicated, qualitative
@@ -829,6 +948,8 @@ botanical analogy in our description of child development (for example,
 we say that the early education of children takes place in a “kindergarten”).2
 Recently several psychologists have suggested that this botanical
 model must be abandoned.
+
+
 In response to this kind of criticism, modem psychology has
 ascended the ladder of science by adopting zoological models as the
 basis for a new general approach to understanding the development of
@@ -839,19 +960,27 @@ questions about children are sought in experiments carried out on
 animals. Both the results of experiments with animals and the procedures
 used to obtain these results are finding their way from the
 animal laboratory into the nursery.
+
+
 This convergence of child and animal psychology has contributed
 significantly to the study of the biological basis of human behavior.
+
+
 Many links between child and animal behavior, particularly in the
 study of elementary psychological processes, have been established. But
 a paradox has now emerged. When the botanical model was fashionable,
 psychologists emphasized the unique character of higher psychological
 functions and the difficulty of studying them by experimental means.
+
+
 But this zoological approach to the higher intellectual processes—those
 processes that are uniquely human—has led psychologists to interpret
 the higher intellectual functions as a direct continuation of corresponding
 processes in animals. This style of theorizing is particularly apparent
 in the analysis of practical intelligence in children, the most important
 aspect of which concerns the child’s use of tools.
+
+
 PRACTICAL INTELLIGENCE IN ANIMALS
 AND CHILDREN
 The work of Wolfgang Köhler is particularly significant in the study
@@ -861,6 +990,8 @@ of chimpanzees’ behavior with particular kinds of responses in
 children. This direct analogy between practical intelligence in the child
 and similar response by apes became the guiding principle of experimental
 work in the field.
+
+
 K. Buhler’s research also sought to establish similarities between
 child and ape.4 He studied the way in which young children grasp ob-
 Tool and Symbol in Child Development
@@ -881,18 +1012,26 @@ between the child and apes, they also led Buhler to the important discovery,
 which will be explicated in later sections, that the beginnings
 of practical intelligence in the child (he termed it “technical thinking”),
 as well as the actions of the chimpanzee, are independent of speech.
+
+
 Charlotte Buhler’s detailed observations of infants during their
 first year of life gave further support to this conclusion.® She found the
 first manifestations of practical intelligence took place at the very
 young age of six months. However, it is not only tool use that develops
 at this point in a child’s history but also systematic movement and
 perception, the brain and hands—in fact, the child’s entire organism.
+
+
 Consequently, the child’s system of activity is determined at each specific
 stage both by the chilďs degree of organic development and by his or
 her degree of mastery in the use of tools.
+
+
 K. Buhler established the developmentally important principle that
 the beginnings of intelligent speech are preceded by technical thinking,
 and technical thinking comprises the initial phase of cognitive development.
+
+
 His lead in emphasizing the chimpanzee-like features of children’s
 behavior has been followed by many others. It is in extrapolating this
 idea that the dangers of zoological models and analogies between human
@@ -912,6 +1051,8 @@ month-old child remains intact throughout her lifetime. This analysis
 postulating the independence of intelligent action from speech runs
 contrary to our own findings, which reveal the integration of speech
 and practical thinking in the course of development.
+
+
 Shapiro and Gerke offer an important analysis of the development
 of practical thinking in children based upon experiments modeled after
 Kohler’s problem-solving studies with chimpanzees.8 They theorize
@@ -928,6 +1069,8 @@ more experienced, acquires a greater number of models that
 she understands. These models represent, as it were, a refined cumulative
 design of all similar actions; at the same time, they are also a rough
 blueprint for possible types of action in the future.
+
+
 However, Shapiro and Gerke’s notion of adaptation is too firmly
 linked to a mechanical conception of repetition. For them, social experience
 serves only to furnish the child with motor schemas; they do
@@ -941,6 +1084,8 @@ a bridge leading to past experience but to a purely social adaptation
 which is achieved via the experimenter.” This analysis does not allow
 for the contribution speech makes to the development of a new structural
 organization of practical activity.
+
+
 Guillaume and Meyerson offer a different conclusion regarding the
 role of speech in the inception of uniquely human forms of behavior.9
 From their extremely interesting experiments on tool use among apes,
@@ -954,16 +1099,24 @@ speech plays an essential role in the organization of higher psychological
 functions.10
 These experimental examples bring us full circle to the beginning
 of our review of psychological theories regarding child development.
+
+
 Buhlers experiments indicate that the practical activity of the young
 child prior to speech development is identical to that of the ape, and
 Guillaume and Meyerson suggest that the ape’s behavior is akin to that
 observed in people who are deprived of speech. Both of these lines of
 work focus our attention on the importance of understanding the practical
 activity of children at the age when they are just beginning to speak.
+
+
 My own work as well as that of my collaborators is directed at these
 same problems. But our premises differ from those of previous investigators.
+
+
 Our primary concern is to describe and specify the development
 of those forms of practical intelligence that are specifically human.
+
+
 RELATION BETWEEN SPEECH AND TOOL USE
 In his classic experiments with apes Köhler demonstrated the
 futility of attempting to develop even the most elementary sign and
@@ -972,12 +1125,16 @@ apes is independent of symbolic activity. Further attempts to cultivate
 productive speech in the ape have also produced negative results. These
 experiments showed once more that the purposive behavior of the animal
 is independent of any speech or sign-using activity.
+
+
 The study of tool use in isolation from sign use is common in research
 work on the natural history of practical intellect, and psychologists
 who studied the development of symbolic processes in the child
 have followed the same procedure. Consequently, the origin and development
 of speech, as well as all other sign-using activity, were treated
 as independent of the organization of the child’s practical activity.
+
+
 Psychologists preferred to study the development of sign use as an
 example of pure intellect and not as the product of the child’s developmental
 history. They often attributed sign use to the child’s spontaneous
@@ -993,14 +1150,20 @@ Mind. m Society
 sumed that the child’s mind contains all stages of future intellectual
 development; they exist in complete form, awaiting the proper moment
 to emerge.
+
+
 Not only were speech and practical intelligence assumed to have
 different origins, but their joint participation in common operations
 was considered to be of no basic psychological importance (as in the
 work of Shapiro and Gerke). Even when speech and the use of tools
 were closely linked in one operation, they were still studied as separate
 processes belonging to two completely different classes of phenomena.
+
+
 At best, their simultaneous occurrence was considered a consequence
 of accidental, external factors.
+
+
 The students of practical intelligence as well as those who study
 speech development often fail to recognize the interweaving of these
 two functions. Consequently, the children’s adaptive behavior and sign-
@@ -1009,12 +1172,18 @@ Piaget’s concept of “egocentric” speech.12 He did not attribute an
 important role to speech in the organization of the child’s activities,
 nor did he stress its communicative functions, although he was obliged
 to admit its practical importance.
+
+
 Although practical intelligence and sign use can operate independently
 of each other in young children, the dialectical unity of these
 systems in the human adult is the very essence of complex human behavior.
+
+
 Our analysis accords symbolic activity a specific organizing
 function that penetrates the process of tool use and produces fundamentally
 new forms of behavior.
+
+
 SOCIAL INTERACTION AND THE TRANSFORMATION
 OF PRACTICAL ACTIVITY
 Based on the discussion in the previous section, and illustrated by
@@ -1023,24 +1192,34 @@ be made: the most significant moment in the course of intellectual development,
 which gives birth to the purely human forms of practical
 and abstract intelligence, occurs when speech and practical activity,
 two previously completely independent lines of development, converge.
+
+
 Although children s use of tools during their preverbal period is comparable
 to that of apes, as soon as speech and the use of signs are
 incorporated into any action, the action becomes transformed and organized
 along entirely new lines. The specifically human use of tools is
 thus realized, going beyond the more limited use of tools possible among
 the higher animals.
+
+
 Tool and Symbol in Child Development
 25
 Prior to mastering his own behavior, the child begins to master his
 surroundings with the help of speech. This produces new relations with
 the environment in addition to the new organization of behavior itself.
+
+
 The creation of these uniquely human forms of behavior later produce
 the intellect and become the basis of productive work: the specifically
 human form of the use of tools.
+
+
 Observations of children in an experimental situation similar to
 that of Köhlers apes show that the children not only act in attempting
 to achieve a goal but also speak. As a rule this speech arises spontaneously
 and continues almost without interruption throughout the experiment.
+
+
 It increases and is more persistent every time the situation becomes
 more complicated and the goal more difficult to attain. Attempts
 to block it (as the experiments of my collaborator R. E. Levina have
@@ -1053,6 +1232,8 @@ speech began to manifest itself as part of her active striving. At first
 this speech consisted of a description and analysis of the situation, but
 it gradually took on a “planful” character, reflecting possible paths to
 solution of the problem. Finally, it was included as part of the solution.
+
+
 For example, a four-and-a-half-year-old girl was asked to get candy
 from a cupboard with a stool and a stick as possible tools. Levina’s
 description reads as follows: (Stands on a stool, quietly looking, feeling
@@ -1071,6 +1252,8 @@ facts:
 the goal. Children not only speak about what they are doing; their
 speech and action are part of one and the same complex psychological
 function, directed toward the solution of the problem at hand.
+
+
 (2) The more complex the action demanded by the situation and
 Mind in Society
 26
@@ -1078,12 +1261,16 @@ the less direct its solution, the greater the importance played by speech
 in the operation as a whole. Sometimes speech becomes of such vital
 importance that, if not permitted to use it, young children cannot accomplish
 the given task.
+
+
 These observations lead me to the conclusion that children solve
 practical tasks with the help of their speech, as well as their eyes and
 hands. This unity of perception, speech, and action, which ultimately
 produces internalization of the visual field, constitutes the central subject
 matter for any analysis of the origin of uniquely human forms of
 behavior.
+
+
 To develop the first of these two points, we must ask: What is it that
 really distinguishes the actions of the speaking child from the actions
 of an ape when solving practical problems?
@@ -1093,6 +1280,8 @@ from the structure of the concrete, visual situation. Children, with the
 aid of speech, create greater possibilities than apes can accomplish
 through action. One important manifestation of this greater flexibility
 is that the child is able to ignore the direct line between actor and goal.
+
+
 Instead, he engages in a number of preliminary acts, using what we
 speak of as instrumental, or mediated (indirect), methods. In the process
 of solving a task the child is able to include stimuli that do not lie within
@@ -1101,20 +1290,28 @@ create a specific plan, the child achieves a much broader range of
 activity, applying as tools not only those objects that lie near at hand,
 but searching for and preparing such stimuli as can be useful in the
 solution of the task, and planning future actions.
+
+
 Second, the practical operations of a child who can speak become
 much less impulsive and spontaneous than those of the ape. The ape
 typically makes a series of uncontrolled attempts to solve the given
 problem. In contrast, the child who uses speech divides the activity into
 two consecutive parts. She plans how to solve the problem through
 speech and then carries out the prepared solution through overt activity.
+
+
 Direct manipulation is replaced by a complex psychological
 process through which inner motivation and intentions, postponed in
 time, stimulate their own development and realization. This new kind
 of psychological structure is absent in apes, even in rudimentary forms.
+
+
 Finally, it is decisively important that speech not only facilitates the
 child's effective manipulation of objects but also controls the chilďs own
 behavior. Thus, with the help of speech children, unlike apes, acquire
 the capacity to be both the subjects and objects of their own behavior.
+
+
 Tool and Symbol m Child Development
 27
 Experimental investigation of the egocentric speech of children engaged
@@ -1127,6 +1324,8 @@ hypothesis that children’s egocentric speech should be regarded as
 the transitional form between external and internal speech. Functionally,
 egocentric speech is the basis for inner speech, while in its external
 form it is embedded in communicative speech.
+
+
 One way to increase the production of egocentric speech is to
 complicate a task in such a way that the child cannot make direct use of
 tools for its solution. When faced with such a challenge, the children’s
@@ -1137,9 +1336,13 @@ and socialized speech. This is best seen when the experimenter
 leaves the room or fails to answer the children’s appeals for help. Upon
 being deprived of the opportunity to engage in social speech, children
 immediately switch over to egocentric speech.
+
+
 While the interrelationship of these two functions of language is
 apparent in this setting, it is important to remember that egocentric
 speech is linked to children’s social speech by many transitional forms.
+
+
 The first significant illustration of the link between these two language
 functions occurs when children find that they are unable to solve a problem
 by themselves. They then turn to an adult, and verbally describe the
@@ -1147,14 +1350,20 @@ method that they cannot carry out by themselves. The greatest change
 in children’s capacity to use language as a problem-solving tool takes
 place somewhat later in their development, when socialized speech
 (which has previously been used to address an adult) is turned inward.
+
+
 Instead of appealing to the adult, children appeal to themselves; language
 thus takes on an intrapersonal function in addition to its interpersonal
 use. When children develop a method of behavior for guiding
 themselves that had previously been used in relation to another
 person, when they organize their own activities according to a social
 form of behavior, they succeed in applying a social attitude to themselves.
+
+
 The history of the process of the internalization of social speech
 is also the history of the socialization of children’s practical intellect.
+
+
 The relation between speech and action is a dynamic one in the
 course of children’s development. The structural relation can shift even
 during an experiment. The crucial change occurs as follows: At an
@@ -1165,6 +1374,8 @@ vicissitudes of problem solving in a disrupted and chaotic form. At
 a later stage speech moves more and more toward the starting point of
 the process, so that it comes to precede action. It functions then as an
 aid to a plan that has been conceived but not yet realized in behavior.
+
+
 An interesting analogy can be found in children’s speech while drawing
 (see also chapter 8). Young children name their drawings only after
 they have completed them; they need to see them before they can decide
@@ -1186,6 +1397,8 @@ envisage verbal, intellectual activity as a series of stages in which the
 emotional and communicative functions of speech are expanded by the
 addition of the planning function. As a result the child acquires the ability
 to engage in complex operations extending over time.
+
+
 Unlike the ape, which Köhler tells us is “the slave of its own visual
 field,” children acquire an independence with respect to their concrete
 surroundings; they cease to act in the immediately given and evident
@@ -1194,6 +1407,8 @@ language effectively, their psychological field changes radically. A
 view of the future is now an integral part of their approaches to their
 surroundings. In subsequent chapters, I will describe the developmental
 course of some of these central psychological functions in greater detail.
+
+
 To summarize what has been said thus far in this section: The
 specifically human capacity for language enables children to provide
 for auxiliary tools in the solution of difficult tasks, to overcome impulsive
@@ -1205,6 +1420,8 @@ Tool and Symbol in Child Development
 29
 new and superior form of activity in children, distinguishing them from
 animals.
+
+
 The changes I have described do not occur in a one-dimensional,
 even fashion. Our research has shown that very small children solve
 problems using unique mixtures of processes. In contrast with adults,
@@ -1212,11 +1429,15 @@ who react differently to objects and to people, young children are likely
 to fuse action and speech when responding to both objects and social
 beings. This fusion of activity is analagous to syncretism in perception,
 which has been described by many developmental psychologists.
+
+
 The unevenness I am speaking of is seen quite clearly in a situation
 where small children, when unable to solve the task before them easily,
 combine direct attempts to obtain the desired end with a reliance upon
 emotional speech. At times speech expresses the children’s desires, while
 at other times it serves as a substitute for actually achieving the goal.
+
+
 The child may attempt to solve the task through verbal formulations
 and by appeals to the experimenter for help. This mixture of diverse
 forms of activity was at first bewildering; but further observations drew
@@ -1225,16 +1446,22 @@ children’s behavior in such circumstances. For example, after completing
 a number of intelligent and interrelated actions that should help him
 solve a particular problem successfully, the child suddenly, upon
 meeting a difficulty, ceases all attempts and turns for help to the experimenter.
+
+
 Any obstacle to the child’s efforts at solving the problem may
 interrupt his activity. The child’s verbal appeal to another person is an
 effort to fill the hiatus his activity has revealed. By asking a question, the
 child indicates that he has, in fact, formulated a plan to solve the task
 before him, but is unable to perform /all the necessary operations.
+
+
 Through repeated experiences or this type, children learn covertly
 (mentally) to plan their activities. At the same time they enlist the assistance
 of another person in accordance with the requirements of the
 problem posed for them. The child’s ability to control another person’s
 behavior becomes a necessary part of the child’s practical activity.
+
+
 Initially this problem solving in conjunction with another person is
 not differentiated with respect to the roles played by the child and his
 helper; it is a general, syncretic whole. We have more than once observed
@@ -1250,12 +1477,16 @@ tton equally with words and sticks, demonstrating the fundamental and
 inseparable tie between speech and action in the child’s activity; this
 unity becomes particularly clear when compared with the separation of
 these processes in adults.
+
+
 In summary, children confronted with a problem that is slightly too
 complicated for them exhibit a complex variety of responses including
 direct attempts at attaining the goal, the use of tools, speech directed
 toward the person conducting the experiment or speech that simply
 accompanies the action, and direct, verbal appeals to the object of
 attention itself.
+
+
 If analyzed dynamically, this alloy of speech and action has a very
 specific function in the history of the child’s development; it also demonstrates
 the logic of its own genesis. From the very first days of the child’s
@@ -1263,8 +1494,12 @@ development his activities acquire a meaning of their own in a system of
 social behavior and, being directed towards a definite purpose, are refracted
 through the prism of the child’s environment. The path from
 object to child and from child to object passes through another person.
+
+
 This complex human structure is the product of a developmental process
 deeply rooted in the links between individual and social history.
+
+
 6
 Interaction between
 Learning and Development
@@ -1281,14 +1516,20 @@ concrete research studies have embodied theoretically vague, critically
 unevaluated, and sometimes internally contradictory postulates, premises,
 and peculiar solutions to the problem of this fundamental relationship;
 and these, of course, result in a variety of errors.
+
+
 Essentially, all current conceptions of the relation between development
 and learning in children can be reduced to three major theoretical
 positions.
+
+
 The first centers on the assumption that processes of child development
 are independent of learning. Learning is considered a purely
 external process that is not actively involved in development. It merely
 utilizes the achievements of development rather than providing an
 impetus for modifying its course.
+
+
 In experimental investigations of the development of thinking in
 school children, it has been assumed that processes such as deduction
 and understanding, evolution of notions about the world, interpretation
@@ -1301,6 +1542,8 @@ learning. An example of such a theory is Piaget’s extremely complex and
 interesting theoretical principles, which also shape the experimental
 methodology he employs. The questions Piaget uses in the course of his
 “clinical conversations” with children clearly illustrate his approach.
+
+
 When a five-year-old is asked “why doesn’t the sun fall?” it is assumed
 that the child has neither a ready answer for such a question nor the
 general capabilities for generating one. The point of asking questions
@@ -1317,6 +1560,8 @@ premature instruction, the teaching of a subject before the child was
 ready for it. All effort was concentrated on finding the lower threshold of
 learning ability, the age at which a particular kind of learning first
 becomes possible.
+
+
 Because this approach is based on the premise that learning trails
 behind development, that development always outruns learning, it
 precludes the notion that learning may play a role in the course of the
@@ -1325,9 +1570,15 @@ learning. Development or maturation is viewed as a precondition of
 learning but never the result of it. To summarize this position: Learning
 forms a superstructure over development, leaving the latter essentially
 unaltered.
+
+
 The second major theoretical position is that learning is development.
+
+
 This identity is the essence of a group of theories that are quite
 diverse in origin.
+
+
 One such theory is based on the concept of reflex, an essentially
 old notion that has been extensively revived recently. Whether reading,
 writing, or arithmetic is being considered, development is viewed as the
@@ -1335,6 +1586,8 @@ mastery of conditioned reflexes; that is, the process of learning is completely
 and inseparably blended with the process of development. This
 notion was elaborated by James, who reduced the learning process to
 habit formation and identified the learning process with development.
+
+
 Reflex theories have at least one thing in common with theories
 such as Piaget’s: in both, development is conceived of as the elaboration
 and substitution of innate responses. As James expressed it, “Education,
@@ -1345,15 +1598,21 @@ of acquired habits of conduct and tendencies to behavior.”2 Development
 itself is reduced primarily to the accumulation of all possible
 responses. Any acquired response is considered either a more complex
 form of or a substitute for the innate response.
+
+
 But despite the similarity between the first and second theoretical
 positions, there is a major difference in their assumptions about the
 temporal relationship between learning and developmental processes.
+
+
 Theorists who hold the first view assert that developmental cycles precede
 learning cycles; maturation precedes learning and instruction must
 lag behind mental growth. For the second group of theorists, both
 processes occur simultaneously; learning and development coincide at
 all points in the same way that two identical geometrical figures coincide
 when superimposed.
+
+
 The third theoretical position on the relation between learning and
 development attempts to overcome the extremes of the other two by
 simply combining them. A clear example of this approach is Koffka’s
@@ -1362,6 +1621,8 @@ related processes, each of which influences the other.8 On the one hand
 is maturation, which depends directly on the development of the nervous
 system; on the other hand is learning, which itself is also a developmental
 process.
+
+
 Three aspects of this theory are new. First, as we already noted, is
 the combination of two seemingly opposite viewpoints, each of which
 has been encountered separately in the history of science. The very fact
@@ -1376,8 +1637,12 @@ process of maturation prepares and makes possible a specific process of
 learning. The learning process then stimulates and pushes forward the
 maturation process. The third and most important new aspect of this
 theory is the expanded role it ascribes to learning in child development.
+
+
 This emphasis leads us directly to an old pedagogical problem, that of
 formal discipline and the problem of transfer.
+
+
 Pedagogical movements that have emphasized formal discipline and
 urged the teaching of classical languages, ancient civilizations, and
 mathematics have assumed that regardless of the irrelevance of these
@@ -1394,6 +1659,8 @@ determine the length of long lines. These same adults were successfully
 trained to estimate the size of a given two-dimensional figure, but this
 training did not make them successful in estimating the size of a series
 of other two-dimensional figures of various sizes and shapes.
+
+
 According to Thorndike, theoreticians in psychology and education
 believe that every particular response acquisition directly enhances
 overall ability in equal measure.4 Teachers believed and acted on the
@@ -1413,6 +1680,8 @@ to do other entirely unrelated things well as a result of some secret
 connection. It is assumed that mental capabilities function independently
 of the material with which they operate, and that the development
 of one ability entails the development of others.
+
+
 Thorndike himself opposed this point of view. Through a variety of
 studies he showed that particular forms of activity, such as spelling,
 are dependent on the mastery of specific skills and material necessary for
@@ -1427,14 +1696,20 @@ Interaction between Learning and Development
 83
 same way, speed and accuracy in adding numbers are entirely unrelated
 to speed and accuracy in being able to think up antonyms.
+
+
 This research shows that the mind is not a complex network of
 general capabilities such as observation, attention, memory, judgment,
 and so forth, but a set of specific capabilities, each of which is, to some
 extent, independent of the others and is developed independently.
+
+
 Learning is more than the acquisition of the ability to think; it is the
 acquisition of many specialized abilities for thinking about a variety of
 things. Learning does not alter our overall ability to focus attention but
 rather develops various abilities to focus attention on a variety of things.
+
+
 According to this view, special training affects overall development only
 when its elements, material, and processes are similar across specific
 domains; habit governs us. This leads to the conclusion that because
@@ -1444,6 +1719,8 @@ independent capabilities or of a set of particular habits. Improvement
 of one function of consciousness or one aspect of its activity can affect
 the development of another only to the extent that there are elements
 common to both functions or activities.
+
+
 Developmental theorists such as Koffka and the Gestalt School—who
 hold to the third theoretical position outlined earlier—oppose Thorndike’s
 point of view. They assert that the influence of learning is never
@@ -1463,15 +1740,21 @@ is always a larger set than learning. Schematically, the relationship
 between the two processes could be depicted by two concentric circles,
 the smaller symbolizing the learning process and the larger the developmental
 process evoked by learning.
+
+
 Once a child has learned to perform an operation, he thus assimilates
 some structural principle whose sphere of application is other than just
 Mind in Society
 84
 the operations of the type on whose basis the principle was assimilated.
+
+
 Consequently, in making one step in learning, a child makes two steps in
 development, that is, learning and development do not coincide. This
 concept is the essential aspect of the third group of theories we have
 discussed.
+
+
 ZONE OF PROXIMAL DEVELOPMENT:
 A NEW APPROACH
 Although we reject all three theoretical positions discussed above,
@@ -1481,6 +1764,8 @@ solution to this problem is complex. It consists of two separate issues:
 first, the general relation between learning and development; and
 second, the specific features of this relationship when children reach
 school age.
+
+
 That children s learning begins long before they attend school is
 the starting point of this discussion. Any learning a child encounters in
 school always has a previous history. For example, children begin to
@@ -1489,6 +1774,8 @@ experience with quantity—they have had to deal with operations of
 division, addition, subtraction, and determination of size. Consequently,
 children have their own preschool arithmetic, which only myopic
 psychologists could ignore.
+
+
 It goes without saying that learning as it occurs in the preschool
 years differs markedly from school learning, which is concerned with the
 assimilation of the fundamentals of scientific knowledge. But even when,
@@ -1499,6 +1786,8 @@ and giving answers, children acquire a variety of information; or that,
 through imitating adults and through being instructed about how to
 act, children develop an entire repository of skills? Learning and development
 are interrelated from the child’s very first day of life.
+
+
 Koffka, attempting to clarify the laws of child learning and their
 relation to mental development, concentrates his attention on the simplest
 learning processes, those that occur in the preschool years. His error
@@ -1509,19 +1798,27 @@ the difference between preschool and school learning consists of non-
 Interaction between Learning and Development
 85
 systematic learning in one case and systematic learning in the other.
+
+
 But “systematicness” is not the only issue; there is also the fact that
 school learning introduces something fundamentally new into the child’s
 development. In order to elaborate the dimensions of school learning, we
 will describe a new and exceptionally important concept without which
 the issue cannot be resolved: the zone of proximal development.
+
+
 A well known and empirically established fact is that learning
 should be matched in some manner with the child’s developmental level.
+
+
 For example, it has been established that the teaching of reading, writing,
 and arithmetic should be initiated at a specific age level. Only
 recently, however, has attention been directed to the fact that we cannot
 limit ourselves merely to determining developmental levels if we wish to
 discover the actual relations of the developmental process to learning
 capabilities. We must determine at least two developmental levels.
+
+
 The first level can be called the actual developmental level, that is,
 the level of development of a child’s mental functions that has been
 established as a result of certain already completed developmental
@@ -1529,9 +1826,13 @@ cycles. When we determine a child’s mental age by using tests, we are
 almost always dealing with the actual developmental level. In studies
 of children’s mental development it is generally assumed that only those
 things that children can do on their own are indicative of mental abilities.
+
+
 We give children a battery of tests or a variety of tasks of varying
 degrees of difficulty, and we judge the extent of their mental development
 on the basis of how they solve them and at what level of difficulty.
+
+
 On the other hand, if we offer leading questions or show how the problem
 is to be solved and the child then solves it, or if the teacher initiates
 the solution and the child completes it or solves it in collaboration with
@@ -1543,6 +1844,8 @@ the assumption; they never entertained the notion that what
 children can do with the assistance of others might be in some sense
 even more indicative of their mental development than what they can
 do alone.
+
+
 Let us take a simple example. Suppose I investigate two children
 upon entrance into school, both of whom are ten years old chronologically
 and eight years old in terms of mental development. Can I say that
@@ -1574,10 +1877,14 @@ varied to a high degree, it became apparent that those children were not
 mentally the same age and that the subsequent course of their learning
 would obviously be different. This difference between twelve and eight,
 or between nine and eight, is what we call the zone of proximal development.
+
+
 It is the distance between the actual developmental level as determined
 by independent problem solving and the level of potential
 development as determined through problem solving under adult
 guidance or in collaboration with more capable peers.
+
+
 If we naively ask what the actual developmental level is, or, to put it
 more simply, what more independent problem solving reveals, the most
 common answer would be that a child’s actual developmental level
@@ -1595,6 +1902,8 @@ characterizes mental development retrospectively, while the zone of
 Interaction between Learning and Development
 87
 proximal development characterizes mental development prospectively.
+
+
 The zone of proximal development furnishes psychologists and
 educators with a tool through which the internal course of development
 can be understood. By using this method we can take account of not
@@ -1610,10 +1919,14 @@ the developmental dynamics of the two were entirely different. The
 state of a child’s mental development can be determined only by clarifying
 its two levels: the actual developmental level and the zone of
 proximal development.
+
+
 I will discuss one study of preschool children to demonstrate that
 what is in the zone of proximal development today will be the actual
 developmental level tomorrow—that is, what a child can do with assistance
 today she will be able to do by herself tomorrow.
+
+
 The American researcher Dorothea McCarthy showed that among
 children between the ages of three and five there are two groups of
 functions: those the children already possess, and those they can perform
@@ -1632,8 +1945,12 @@ zone of proximal development can become a powerful concept in developmental
 research, one that can markedly enhance the effectiveness
 and utility of the application of diagnostics of mental development to
 educational problems.
+
+
 A full understanding of the concept of the zone of proximal
 development must result in réévaluation of the role of imitation in learning.
+
+
 An unshakable tenet of classical psychology is that only the inde-
 Mind in Society
 88
@@ -1645,11 +1962,15 @@ without the assistance of others, without demonstrations, and without
 leading questions. Imitation and learning are thought of as purely
 mechanical processes. But recently psychologists have shown that a
 person can imitate only that which is within her developmental level.
+
+
 For example, if a child is having difficulty with a problem in arithmetic
 and the teacher solves it on the blackboard, the child may grasp the
 solution in an instant. But if the teacher were to solve a problem in
 higher mathematics, the child would not be able to understand the
 solution no matter how many times she imitated it.
+
+
 Animal psychologists, and in particular Köhler, have dealt with this
 question of imitation quite well.® Kohler’s experiments sought to determine
 whether primates are capable of graphic thought. The principal
@@ -1666,10 +1987,14 @@ be developed, because they have no zone of proximal development. A
 primate can learn a great deal through training by using its mechanical
 and mental skills, but it cannot be made more intelligent, that is, it
 cannot be taught to solve a variety of more advanced problems independently.
+
+
 For this reason animals are incapable of learning in the
 human sense of the term; human learning presupposes a specific social
 nature and a process by which children grow into the intellectual life of
 those around them.
+
+
 Children can imitate a variety of actions that go well beyond the
 limits of their own capabilities. Using imitation, children are capable
 of doing much more in collective activity or under the guidance of
@@ -1678,6 +2003,8 @@ fundamental importance in that it demands a radical alteration of the
 entire doctrine concerning the relation between learning and development
 in children. One direct consequence is a change in conclusions that
 may be drawn from diagnostic tests of development.
+
+
 Interaction between Learning and Development
 89
 Formerly, it was believed that by using tests, we determine the
@@ -1692,6 +2019,8 @@ the pedagogy of the special school drew the seemingly correct conclusion
 that all teaching of such children should be based on the
 use of concrete, look-and-do methods. And yet a considerable amount
 of experience with this method resulted in profound disillusionment.
+
+
 It turned out that a teaching system based solely on concreteness—
 one that eliminated from teaching everything associated with abstract
 thinking—not only failed to help retarded children overcome their
@@ -1707,6 +2036,8 @@ a beneficial shift away from this concept of concreteness, one that
 restores look-and-do methods to their proper role. Concreteness is now
 seen as necessary and unavoidable only as a stepping stone for developing
 abstract thinking—as a means, not as an end in itself.
+
+
 Similarly, in normal children, learning which is oriented toward developmental
 levels that have already been reached is ineffective from
 the viewpoint of a child’s overall development. It does not aim for
@@ -1714,6 +2045,8 @@ a new stage of the developmental process but rather lags behind this
 process. Thus, the notion of a zone of proximal development enables us
 to propound a new formula, namely that the only “good learning” is
 that which is in advance of development.
+
+
 The acquisition of language can provide a paradigm for the entire
 problem of the relation between learning and development. Language
 arises initially as a means of communication between the child and the
@@ -1736,6 +2069,8 @@ development of a child’s moral judgment. Earlier research established
 that a child first becomes able to subordinate her behavior to rules in
 group play and only later does voluntary self-regulation of behavior
 arise as an internal function.
+
+
 These individual examples illustrate a general developmental law
 for the higher mental functions that we feel can be applied in its entirety
 to children’s learning processes. We propose that an essential
@@ -1745,16 +2080,22 @@ that are able to operate only when the child is interacting with people
 in his environment and in cooperation with his peers. Once these processes
 are internalized, they become part of the child’s independent
 developmental achievement.
+
+
 From this point of view, learning is not development; however,
 properly organized learning results in mental development and sets in
 motion a variety of developmental processes that would be impossible
 apart from learning. Thus, learning is a necessary and universal aspect
 of the process of developing culturally organized, specifically human,
 psychological functions.
+
+
 To summarize, the most essential feature of our hypothesis is the
 notion that developmental processes do not coincide with learning
 processes. Rather, the developmental process lags behind the learning
 process; this sequence then results in zones of proximal development.
+
+
 Our analysis alters the traditional view that at the moment a child
 assimilates the meaning of a word, or masters an operation such as
 addition or written language, her developmental processes are basically
@@ -1763,6 +2104,8 @@ major consequence of analyzing the educational process in this manner
 is to show that the initial mastery of, for example, the four arithmetic
 operations provides the basis for the subsequent development of a
 variety of highly complex internal processes in children’s thinking.
+
+
 Our hypothesis establishes the unity but not the identity of learning
 Interaction between Learning and Development
 91
@@ -1770,6 +2113,8 @@ processes and internal developmental processes. It presupposes that the
 one is converted into the other. Therefore, it becomes an important concern
 of psychological research to show how external knowledge and
 abilities in children become internalized.
+
+
 Any investigation explores some sphere of reality. An aim of the
 psychological analysis of development is to describe the internal relations
 of the intellectual processes awakened by school learning. In this
@@ -1779,6 +2124,8 @@ processes stimulated by the course of school learning are carried
 through inside the head of each individual child. The revelation of this
 internal, subterranean developmental network of school subjects is a task
 of primary importance for psychological and educational analysis.
+
+
 A second essential feature of our hypothesis is the notion that,
 although learning is directly related to the course of child development,
 the two are never accomplished in equal measure or in parallel. Development
@@ -1786,6 +2133,8 @@ in children never follows school learning the way a shadow
 follows the object that casts it. In actuality, there are highly complex
 dynamic relations between developmental and learning processes that
 cannot be encompassed by an unchanging hypothetical formulation.
+
+
 Each school subject has its own specific relation to the course of
 child development, a relation that varies as the child goes from one
 stage to another. This leads us directly to a reexamination of the problem
@@ -1794,6 +2143,8 @@ subject from the viewpoint of overall mental development. Clearly, the
 problem cannot be solved by using any one formula; extensive and
 highly diverse concrete research based on the concept of the zone of
 proximal development is necessary to resolve the issue.
+
+
 7
 The Role of Play
 in Development
@@ -1807,6 +2158,8 @@ that give pleasure only if the child finds the result interesting. Sporting
 games (not only athletic sports, but other games that can be won or
 lost) are very often accompanied by displeasure when the outcome is
 unfavorable to the child.
+
+
 But while pleasure cannot be regarded as the defining characteristic
 of play, it seems to me that theories which ignore the fact that play fulfills
 children’s needs result in a pedantic intellectualization of play. In speaking
