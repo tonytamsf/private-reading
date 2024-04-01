@@ -1,0 +1,1034 @@
+7 Teaching mind in society: Teaching, schooling, and literate discourse
+
+Ronald Gallimore and Roland Tharp
+
+Time and again in this century the impulse to improve public schools has fallen short of reformist hopes. One reason for limited progress has been the absence of a basis for understanding and correcting teaching and schooling. Although the ideas of Vygotsky are having a profound influence on education, they are not alone sufficient to construct a fully satisfying theory of education. The achievements of social, cognitive, and behavioral science - achievements that have detailed the processes of learning in social interactions - must be brought into conjunction with the neo-Vygotskian understanding now being created. Such a union of neo-Vygotskian and behavioral/cognitive scientific principles can accelerate the impact of research on the practice of teaching and schooling and radically increase the explanatory power of neo-Vygotskian theory (Tharp & Gallimore, 1988).
+
+Constructing a theory of education
+
+For over 100 years, there has been ample evidence that recitation, not teaching, is the predominant experience of American school children. Sitting silently, students read assigned texts, complete "ditto" sheets, and take tests. On those rare occasions when they are encouraged to speak, teachers control the topic and participation. Connected discourse occurs so rarely that observation detects barely a trace (e.g., Durkin, 1978-1979; Goodlad, 1984). Even in more effective classrooms, teachers do little that meets any acceptable image of serious interactive teaching.
+If we are to build a theory of teaching, evidence must come from elsewhere than schools. The most effective teaching occurs in other settings of socialization, from child rearing to employee-training programs. From these teaching-learning interactions in nonschooled settings, we can derive principles that schools should use to produce effective teaching. These same principles can guide the design of schools,
+
+An elaborated discussion of the theory and research presented here can be found in R. G. Tharp and R.
+
+Gallimore (1988), Rousing minds to life:
+
+Teaching, learning, and schooling in social context (Cam­
+
+bridge: Cambridge University Press).
+
+The research on which this paper is based was supported by the Princess Bernice Pauahi Bishop Estate/
+
+Kamehameha Schools. Additional resources were provided by the National Institute of Child Health and
+
+Human Development, the Sociobehavioral Research Group of the Mental Retardation Research Center
+
+at UCLA, and the University of Hawaii.
+
+175
+
+176
+
+R. G a l l i m o r e a n d R. T h a r p
+
+so that their social organization will foster, rather than impede, the teaching and learning of all their members. Such a set of principles will constitute an integrated neo-Vygotskian theory of education.
+
+A theory of teaching as assisted performance
+Vygotsky argued that a child's development cannot be understood by a study of the individual. We must also examine the external social world in which that individual life has developed. Cognitive and linguistic skill appears "twice, or in two planes. First it appears on the social plane, and then on the psychological plane. First it appears between people as an interpsychological category, and then within the child as an intrapsychological category" (Vygotsky, 1978, p. 163).
+In the following example of an excellent instructional conversation, a Navajo teacher assists some third-grade children to comprehend the concept of hero. The discussion began with John Kennedy and John Glenn, but the children's understanding of hero unfolds through the interaction and comes to include some surprising examples.
+Teacher: Jimmie, what would you call a hero? Who would you call a hero? Cindy: John Glenn. Jimmie: Superman! Teacher: What did he have to do to make him a hero? Nick: Apache Chief. Teacher: OK, what would Apache Chief have to do to be a hero? Jimmie: He-Man! Emma: John Glenn! John Glenn! Teacher: Or He-Man.
+The nominations are useful: Superman, He-Man, Apache Chief, and John Glenn are all acceptable as members of the class "heroes" and can be used by the children to work out the concept. Unfortunately, they drift away from the task set by the teacher into some loose associations:
+Emma: A rocket, blah blah. Jimmie: Cartoons! Cartoons! Emma: Bugs Bunny! [Emma and Nick laugh.]
+The teacher gets the children back on the track by refocusing the discussion.
+Teacher: What could Superman do that would make him a hero? Jimmie: Bullets ... ! [In Navajo: He dodges the bullets!] Teacher: Oh, he doesn't dodge any bullets. Nick: Helps people. Teacher: Who helps people? Nick: Superman. }
+. . }
+Jimmie: He-Man. }
+Teacher: Superman?
+Nick: And He-Man. Teacher: What about the chief you were talking about?
+
+Teaching mind in society
+
+ill
+
+Nick: [Explains in Navajo that he saw "Apache Chief' on television.] Teacher: What does he do? Jimmie: [Explains in Navajo by giving an incident.] Nick: He helps people. Teacher: Yeah. Nick: [Says softly in Navajo that Superman helps people too.] Teacher: 1 think that it's good because ... if somebody helps people, then I would
+think he's a hero. Nick: A hero. (Adapted from Tharp & Gallimore, 1988, pp. 67-69; Afton Sells, teacher)
+
+The children had the bits of information necessary to construct a meaning, and
+the teacher assisted by providing the structure and the questions that provoked the
+assembly of that information and its organization. In the excerpt, all the components
+of the process are present, but they are assembled from the separate contributions
+of the children and the teacher. By adolescence, most children will have internal­
+ized the process of approaching a new concept. They will query themselves as to
+its possible meanings, match them against the text, try out new class members, and
+proceed until the sources are integrated. However, until internalization occurs, per j
+formance must be assisted.
+Distinguishing the proximal zone from the developmental level by contrasting assisted versus unassisted performance has profound implications for educational practice. It is in the proximal zone that teaching may be defined in terms of child development. In Vygotskian terms, teaching is good only when it "awakens and rouses to life those functions which are in a stage of maturing, which lie in the zone of proximal development." (Vgyotsky, 1956, p. 278, quoted in Wertsch & Stone, 1985, italics in original)
+We can therefore derive this general definition of teaching: teaching consists of assisting performance through the Zone of Proximal Development. Teaching can | be said to occur when assistance is offered at points in the ZPD at which perfor | mance reguires assistance. (Tharp & Gallimore, 1988, chap. 2)
+
+The means of assisting performance
+In the transition from other-assistance to self-assistance (internalization and automatization) there are variations in the means by which assistance is provided. By discussing the several qualitatively different means of assisting performance, we have the opportunity to connect neo-Vygotskian ideas with a broader literature of American and British psychology.
+Psychology of this century has focused on six means of assisting performance: modeling, contingency, managing, feeding back, instructing, guestioning, and cog nitive structuring. The study of each of these means of assistance has "belonged" to different theories, different disciplines, and even to different nations. By considering them together, we can link large areas of Western psychology to the neoVygotskian theory, and the explanatory power of both is increased substantially.
+In industrialized, urban society, the dominant means of assistance do appear to be linguistic. However, we risk distorting our understanding of human processes by
+
+178
+
+R. Gai.limore and R. Tharp
+
+considering only a narrow range of cultural interactions. Our own technological
+culture may seem to require verbal explanation before children can understand adult
+activities; but this is a requirement of a particular society, not a requirement of
+cognitive development (Nerlove & Snipper, 1981; Rogoff, 1982; Scribner & Cole,
+1981).
+In non-technological societies, adult behaviors are learned and understood with only occasional verbal explanation. Such societies rely heavily on "observational" learning; this is practical where adult behaviors and role performances are available for prolonged and careful scrutiny by children - in cultures that are "within the direct reach of the sensory organs" of the child (Fortes, 1938; Pettit, 1946). This means that children are incorporated into the activity settings of the society. The process has been put succinctly by Margaret Tafoya, doyen of American Indian potters, herself both daughter and mother in a family of distinguished artists in clay:
+My girls, I didn't teach them . . . they watched and learned by trying. I was taught to stay with the traditional clay designs, because that was the way it was handed down to my mother and me. I am thankful for my mother teaching me to make the large pieces (which require special skill and understanding). I watched her and tried to do like she did. And, I did. (Tafoya, 1983)
+John Steiner & Oesterrich . . . discuss this Pueblo Indian culture and provide a link from typical interpersonal events to intra-psychological processes:
+Children listening to the many legends of their people learn to represent these visually . . . because they are not allowed to ask questions or verbally reflect on what they hear. They are to say only aeh hae to acknowledge auditory attention. As a result, while the verbal representations of some of these legends are fairly simple nursery tales, the inner representations of the same legends, for older children and adults, are replete with highly abstract visual and symbolic articulations of cultural value. ( John-Steiner & Oesterreich, 1975, p. 192)
+That which is modeled is internalized and represented by the learner as an image, a paradigm-icon, for self-guidance. The image of the expert's hands on the loom is transformed into an intra-psychological standard for comparison and feedback as the learning weaver watches her own fingers fly. (Quoted from Tharp & Gallimorc, 1988; for a detailed discussion of these issues, see Jordan, Tharp. & Vogt, 1985; Tharp, 1985, 1987; White, Tharp, Jordan, & Vogt, 1987.)
+
+Of course, modeling and feedback are means of assistance used in all societies, including our own. There are many examples, such as athletic coaching (Tharp & Gallimore, 1976a). Therefore, the means of assistance are not restricted to language. The full list also includes those nonlinguistic and paralinguistic means that have been identified over several decades of research in behaviorist and cognitive psychology. Although Vygotsky insisted on the primacy of linguistic means in the development of higher mental processes, this docs not mean that all means of assisting performance are linguistic. We propose a list of six means of assistance, gleaned from research of this century. Others may well emerge; the list is surely not final. Each in turn will be briefly described.
+
+Modeling. Modeling is the process of offering behavior for imitation. Not all imitated models are intentionally offered, of course. The socialization of children and
+
+Teaching mind in society
+
+179
+
+other new members into cultures is largely accomplished by their imitation of mature members' culturally organized but unreflective acts. Most traditional and pretechnological cultures teach their offspring largely through modeling, rather than through a verbal emphasis (Scribner & Cole, 1973). These acts of modeling take place during activities created by the family's ecocultural niche - working the fields, caring for domestic animals, collecting and preparing food, caring for children, weaving, and other such tasks. Children take part in these activities through a process of guided participation (Rogoff, in press), in which opportunities to learn through modeling are seamlessly woven into subsistence and family maintenance, the fabric of everyday life.
+Many parameters of the modeling/imitation process are now well known (Bandura, 1977). Whether or not imitation of models will occur is affected by the comparative age and sex of modeler and imitator; the presence of reinforcement for the behavior; whether or not the model is live or depicted; relationship factors among the actors; the generalized repertoire of imitation itself, which can be strengthened or weakened by reinforcement and punishment (Staats, 1968); and many other factors, all of which are complexly interactive.
+Modeling is a powerful means of assisting performance, one that continues its effectiveness into adult years and into the highest reaches of behavioral complexity. In the educational setting, both expert teachers and peer models are highly important sources of assisted performance, for children and adults alike.
+
+Contingency management. Contingency management is the means of assisting performance by which rewards and punishments are arranged to follow behavior, depending on whether the behavior is desired or not. It is composed of a set of techniques so well known by now that few readers will need another explication. Review can be had on a research level from Bandura (1969), or on the level of practice from Tharp and Wetzel (1969).
+All manner of rewards have been used in contingency management - the social reinforcements of praise and encouragement, material reinforcements of consumables or privileges, tokens and symbolic rewards. In most educational prescriptions, punishments are restricted to the loss of some positive opportunity or to brief, firm reprimands. In effective teaching, contingency management is focused on positive behavior and positive rewards. When these prescriptions are followed, classrooms that employ contingency management as a means of assistance are productive and pleasant in emotional tone.
+Widespread use of contingency management in the 1960s and 1970s led to many incompetent applications and considerable opposition to the concept - some in response to the mechanistic, reductive theory of conditioning by which contingency management was often and inappropriately justified. This is unfortunate because contingency management is not operant conditioning (Homme, 1966; Tharp & Wetzel, 1969). The effects of contingencies on behavior are strong; but they do not need to be explained by operant conditioning and indeed are as well explained by philo-
+
+180
+
+R. G a l l i m o r e a n d R. T h a r p
+
+sophical utilitarianism, cognitive science, game theory, and a host of competing theories.
+Contingency management cannot be used to originate new behaviors. Novel skills must be elicited by other means of assistance - modeling, instructing, cognitive structuring, and questioning. But the rewards, praises, and encouragements that follow a behavior strengthen each point of advance through the zone of proximal development, preventing loss of ground. This bulwarking of gains already made is of vital assistance to performance.
+
+Feeding back. Feeding back information on performance is a powerful means of assistance. Feedback alone can guide a student to substantial improvement in performance on the next try. Providing for feedback is the most common and single most effective means of self-assistance; this has been demonstrated for virtually all problematic behaviors in which self-regulation has been studied (Watson & Tharp. 1988). Feedback is such an ingrained part of normal life that it goes unnoticed; without feedback to the self, no correction - or even maintenance - is possible.
+In educational programs, feedback on performance is vital to every participant, although the form it takes in current practice is often inconsistent or too remote to be useful. Feeding back performance information to students can be done in many forms: criterion-referenced test data, achievement test data, instantaneous teacher responses to children's conversation, and grade work sheets among others.
+Feedback is a concept derived from cybernetics and must be understood in the context of other concepts of that system. Simply providing performance information is not feedback; there will be no performance assistance unless the information provided is compared to some standard. The self-regulation literature emphasizes the necessity for setting standards (as goals and subgoals) and for setting up specific procedures for regular comparison of feedback information to that standard (Carver & Scheier, 198); Tharp, Gallimore, & Calkins, 1984; Watson & Tharp, 1988).
+Feeding back occurs in interactive teaching. When the discussions have to do with matters of fact, it is important that students get feedback about accuracy. The setting of standards for accuracy is an important part of this process. Flow does that happen? Some of the ways it happens illustrate the interdependency of the means of assistance.
+For example modeling provides standards. Students can observe peers who are reinforced for prompt completion of work and thereby have a standard set by example. Standards can be set by simple instructions (a means of assistance discussed below). Indeed, all the means of assisting performance can be used to regulate standard setting. Standards for performance can be exemplified by the teacher instructing the children to repeat the process until accuracy is achieved. The interdependence of the means of assisting performance is a topic to which we will return later and which will become clearer as we consider the remaining means of assistance.
+
+Teaching mind in society
+
+181
+
+Instructing. Instruction is surely the most ubiquitous of all the means of assisting in
+
+ordinary life. Compliance with instructions is not inevitable, since effective instruc­
+
+tions must be embedded in a context of other effective means, notably contingency
+
+management, feeding back, and cognitive structuring.
+
+In typical educational settings, instructions are used primarily in two contexts: on
+
+matters of deportment and in assigning tasks. It is unfortunately rare to see instruct­
+
+ing used to assist the performance of the next specific act
+
+neededto move through
+
+the zone of proximal development. Instructions, like other
+
+forms of assistance, can
+
+be expected to occur only when teachers assume responsibility for assisting perfor­
+
+mance rather than expecting students to learn on their own.
+
+Of course, too much instructing can be obnoxious to a
+
+learner.
+
+A
+
+measured use
+
+of instructing, however, does not create opposition. And it is important that in­
+
+structing be included in teaching, because the instructing voice of the teacher be­
+
+comes the self-instructing voice of the learner in the transition from apprentice to
+
+self-regulated performer. The noninstructing teacher may be denying the learner the
+
+most valuable residue of the teaching interaction: that heard, regulating voice, that
+
+gradually internalized voice, which then becomes the pupil's self-regulating "still,
+
+small" instructor.
+
+Questioning. Questions assist performance in ways that lie below the surface. This point can be made by comparing the ways that questions assist and the ways that instructions assist. Ervin-Tripp (1976, 1977) considers both instructions and questions as subclasses of directives. For example, we may say to a child, "What flowers did you see yesterday?" or we may say, "Tell me what flowers you saw yesterday." These are functionally equivalent means of assisting the child by requiring recall and categorization. At one level of analysis, the question contains the implicit instruction, "(tell me) or (think of) what flowers did you see." According to ErvinTripp (1976, 1977), whether this regulation is phrased explicitly or not is a matter of courtesy, or role regulation, not of the process per se.
+Elowever, there are important distinctions between questions and instructions in the context of teaching. If the speaker wants action but phrases the directive as a question, "misfires" are a likely result (Ervin-Tripp, 1976, 1977). "Will you dance?" and "Dance!" are not the same, in that the interrogative form, in linguistic logic, reguests a reply in language. If the dancers are asked ` `Will you dance?' ' they might shout "Yes!" but stand still. The instructional form "Dance!" requests a reply in action.
+Questioning, in contrast to instructing, provides a distinct and valuable means of assisting performance. Questioning explicitly calls for an active linguistic and cognitive response: It provokes creations by the pupil. A teacher can either ask "What is the meaning of `democracy'?" or give a lecture on the subject. If the teacher questions, two teaching advantages are gained. First, there is the mental and verbal activation of the pupils, which provides them with practice and exercise. Second, during this exercise of the pupils' speech and thought, the teacher will be able to
+
+182
+
+R. Gallimore and R. Tharp
+
+assist and regulate the students' assembling of evidence and their use of logic. If the teacher only lectures, he or she will never know what the students are thinking (Tharp & Gallimore, 1988).
+Not all questions assist performance. We must distinguish those that assist, from those that merely assess. Durkin (1978-1979), Hoetker and Ahlbrand (1969), Duffy and Roehler (1981), and Tharp and Gallimore (1988), among others, have noted the predominance of the assessment type in typical classrooms. We have already described assessment questions as the major interaction component of the recitation script. The assessment question inquires to discover the level of the pupil's ability to perform without assistance. When such questions are used to tailor instruction to the student's point in the zone of proximal development (ZPD), they are one part of competent instruction.
+However, most teachers do not distinguish questions that assess from those that assist. This results in the teacher assuming that a request for information constitutes teaching. It does not. Though necessary to teaching, assessment is not itself a means for directly assisting performance. The assistance question, on the other hand, inquires in order to produce a mental operation that the pupil cannot or would not produce alone. The assistance provided by the question is the prompting of that mental operation.
+
+Cognitive structuring. As a means of assisting performance, cognitive structuring refers to the provision of a structure for thinking and acting. It may be a structure for beliefs, for mental operations, or for understanding. It organizes, evaluates, and groups and sequences perception, memory, and action. In everyday life, cognitive structures may be more or less formalized, more or less conscious.
+From the point of view of the teacher, various kinds of cognitive structures can be provided. They can be grand: world views, philosophies, ethical systems, scientific theories, and religious theologies. Or they can be as modest as giving a name to a thing.
+A simple but useful distinction among kinds of cognitive structures can be offered: Type I, structures of explanation; and Type II, structures for cognitive activity. Type I may be an explanation that molecular activity increases with temperature as gases expand in a third-grade experiment. Or the teacher may say that the story for today is about heroes. In such cases, structure serves to organize perception in new ways. Ice and steam fall into the new science structure. In reading the new story, the readers can group their own feelings of admiration toward some others with the judgment of history on national figures. Evaluation, grouping, and sequencing of both old and new information are performances assisted by these newly developed cognitive structures.
+Type II structures operate on the level of cognitive process. Children may be given structures for memorization, or for recall, or for rules for accumulating evidence, as in the following example: "So, whenever you are reading any place and you come to a word that is new to you and you are not sure what the word is, you
+
+Teaching mind in society
+
+183
+
+first look for clues, then put the clues together with what you already know about the word and you decide on a meaning, and finally you check to see if that meaning fits in with the rest of the sentence" (Duffy, Roehler, Meloth, & Vavrus, 1986, p. 211).
+The procedures for cognitive structuring are simple. The teacher assists the pupil to organize the raw stuff of experience - what is before them in the text or in the experiment - with other like instances. The assistance of cognitive structuring can often be achieved merely by making a general statement. Cognitive structures or ganize content and/or functions and (as a corollary) refer to like instances. These are the features that distinguish cognitive structuring from simple instructing.
+Cognitive structuring can be distinguished from the other forms of linguistic assistance by the following hypothetical examples which all deal with the same issue:
+Instructing: "Think about the main theme of this story." Questioning: "What do you think the main idea of this story is (or) will be?" Cognitive Structuring (Type I): "All of this story's parts are connected to its main idea: the girl's feelings toward her cat. The word we use for her feelings is loving. She is loving toward her cat." Cognitive Structuring (Type II): "Stories have main ideas. The pieces of any story are related to this main idea." (Tharp & Gallimore, 1988)
+We do not yet know under what circumstances cognitive structuring is to be preferred over questioning, or vice versa; there is little evidence as to whether or not Type I or Type II structures are superior, or when one or the other is to be preferred (Tharp & Gallimore, 1985). As attested by instances of religious conversion, or the revolutionary effect on some people's thinking of a new idea, the power of cognitive structuring is potentially enormous. Advances in our understanding of these remarkable processes are increasing (Brown, Bransford, Ferrara, & Campione, 1983; Brown & Campione, 1986).
+The means of assistance are drawn from social and behavioral science. Using these concepts provides a more differentiated analysis of "performance assistance" and moves teaching/learning analysis closer to a scientific base of understanding. In many ways, the linking of these concepts with Vygotskian developmental principles makes possible a science of teaching. However, the use of the means of assistance can never become narrowly prescriptive. Responsiveness to individual children's zones of proximal development requires individualization according to the exigencies of the moment and movement through the ZPD. The developmental level of the learner requires close accommodation.
+There is ample room for the tastes, personalities, and different patterns of teaching skills of individual teachers. However scientific our analysis, teaching will always require some art.
+
+Pathways through the zone of proximal development
+. . . Teaching consists of assisting performance through the Zone of Proximal De velopment. Teaching can be said to occur when assistance is offered at points in
+
+184
+
+R. G a l l i m o r e a n d R. T h a r p
+
+the ZPD at which performance requires assistance. (Tharp & Gallimore, 1988, (chap. 2)
+
+This definition of teaching implies a developmental progress, an unfolding of po­
+tential through the reciprocal influence of child and social environment. Higher
+mental functions that are part of the social and cultural heritage of the child move
+from the social plane to the psychological plane, from the intermental to the intra­
+mental, from the socially regulated to the self-regulated. The child, through the
+regulating actions and speech of others, is brought to engage in independent action
+and speech.
+The development of any performance capacity in the individual represents a
+changing relationship between self-regulation and social regulation. Gradually, over
+time, a child requires less performance assistance, as the capacity for self-regulation
+increases. Thus progress through the zone of proximal development - from assisted
+performance to unassisted and self-regulated performance - is gradual.
+Attentional processes may be used as an example. In the first days of school, even simple problems can be solved by the child only if attentional processes are brought into a new relationship with perception and memory. The attention capacity of the child entering kindergarten may be in the zone of proximal development, so that a five-year old is capable of attending to teacher instruction and direction, but only if a rich diet of teacher praise is available. The teacher's praise assists the child's attending by both cueing and reinforcing it. With time the necessary amount of praise may be expected to decline. (Tharp & Gallimore, 1976b)
+As the capacity for attending advances through the ZPD, assistance is often provided by peers, who may remind a daydreamer that attention to the teacher is wise. For most pupils, after third grade, assistance by either teachers or peers is rarely needed; attention processes can be invoked when the situation is judged appropriate; they have become self-regulated. (Tharp & Gallimore, 1988)
+
+Progress through the zone of proximal development may be portrayed in a model of four stages (see Figure 7.1). The model focuses particularly on the relationship between self-control and social control. This discussion is necessarily abbreviated here; an extended description of the model and four stages is presented in Tharp and Gallimore (1988).
+
+The four stages of the zone of proximal development
+Stage I: where performance is assisted by more capable others. Before children can function as independent agents, they must rely on adults or more capable peers for other-regulation of task performance. The amount and kind of other-regulation a child requires depend on the child's age and the nature of the task, that is, the breadth and progression through the zone of proximal development for the activity at hand. During the earliest periods of the zone of proximal development, the child may have a very limited understanding of the situation, the task, or the goal to be achieved; at this level the parent, teacher, or more capable peer offers directions or
+
+Teaching mind in society
+
+185
+
+Capacity
+
+ST Recursive Loop  Capacity
+
+Begins
+
+Developed
+
+ÍK
+
+
+
+ZONE OF PROXIMAL DEVELOPMENT
+
+Assistance Provided by More Capable Others:
+Parents Teachers Experts Peers
+Coaches
+
+Assistance Internalization, ? Provided  Automatization
+bythei'-j ossilization Self (\
+
+% (De'i Automatization: !' Recursiveness ·, through prior
+stages)
+
+TIME--) STAGE I
+
+STAGE II
+
+STAGE
+
+STAGE IV
+
+Figure 7.1. The genesis of a performance capacity: Progression through the zone of proximal development and beyond
+
+modeling, and the child's response is acquiescent or imitative (Wertsch, 1978, 1979, 1981, 1985b).
+The child gradually comes to understand how the parts of an activity relate to one another, or to understand the meaning of the performance. Ordinarily, this understanding develops through conversation during the task performance. When some conception of the overall performance has been acquired through language or other semiotic processes, the child can be assisted by other means - questions, feedback, and further cognitive structuring. To a child perplexed by a myriad of puzzle pieces, an adult might say, "Which part of the puzzle will you use first?" The child may respond by putting in the ears and thus seeing an elephant take shape.
+Stage I is transited when the responsibility for tailoring the assistance, tailoring the transfer, and for the task performance itself has been effectively handed over to the learner. Of course, this achievement is a gradual one, with progress occurring in fits and starts. The shaded line between each of the stages Figure 7.1 represents a subzone itself.
+
+Stage II: where performance is assisted by the self. If we look carefully at the child's statements during this transition, we see that the patterns of activity that allowed the child to participate in the problem-solving effort on the intermental plane now allow him or her to carry out the task on the intramental plane (Wertsch, 1979, p. 18). Thus, in Stage II, the child carries out a task without assistance from others. However, this does not mean that the performance is fully developed or automatized. Regulation may have passed from the adult to the child speaker, but the control function remains with the overt verbalization in the form of selfdirected speech.
+
+186
+
+R. G a l l i m o r e a n d R. T h a r p
+
+The phenomenon of self-directed speech reflects a development of profound significance. Once a child begins to direct or guide behavior with his or her own speech, an important stage has been reached in the transition of a skill through the zone of proximal development. It constitutes the next stage in the passing of control or assistance from the adult to the child, from the expert to the apprentice. Thus, for children, a major function of self-directed speech is self-guidance (Berk, 1986; Berk & Garvin, 1984; Meichenbaum, 1977; Tharp et al., 1984).
+This remains true throughout life. In the acquisition of particular performance capacities, adults during Stage II consistently talk to themselves and assist themselves in all ways possible (Gallimore, Dalton, & Tharp, 1986; Tharp et al., 1984; Watson & Tharp, 1988). Vygotsky's available work principally concerns children, but identical processes of self- and other-assistance in the ZPD can be seen oper ating in the learning adult (see Tharp & Gallimore, 1988, chaps. 10, 11). Recognition of this fact allows the creation of programs for teacher training and offers guidance for organizational management of school and classroom systems of performance assistance (Tharp & Gallimore, 1988).
+
+Stage III: where the performance is developed, automatized, and fossilized. Once evidence of self-regulation has vanished, the child has emerged from the zone of proximal development. Task execution is smooth and integrated. It has been internalized and automatized. Assistance, from the adult or the self, is no longer needed. It is in this condition that continued assistance by others is disruptive and irritating. Even self-consciousness itself is detrimental to the smooth integration of all task components. This is a stage beyond self-control and beyond social control. Performance here is no longer developing; it is already developed. Vygotsky described it as the "fruits" of development; but he also described it as "fossilized," emphasizing its fixity and distance from the social and mental forces of change.
+
+Stage IV: where deautomatization of performance leads to recursion through the zone of proximal development. The lifelong learning by any individual is made up of these same regulated, ZPD sequences - from other-assistance to self-assistance - recurring over and over again for the development of new capacities. For every individual, at any point in time, there will be a mix of other-regulation, selfregulation, and automatized processes. The child who can now do many of the steps in assembling a puzzle might still be in the zone of proximal development for the activities of reading.
+Furthermore, once a child masters cognitive strategies he or she is not obligated to rely only on internal mediation. She or he can also ask for help when stuck, for example in the search for lost items of attire. During periods of difficulty, children may seek out controlling vocalizations by more competent others (Gal'perin, 1969). Cognitive strategy training emphasizes such action. Again, we see the intimate and shifting relationship between control by self and control by others.
+Even for adults, the effort to recall a forgotten bit of information can be aided by
+
+Teaching mind in society
+
+187
+
+the helpful assistance of another, so that the total of self-regulated and otherregulated components of the performance once again resembles commonplace shared functioning of parent and child. Even the competent adult can profit from regulation for the enhancement and maintenance of performance. A most important consideration is that deautomatization and recursion occur so regularly that they constitute a fourth stage of normal developmental process. What one formerly could do, one can no longer do.
+It often happens that self-regulation is not sufficient to restore performance capacity, and a further recursion - the restitution of other-regulation - is required. The readiness of a teacher to repeat some earlier lesson is one mark of excellent teaching. Whatever the level of recursion, the goal is to re-proceed through assisted performance to self-regulation and to exit the zone of proximal development anew into automatization.
+This theory of teaching, demonstrating how performance needs to be assisted by one or more means so that the learner proceeds through the zone of proximal development for one capacity after another, is both sensible and well demonstrated by empirical literature. How is it, then, that there is so little teaching of this kind in ordinary schooling? The answer is: Teacher capacities for assisting performance are not developed; teaching as assisted performance does not exist on the interpersonal plane of schooling sufficiently to support, maintain, or even recognize teaching when it occurs. A Vygotskian analysis of schools can lead to a theory of schooling itself that is as closely allied to the theory of teaching as two grasped hands.
+
+Theory of schooling: The institutional organization of assisted performance
+All performance assistance is embedded in complex organizations. The acquisition, enhancement, and maintenance of specific individual competencies are the conditions for the survival of all institutions, from the post office to the church to the school district. Regulation of new members begins immediately, through such systems as orientation and training programs. Many successful organizations also have settings for enhancement and maintenance of appropriate institutional behaviors, such as workshops, consultants, or retreats. But only these few settings are organized to "teach" by assisting performance in the zone of proximal development.
+To be sure, there are organizational systems to ensure good performance, such as inspections, merit reviews, or performance incentives. These are not seen as "teaching" systems, even though all of them - from orientation programs to salesmen's incentives - involve means of assistance: modeling, contingencies, feedback, instructions, questions, cognitive structuring. These interpersonal transactions create patterns of meanings, values, and cognitive structures, thereby creating/ perpetuating the culture of the institution.
+Even so, most institutions accept a limited responsibility for "teaching" per se. The provision of assistance is limited. When performance weakens, and the usual
+
+188
+
+R. G a l l i m o r e a n d R. T h a r p
+
+dosage of instructions and incentives does not cure, employees or recruits can be dismissed. Perhaps because such institutions have a limited commitment to teaching, they rarely conceive their relationships to personnel as "teaching through assisting performance."
+Regrettably, schools are too much like this general description of organizations. Schools also accept highly limited responsibility for assisting the performance of their personnel. This is paradoxical, since teaching is the sole formal purpose for the existence of schools, and thus schools bear a unique relationship to the act of teaching.
+Therefore, schools should be in a position to understand a corollary of our theory of teaching: A primary operational principie for schools should be to assist the performance of all their members, from kindergartners to superintendent. Sadly, it is not so.
+
+Organizing schools for teaching
+Little actual teaching occurs in schools; this is characteristic of transactions within the entire educational apparatus. All the way down the educational ladder, teaching is peculiarly absent in transactions between children and teachers, teachers and administrators, students and professors. Each appears to believe that, somewhere below, someone is teaching someone. Each position attempts to create educational opportunities for those down the chain - good textbooks, good workshops, even good performance objectives - but no one attends to assisting the performance of those objectives.
+Rather than assisting performance, the supervision usually means direction and evaluation. This is organically related to the classroom practice of directing and assessing: the recitation script. At neither level is there sufficient assistance, responsiveness, joint productive activity, or the building of common meanings and values. One reason why the recitation script is so firmly entrenched in the classroom (cf. Eloetker & Ahlbrand, 1969; Goodlad, 1984; Tharp & Gallimore, 1988) is that it is ubiquitous in the school.
+An alternative model of supervision and school organization grows from the concepts discussed in this chapter. One of the duties of each individual in a school system should be to assist the performance of the person next down the line: The superintendent assists the principal, the principal assists the teacher, the teacher assists the pupil. It is surely reasonable that the central responsibility of the teaching organization should be providing assistance for the performance of each member. This assistance, with its accompanying cognitive and behavioral development, is the justifying goal of the school, and all other duties should be in its service. Supervision itself should be defined as assisting performance in precisely the terms we used to define teaching.
+In this way, the superintendent can indirectly affect the work of teachers by assisting the principal to assist them. The primary responsibility of principals (or
+
+Teaching mind in society
+
+189
+
+designated instructional leaders) should be to assist teachers to assist children. Thus the good work of each position lies in assisting the next position to assist the third, and so forth down the chain for the ultimate benefit of the student.
+
+Nonsupervisory sources of assistance
+Effective assistance does not require authority. In fact, it is more nearly the opposite: Teaching is the process upon which authority depends to achieve its aims. Peers are a major source of nonsupervisory assistance. Vygotsky emphasized that the zone of proximal development is extended through problem solving under adult guidance or in collaboration with more capable peers. At every level of schooling, nonsupervisory influences can be structured so as to maximize the coherence of the overall system of assistance provided by the school. This principle is foundational to the "cooperative-learning" movement.
+Assistance and teaching do not flow in one direction. Employees also assist supervisors, pupils teach teachers, teachers assist principals. In any interaction, influences are reciprocal. Assistance most often flows from the more competent to the less competent participant - from teacher to learner, from trainer to trainee - but the interpersonal plane, created in joint activity, is a joint product.
+A central feature of the interpersonal plane is its intersubjectivity. In joint activity, the signs and symbols developed through language, the development of common understanding of the purposes and meanings of the activity, the joint engagement in cognitive strategies and problem solving - all these aspects of interaction influence each participant. While the more able member of a joint activity exercises more influence, through providing more assistance, it is one task of the teacher to understand the subjectivity of the learner, and - for the task at hand - to share it so as to influence it. As new members coalescein a new activity, a new intersubjectivity is created, and for all members, it is internalized into a new cognitive development. (Tharp & Gallimore, 1988, p. 89)
+Authority in the supervisory line should be used to create new activity settings in which joint productive activity will produce the assistance that will increase the competence of supervisees. All those who participate will be influenced, will be assisted, will develop a new intersubjectivity, and will advance in the development of capacities to assist. The basic principle for the design of effective assistance is to marshal the sources that will assist the performance of those down the supervisory chain and to eliminate the sources that hinder or obstruct that performance. Good design and management of assisted performance can be seen as the creation
+of appropriate activity settings.
+
+The design of activity settings in schools
+
+Those occasions when collaborative interaction, intersubjectivity, assisted perfor­
+
+mance occur - when teaching occurs - are referred
+
+to as activity settings. Activity
+
+setting is a concept that has multiple origins (Cole, 1985; Leont'ev, 1981; Tharp &
+
+190
+
+R. Gallimore and R. Tharp
+
+Gallimore, 1988; Weisner, 1984; Weisner & Gallimore, 1985; Wertsch, Minick, & Ams, 1984; Whiting & Whiting, 1975).
+The name activity setting incorporates the two essential features: the cognitive and motoric action itself (activity); and the external, environmental, and objective features of the occasion (setting). They are the who, what, when, where, and why, the small recurrent dramas of everyday life, played on the stages of home, community, and workplace. All these features - personnel, occasion, motivations, goals, places, and times - cannot be unpackaged without drastically reducing the explanatory and practical utility of the concept of activity setting. It is true that social science has always separated these features, and consequently the concept requires some practice before its use is comfortable (Tharp & Gallimore, 1988). But all settings for activity in the school can be analyzed in these terms, from work centers in classrooms to independent teacher self-study groups.
+
+Examples and principles of activity settings in the schools
+Examples of important activity settings for students include whole-class settings, laboratory partnerships, cooperative-learning small groups, debates, drama rehearsals. Activity settings for adult members of school organizations include faculty committees, peer coaching groups, workshops, individual teacher consultation by outside experts, grade-level committee meetings, curriculum revision groups. We will exemplify the concept by discussing two activity settings in detail; one is designed to assist the performance of students, and the other assists the performance of teachers. Both examples are drawn from work at the Kamehameha Early Education Program (KEEP; see Tharp & Gallimore, 1988).
+Center One. Center One accomplishes assistance of child learning by creating an activity setting in the classroom that maximizes opportunities for coparticipation and instructional conversation with the teacher. Center One is the central activity setting at KEEP for the teaching of literacy to children from kindergarten through third grade. It is the focal point of teacher-child interaction. The specific activities vary from one group to another and from day to day, but in each the children and teacher are engaged in a lively instructional conversation. The Center One lesson teaches not only reading but also listening, speaking, and thinking. The basic goal of instruction is the development of cognitive/linguistic abilities.
+This direct daily instruction occurs in homogeneous ability groups of five to six children. The most common pattern is highly informal mutual participation by the teacher and students, co-narration, volunteered speech, instant feedback, and lack of penalty for "wrong" answers. (Elowever, for vocabulary and decoding teaching, the pattern may be highly teacher-dominated, almost drill-like.)
+During instruction in comprehension, the teacher follows a pattern of repeated thematic routines, labelled "E-T-R sequences" (Au, 1979, 1981). The teacher introduces content drawn from the child's experience (E), followed by text (T) ma-
+
+Teaching mind in society
+
+191
+
+terrai, followed by establishing relationships (R) between the two. These sequences may last from a few seconds up to several minutes. The teacher relies heavily on questioning that samples from the various levels of cognitive operations, extending from recall of specific detail through the higher orders of reference and extension (Crowell & Au, 1979; White & Tharp, 1988).
+The teacher builds flexibly on the children's responses. Thus the teacher maintains goals for the discussion but often alters or even abandons the anticipated ` ` script' ' for a given lesson. This technique engages the children's interest, and the result is a vigorous, enthusiastic discussion.
+This activity setting occupies most of the teacher's interactive teaching time. The teacher only occasionally monitors the other 20 or so children who are busy working at other independent activity settings. (For more detailed discussions of Center One and of KEEP, see Au, 1979; Tharp, 1982; Tharp & Gallimore, 1988.)
+
+Observation-and-conference activity settings. The second example, also drawn from
+
+KEEP, is a major activity setting designed to assist the performance of teachers. In
+
+the observation-and-conference activity, each teacher is observed at least once a
+
+week by an assigned consultant (or other supervisor), and some assessment is made
+
+of the teacher's performance on a teaching skill of current focus. An example is an
+
+observation of the proportion of time spent by the teacher on comprehension in
+
+struction, as opposed to decoding or sight vocabulary
+
+objectives. The results are
+
+fed back to the teachers immediately. Measurements of student
+
+on-task rate (or
+
+engaged time) are done periodically, or on request by the teachers or their supervi­
+
+sors. Rates of positive contingency management are also measured, especially for
+
+beginning teachers. Sample lessons or videotapes of direct instruction sessions are
+
+periodically reviewed by supervisors, and feedback is provided.
+
+The activity setting for consultant-teacher interaction is also an instructional con­
+
+versation, that of the weekly conference, where the two meet to discuss the feed­
+
+back, to decide on the next goals for the teacher's own learning, and to work co­
+
+operatively in planning for the children in the classroom. Frequently, a videotape
+
+of one of the teacher's lessons is reviewed. Both participants comment on the tape,
+
+and the consultant uses this stimulus to provide feedback, instructions, reinforce­
+
+ment, questioning, or cognitive structuring. In the later stages of the zone of prox­
+
+imal development, the teacher provides most of this assistance in a pattern of "self­
+
+collaboration."
+
+Though there are many possibilities for joint productive activity, in the typical
+
+school there are insufficient opportunities, personnel, time, and commitment for
+
+principals to interact with teachers, for superintendents to interact with principals,
+
+for district-level experts to interact with grade levels, for program designers to in­
+
+teract with program operators, or for any level of personnel to interact with peers.
+
+That is to say, in schools there is too seldom joint productive activity. Teachers,
+
+principals, curriculum specialists, and other authorities direct their subordinates to
+
+accomplish a task but do not participate in the productivity. A basic condition for
+
+192
+
+R. G a l l i m o r e a n d R. T h a r p
+
+effective activity settings is jointness (Tharp & Gallimore, 1988). Without jointness, the supervisor cannot assist performance, affect cognitive structures of learners, or be affected by the emerging group intersubjectivity.
+In schools' activity settings, there is too seldom a product at all. This removes another basic condition needed for good functioning of any human group. The activity of a group, the helpfulness of members to one another, the motivation to participate in the activity - all these indispensable conditions are, in ordinary life, driven by the product itself. When a curriculum specialist asks, "What can I do to assist this teacher to become a better assister of his students?" one answer is: "Find a time and a place to work together, on a product that we will both value, and through which we can come to a common and advancing understanding." When that time and place are identified, the specialist will have begun to identify the teacher's zones of proximal development (for content, pedagogy, planning, etc.) and will have some idea of what means of assistance to employ and in what order.
+Four basic principles can guide school personnel in evaluating and improving the structure of activity settings. First, the assister should at all times participate in at least one activity setting with the assistee(s). Second, the authority of the assister should be used to organize activity settings and to make resources of time, place, persons, and tools available to them. Third, authority should not override the emerging intersubjectivity and problem solving of the activity's members. Fourth, every member of the school community should be engaged in some setting of joint productive activity.
+After sketching the theory of teaching, and the theory of schooling, we are now prepared to consider the third leg of a theoretical tripod: the theory of literacy.
+
+A theory of literacy
+Schools should teach students to be literate in the most general sense - capable of reading, writing, speaking, computing, reasoning, and manipulating verbal (and visual) symbols and concepts. Together, the three theoretical legs of teaching, schooling, and literacy support a theory of education. The term three legs of a tripod emphasizes the interconnectedness of these considerations: If one collapses, all fall down.
+For each of the legs of this theory of education, there is a crucial concept. For the theory of teaching, the zone of proximal development is the cornerstone. For the theory of schooling, activity settings are key. For a theory of literacy, the key Vygotskian concept is word meaning.
+
+Word, discourse, and meaning
+Vygotsky considered word meaning the basic unit for the analysis of consciousness, because word meaning is both an intramental and an intermental phenomenon. Word meaning is the stuff of verbal thinking. It also resides in the community of language
+
+Teaching mind in society
+
+193
+
+users. Through the use of language in activity settings, the dialectic between the intramental and the intermental planes produces constant, evolutionary development in word meaning.
+Vygotsky uses word (the Russian slovo) in both the simple, lexical form as the symbol for a concept and in the larger sense of discourse. It refers to both vocabulary and discourse competencies, which develop in the context of social use in joint activity. The intersubjectivities of activity settings are created through the use of words in discourse; these signs and symbols take on new and shared meanings, as they are hallowed by use during joint productive activity. The social meanings of words are internalized by individuals through self-directed speech, taken underground, and stripped down to the lightning of thought. When we turn our attention to word meaning and a theory of knowledge development and expression, we are merely attending to another facet of the zone of proximal development and the activity setting. But this facet is a vital one; word meanings are the threads by which society weaves itself into one cloth.
+
+Discourse in schooling
+One of the characteristics of schooled discourse is its dependence on written language. When children learn to read, there is a major alteration in the entire form of thinking, and in the relationship of language to thinking. These developmental changes in the relationship may be observed on both a sociohistorical level (Ong, 1982) and an ontogenetic level.
+Paralleling the difference between written and verbal discourse is the distinction between "everyday" concepts and "schooled" concepts. According to Minick, the Russian nauchnoe ponyatie may be translated (Vygotsky, 1987) as scientific con cepts. It translates equally well as scholarly concepts. The kernel of the issue is that these concepts, unlike everyday concepts, are schooled and systematic. The most sensitive English term for the concept as we understand it today may be neither scientific nor scholarly but schooled. Schooled concepts arise through the social and historical development of formal education and its social institutions (Leont'ev, 1935/1983).
+All concepts develop through language use accompanying joint activity. Everyday concepts are closely tied to the specific objects and conditions that their names represent. The word for an object is a part of the object, an attribute of the object as integral as its color, smell, or size. Words, in the everyday realm, cannot be detached and manipulated in the young child's mind separately from the image of the phenomenon represented.
+In schooled concepts, words are wrested from their designata and manipulated in the mind independently of their images. Many of these new schooled words are themselves imageless and serve to fink and manipulate other words. The student's attention shifts from sign-object relationships to sign-sign relationships (Wertsch,
+
+194
+
+R. G a l l i m o r e a n d R. T h a r p
+
+1985a). A system of words develops, with units of decontextualized words, rules of use, rules of transformation, and an emphasis on these internal relationships.
+Vygotsky argues that the unique route to higher-order verbal thinking is the experience of schooling. Schooling detaches the word from its designatum and at taches it to a generalization. This shift is of profound importance because only if the word is freed of its sensory impedimenta can it be manipulated voluntarily and with conscious awareness. Written speech must have more words, be more precise, and be more expanded than verbal speech, because it cannot rely on paralinguistic elements such as tone and gestures. This enforces an experience of language as system. This systematicity - self-contained and self-sufficient - is what allows language to be unhooked from the sensory world, to be taken in hand by the thinker, to be used as a tool for thought (Tharp & Gallimore, 1988).
+The "system" of written discourse is far different from that used in practical activity settings of home and community. Vygotsky points out that everyday concepts are learned primarily through speech; schooled examples are learned primarily through written symbols. Everyday concepts are learned "upward" from sensory experience to generalization; schooled concepts are learned "downward" from generalization to palpable example.
+The course of development of higher mental processes lies in bringing the two together, in allowing the synthesis of the opposites. Schooled concepts connect with the experienced world through the everyday concepts that have arisen through practical activity. Relating the two enriches and saves schooling from aridity; but this relating also profoundly changes the nature of the everyday concepts, making them more systematic, autonomous, and tool-like. Of course, everyday thinking continues, permanently. But the relating of the domains of everyday concepts and the system of schooled concepts requires the learner "to attend to aspects of linguistic activity that had earlier been mastered without conscious awareness" (Minick, 1985, p. 365). Their conjunction illuminates both.
+Thus the dialectic between everydayness and the systematic tools of schooled discourse gives rise to consciousness of these symbols and makes possible their use in practical thinking. The instructional task of the school is to facilitate that developmental process by teaching the schooled language of reading and writing and facilitating the constant conjunction of these systems with those of everyday concepts (Tharp & Gallimore, 1988). "Effective instruction with young children involves a continuous integration of language and action" (Wood, 1980, p. 290).
+Effective school instruction must provide the interface between emergent schooled concepts and everyday concepts. Only in this way will the highest order of meaning be achieved, and only in this way will teaching ensure that tools of verbal thought will be manipulated for the solution of practical problems of the experienced world. Reading and writing prepare the child for receiving schooled concepts. Reading is both the condition and the process of acquiring meaning. To learn to read is to learn to comprehend, and to teach reading means to teach comprehension.
+
+Teaching mind in society
+
+195
+
+Teaching reading and comprehension
+Comprehending text means the weaving of new, schooled concepts with those of everyday life, a process that Wittrock (1974) described as generative. In Wittrock's conception, comprehension is "a function of the abstract and distinctive, concrete associations which the learner generates between his prior experience, as it is stored in long-term memory, and the stimuli" (1974, p. 89). Text becomes meaningful because it has become woven into the student's system of meanings and understandings. Extracting information from text, arraying and preparing it for weaving into existing cognitive systems are basic competencies that literate societies transmit. School-based instruction in comprehension of written text is our basic system for establishing the discourse meanings that create both the intermental and intramental capacity for verbal thinking (Vygotsky, 1987).
+At the earliest levels of instruction - for children whose emergent literacy experiences in the home have been limited - it is necessary to build those cognitive competencies that are fundamental to eventual text comprehension. For the very young child, or for the child without early interactions with schooled parents - it is necessary first to build word meanings on the everyday, verbal level and to introduce gradually the linguistic stream of writing itself.
+Thus comprehension is established by the weaving of new, schooled concepts with the concepts of everyday life. Textual material becomes meaningful because it has gained a new attachment - it is now hooked by sense to everyday concepts and hooked by system to the whole structure of meaning given by schooling. The homely "weaving" heuristic used by reading teachers is not only a short-term instructional strategy. Indeed, it is used consistently in the highest reaches of scientific and philosophical thought. Theoretical thought and discussion require a continual freshening by example and a testing against sensory data. This constant connecting of schooled concepts and everyday concepts is the basic process of understanding the world used by mature schooled thinkers.
+The weaving of the schooled with the everyday is not only enhancing to the dialectical growth of concepts but also motivating. For example, we know that the discourse of science occurs in a particular register, with its distinct rules and formalities. In the teaching of science, however, these conventions are frequently violated by the interpolation of everyday discourse. These alternations are unmistakable, ordinarily being marked by tone of voice, laughter, asides, and so on. During these times, the attention of students is at its highest (Cazden, 1987; Lemke, 1982).
+"Formal schooling is a place where the child is drawn into unique modes of social interaction and thinking that have their roots in the history of Western science and philosophy" (Minick, 1985, pp. 367-368). From kindergarten to graduate seminars, the small discussion group where text and personal understanding can be compared, discussed, and related is the prime opportunity for this "unique social interaction."
+
+196
+
+R. G a l l i m o r e a n d R. T h a r p
+
+In contemporary schools, this social interaction is rare indeed (Goodlad, 1984; Hoetker & Ahlbrand, 1969; Sarason, 1983). For example, Durkin (1978-1979) observed 18,000 minutes of reading comprehension instruction and found that less than 1% dealt with units of meaning larger than words. Hiebert (1983) compared instruction of higher and lower ability groups. Children in the lowest reading groups receive more word-list drill but read less connected text; they are asked more simple, factual questions and fewer questions that require inference or synthesis. Opportunities for participation in the unique social interaction we call literate discourse are virtually nonexistent. Such patterns of instruction will only reinforce the problems of poor readers. It is known that poor readers are unlikely to make the inferences required to weave information in a text into a coherent overall mental model. Poor readers' beliefs about knowledge do not lead them to suppose that consistent interpretations of events are generally possible, or even desirable. For the poor reader, knowledge is a basket of facts (Anderson, 1984).
+A group discussion, around a text, is a reflection of the larger society for which children are to be educated, in which pairs and groups of people in the workplace and at play interact around a text, the meaning of which influences their actions. When Minick (1985) argues that society, as the larger social context, influences schools to adopt relevant activity settings, he is arguing the ideal rather than the actual instance. Perhaps schools' failure to reflect the larger context of society is the reason for society's impatience with the schools. Society depends on the school to prepare students in ways more profound than learning "baskets of facts." For the child, the educational design of activity settings produces more than habits of action, more even than cognitive transformation. The school's activity settings bring about a fundamental restructuring in which all are transformed: actions, relationships, and thinking (El'konin, 1972).
+
+The instructional conversation
+Discourse in which expert and apprentices weave together spoken and written language with previous understanding appears in several guises. It appears as literacy experiences in activity settings of successful students' homes, the ways that parents teach their children language and letters. It is disguised in many activity settings as the chat that accompanies action. It is the natural conversational method of language instruction. It can be the medium for teacher training. It can wear the mask of a third-grade reading lesson, or a graduate seminar. It's generic name is the Instructional Conversation. . . . The concept itself contains a paradox: "instruction" and "conversation" appear contrary, the one implying authority and planning, the other equality and responsiveness. The task of teaching is to resolve this paradox. To most truly teach, one must converse; to truly converse is to teach. (Tharp & Gallimore, 1988, p. 111 )
+Earlier, we spoke of the task of schooling as the creation of activity settings. That
+is because the language that accompanies joint productive activity is the major ve­
+hicle for the development of intersubjectivity, the internalization of concepts, the
+development of discourse meaning, and the development of higher cognitive pro­
+
+Teaching mind in society
+
+197
+
+cesses. Joint productive activity is good in part because it allows the instructional conversation. Thus, in emphasizing this concept, we may characterize the task of schooling as creating and supporting instructional conversations among students, teachers, administrators, program developers, and researchers. Not only do babies
+learn to speak, and children to read, through the instructional conversation, but by this same means teachers learn to teach, researchers learn to discover, and all learn
+to become literate. Instructional conversational exchanges among parents and children, and in a few
+classrooms, are fundamentally different from the recitation script. To converse is to assume that the learner may have something to say beyond the "answers" already known by the teacher. To grasp a child's communicative intent requires careful listening, a willingness to guess about the meaning of the intended communication, and responsive adjustments to assist the child's efforts. Instructional conversation
+in the school setting requires that "teachers" engage "learners" in discourse like that used by Ochs's (1982) literate caregivers:
+One of the most distinctive characteristics of middle-class Anglo caregivers is their willingness to engage in communicative exchanges [even] with the smallest of infants. . . . Long before the child has actually produced its first word, it is treated as if it in fact does have something to say. . . . When young children actually begin producing words, this set of assumptions by the caregiver continues. The caregiver, typically the mother, considers the young child to be expressing somewhat imperfectly a communicative intention, (pp. 88-89)
+Later, a similar pattern is observed in storybook reading and other emergent literacy events (Heath, 1982; Teale, 1986).
+This is very unlike the verbal exchanges students experience in their school lives.
+The teachers generally ignore children, talk over them, and dominate the proceedings (Goodlad, 1984; Wells, 1986; Wood, McMahon, & Cranstoun, 1980).
+This kind of school discourse is particularly handicapping to children whose home activity settings do not include "meaningful discourse" in the language of school­
+ing.
+The failure of many disadvantaged children in school is often explained by referring to their unfamiliarity with the middle-class ethos of school. But many schools operate in a way that is similar to the disadvantaged home in terms of using language and developing thinking skills. . . . teachers need a new understanding of the part they can play in children's education. They need insight into the role that language plays in learning and . . . the way in which children learn to use language through interaction with adults. . . . Teachers need to recognize that many children will not have experiences through which their thinking might be extended unless these are provided in school . . . and [teachers need] to recognize the critical importance of the experiences they themselves provide through their own talk with children. (Tough, 1982, pp. 14-15)
+
+Rather than provide such programs, however, teachers usually blame familiesand-culture for the failure to provide adequate language development at home. The incredible irony is this: Schools themselves have adopted the interactional patterns so often attributed to disadvantaged homes.
+
+198
+
+R. G a l l i m o r e a n d R. T h a r p
+
+There is another irony: Most teachers are members of the literate middle class, where researchers have most often found the instructional conversation. Why, then, is this interactional pattern so seldom observed in classrooms run by teachers who talk to their own children in this way?
+There are at least two main reasons. First, a teacher cannot provide assistance in the ZPD unless she knows where the learner is in the developmental process. Opportunities for such careful observation of the child's in-flight performance are rarely available in typical American classrooms. In individual tutorials, in private schools with classes of seven or less, such intimate knowledge of the learning process may be possible. But all involve a pupil-teacher ratio that society generally declines to provide. There is some cause for optimism in schools' increased use of small groups, maintenance of positive classroom atmosphere which increases independent task involvement of students, and new materials and technology with which students can interact independently of the teacher. But these positive developments do not speak to the second reason that assisted performance has not diffused into the schools. Although most parents do not need to be trained to assist performance, most teachers do because their task is more complex. Teachers cannot rely on skills that are sufficient for parental socialization of offspring. Lay or parental skills are a foundation, but teachers need a more elaborate set of skills in assistance, and they need to be more conscious of their application.
+Teachers do not conduct instructional conversations because they do not know how. They do not know how, because they have never been taught. They almost never have opportunities to observe effective models or occasions for practicing and receiving feedback or for competent coaching by a skilled mentor. Like all learners, teachers themselves must have their performance assisted if they are to acquire the ability to assist the performance of their students. Teachers, like all learners, have zones of proximal development of professional skills. And teachers, like all learners in schools, seldom receive the performance assistance that is required for them to develop.
+Teachers need to learn the "expert pedagogy" of which Berliner (1986) and others have written (see various chapters in Wittrock, 1986). They must learn professional skills of assisting performance and learn to apply them at a level far beyond that required in private life. Thus pedagogically expert teachers do not act exactly like parents. The large numbers of pupils, the restricted and technical curriculum, and the complexity of institutional restraints of schooling require that teaching be a highly deliberate, carefully structured, planned, professional activity. Unlike conversations in natal settings, teachers have a deliberate curriculum of literate knowledge and skills to impart.
+Nevertheless, working with content-rich curricula teachers can and must move closer to the communicative styles of parents with their own children. What might appear to be "spontaneous" instructional conversations (see, e.g., Tharp & Gallimore, 1988, chaps. 3, 7, 8, 10) are not. We are not advocating casual, drifting classroom chatter. Rather, we mean instructional conversations that require highly
+
+Teaching mind in society
+
+199
+
+refined interpersonal competencies in combination with a solid grasp of the substantive knowledge to be taught.
+Teaching-as-assisted-performance and the arts of the instructional conversation can be taught (Tharp & Gallimore, 1988). We know that these skills are acquired in the interpsychological plane: Teachers acquire these skills through instructional conversations with trained consultants. With assisted performance in teachers' zones of proximal development, these teaching skills of the instructional conversation eventually are internalized and automatized as intrapsychological cognitive processes. These skills themselves are skills of thinking and decision making and are employed regularly and permanently as the skills are plied. In the intersubjectivities developed in instructional conversations, "teaching" takes on a different meaning. To produce these teacher-training conversations requires a different organization of schooling than is found in educational institutions today. It takes a different form of training. The uniting of Vygotskian concepts and perspectives with social and behavioral science provides a basis on which to proceed.
+
+Conclusions: A unified theory of education
+On the whole, contemporary teaching research is atheoretical (Good & Weinstein, 1986), thus suffering from what Price-Williams (1975) called the "Penelope complex," after the wife of Odysseus who each night undid her day's weaving. By unraveling, she put off finishing the cloak - and her promise then to choose among the suitors for her hand and the throne of Ithaca. So too in educational science: the threads of knowledge carded by investigators are not woven into a whole, durable cloak of principles that can be called a theory in the broader sense of the word. And without such a cloak, no new kingdom will come.
+Consider "microteaching," a briefly fashionable teacher-training system that soon disappeared from citation indexes, despite ample evidence of its effectiveness (Walberg, 1986). In current discussions about improving teaching and teacher preparation, almost no writers even mention microteaching or make any effort to incorporate and explain the data that movement produced. If the vigorous interest in Vygotskian perspective follows this same pattern, then we can expect in a decade or so that it will be occasionally remembered as another in the long line of discarded educational fashions.
+Microteaching is a particularly apt example of a lost thread because it no doubt seems an unlikely topic for this chapter on Vygotsky's contributions to a unified theory of education. It is our brief that a true theory of education must incorporate and account for robust germane phenomena. Microteaching grew out of research on observational learning; it employed modeling, one of the six means of assisting performance in the zone of proximal development. Microteaching works because it activates a fundamental, universal learning process. Microteaching may have lost favor, but the laws of human behavior on which it rests have not changed.
+A theory of education must account for and predict how teachers can learn to
+
+200
+
+R. G a l l i m o r e a n d R. T h a r p
+
+truly teach; it must specify principles by which schools can be reformed to make
+possible such teacher experiences at the beginning and throughout their careers. All
+previous efforts to reform schools have been defeated by the failure to change teach­
+ers by changing the contexts in which they work (Sarason, 1971; Tharp & Galli­
+more, 1988). The problem now, as during earlier reform movements, is the lack of
+a theory of schooling, of training, and of professional development.
+The uniting of Vygotskian and other perspectives provides the set of principles,
+the guiding theory, that has been missing:
+In Vygotskian terms, teaching is good only when it "awakens and rouses to life those functions which are in a stage of maturing, which lie in the zone of proximal development"(Vygotsky, 1956, p. 278, italics in original).
+Teaching consists of assisting performance through the zone of proximal development. Thus teaching can be said to occur at that point in the zone where performance can be achieved with assistance.
+Teachers, like their students, have zones of proximal development; they too require assisted performance; as with students, activity settings for teachers must create opportunities in which they receive all the six means of assistance. The sources and contexts of assistance are infinitely varied; it does not matter by whom or in what way it happens, as long as performance is assisted.
+Activity settings are contexts for assisted performance opportunities created by the concentration of personnel present, their goals, the tasks at hand, and the scripts which guide interaction. To create opportunities for assisted performance in joint productive activity requires keen attention to the components of which they are constructed. Each activity setting should have a product as its goal, a product that is motivating for all its participants.
+Schools must construct activity settings that assist teachers to truly teach: to adopt a role in which teachers assist students in the zone of proximal development.
+The purpose of schooling is teaching students to be literate in the most general sense of the word - capable of reading, writing, speaking, computing, reasoning, and manipulating visual as well as verbal symbols and concepts. Literacy is achieved through the creation of opportunities for students to be assisted in the use of word meanings, conceptual structures, and discourse itself - so that signs and symbols take on new and shared meanings as they are hallowed by use during joint productive activity, taken underground, and stripped down to the lightning of thought. (Tharp & Gallimore, 1988)
+
+These principles allow us to define for teachers, as well as children, the most productive social contexts for teaching and learning: Productive interactions occur in goal-directed activity settings, which are jointly undertaken by apprentices and experts. They involve contributions and discoveries by learners, as well as the assistance of an "expert" collaborator. Instruction in such collaborative efforts is contingent on the apprentice's own activities and related to what he or she is currently trying to do. The assisting expert typically provides information relevant to furthering the apprentice's current goal-directed activity. Such information is provided in a way that is immediately responsive and proportionate to the apprentice's varying information needs. Departures from this evolved pattern of responsive, synchronous interaction create difficulties for learners (Fischer & Bullock, 1984; Wood, 1980). Yet such interactions are rare in the school lives of teachers and children
+
+Teaching mind in society
+
+¿bí
+
+alike (e.g., Duffy & Roehler, 1981; Durkin, 1978-1979; Goodlad, 1984; Hoetker & Ahlbrand, 1969; Joyce & Clift, 1984; Tharp & Gallimore, 1988).
+With these principles, the fundamental barrier to reform of teaching and schooling can be identified: Most teachers work alone, in splendid isolation (Griffin, 1985; Jackson, 1968; Knoblock & Goldstein, 1971; Sarason, 1971). This isolation of teachers accounts for much of the problem of achieving school reform. Isolated teachers have limited opportunities for receiving assistance through modeling and feedback, two means of assistance crucial to acquisition of complex social repertoires. Ordinary means of teacher preparation and training can provide cognitive structuring, but that alone will not assist teachers to develop new repertoires of complex social behavior necessary to meet the criterion of teaching-as-assistedperformance in the zone of proximal development. Without performance assistance for themselves, there is no chance that teachers will ever learn to assist the performance of their students. Without assistance, there is no chance that teachers will ever abandon the viewpoint common in American classrooms, now and since the 19th century, that students are supposed to learn on their own (Tharp & Gallimore, 1988).
+Adequate theory must address not only the individual processes of development and learning but the social contexts in which they transpire (Tanger & Applebee, 1986). Such a comprehensive theory is made possible by a uniting of emergent Vygotskian perspectives with this century's achievements in social and behavioral science. This uniting insists that teaching will not be reformed until schools are reformed. Schools will not be reformed until it is understood that schools must be a context for teaching and that context must itself be a teaching context. Such a theory can also retrieve the lost knowledge of previous research, such as microteaching, and perhaps begin to weave our accumulated knowledge into a garment for more than one season.
+Vygotsky -. known for his interest in the arts and literature - might be pleased that his ideas contributed to a cure for the Penelope complex of American educational science.
+
+References
+Anderson, R. C. (1984). Some reflections on the acquisition of knowledge. Educational Researcher, 13(9), 5-10.
+Au, K. H. (1979). Using the experience-text-relationship method with minority children. Reading Teacher, 32(6), 677-679.
+Au, . . (1981). The comprehension-oriented reading lesson: Relationships to proximal indices of achievement. Educational Perspectives, 20, 13-15.
+Bandura, A. (1969). Principles of behavior modification. New York: Holt, Rinehart & Winston. Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice-Hall. Berk, L. E. (1986). Relationship of elementary school children's private speech to behavioral accom­
+paniment to task, attention, and task performance. Developmental Psychology, 22, 671-680.
+
+202
+
+R. G a l l i m o r e a n d R. T h a r p
+
+Berk, L. E., & Garvin, R. (1984). Development of private speech among low-income Appalachian
+
+children. Developmental Psychology, 20, 271--286.
+
+Berliner, D. C. (1986). In pursuit of the expert pedagogue. Educational Researcher, /5(7), 5-13.
+
+Brown, A. L., Bransford, J. D., Ferrara, R. A., & Campione, J. C. (1983). Learning, remembering,
+
+and understanding. In J. H. Flavell & E. M. Markman (Eds.), Handbook of child psychology: VoL
+
+3. Cognitive development (4th ed.) (pp. 77-166). New York: Wiley.
+
+Brown, A. L., & Campione, J. C. (1986). Psychological theory and the study of learning disabilities.
+
+American Psychologist, 4/(10), 1059-1068.
+
+Carver, C.
+
+S., & Scheier, M. F. (1981). Attention
+
+and
+
+self-regulation: A control-theory approach to
+
+human behavior. New York: Springer-Verlag.
+
+Cazden, C. B. (1987, January). Text and context in education. Paper presented at the Third International
+
+Conference on Thinking, Honolulu.
+
+Cole, M. (1985). The zone of proximal development: Where culture and cognition create each other. In
+
+J. V.
+
+Wertsch (Ed.), Culture, communication,
+
+and cognition:
+
+Vygotskian perspectives (pp. 146-
+
+161). Cambridge: Cambridge University Press.
+
+Crowell, D. C., & Au, K.
+
+H. (1979). Using a scale
+
+of
+
+questions to improve listening comprehension.
+
+Language Arts, 56, 38-43.
+
+Duffy, G. G., & Roehler, L. R. (1981, December). An analysis of instruction in reading instructional
+
+research. Paper presented at the meeting of a Research Session on Reading Instructional Research,
+
+National Reading Conference, Dallas.
+
+Duffy, G. G., Roehler, L.
+
+R., Meloth, M. S., & Vavrus, L. G. (1986). Conceptualizing instructional
+
+explanation. Teaching and Teacher Education, 2, 197-214.
+
+Durkin, D. (1978-1979). What classroom observations reveal about reading comprehension instruction.
+
+Reading Research Quarterly, 14, 481-533.
+
+Ekonin, D. B. (1972). Toward the problem of stages in the mental development of the child. Soviet
+
+Psychology, 10, 225-251.
+
+Ervin-Tripp, S. (1976). Is Sybil there? The structure of some American English directives. Language in
+
+Society, 5, 25-66.
+
+Ervin-Tripp, S. (1977). Wait for me, roller skate! In S. Ervin-Tripp & C. Mitchell-Keman (Eds.), Child
+
+discourse (pp. 165-188). New York: Academic Press.
+
+Fischer, K. W., & Bullock, D. (1984). Cognitive development in school-aged children: Conclusions
+
+and new directions. In W. A. Collins (Ed.), Development during middle childhood: The years from
+
+six to twelve (pp. 70-146). Washington, DC: National Academy Press.
+
+Fortes, M. (1938). Education in Taleland. Africa, //(Suppl. 4), 4.
+
+Gallimore, R., Dalton, S., & Tharp, R. G. (1986). Self-regulation and interactive teaching: The im­
+
+pact of teaching conditions on teachers' cognitive activity. Elementary School Journal, 86(5),
+
+613-631.
+
+Gal'perin, P. (1969). Stages in the development of mental acts. In M. Cole & I. Maltzman (Eds.), A
+
+handbook of contemporary Soviet psychology (pp. 249--273). New York: Basic.
+
+Good, T. L., & Weinstein, R. S. (1986). Schools make a difference: Evidence, criticism, and new
+
+directions. American Psychologist, 4/(10), 1090-1097.
+
+Goodlad, J. (1984). A place called school New York: McGraw-Hill.
+
+Griffin, G. A. (1985). The school as workplace as the master teacher concept. Elementary School Jour­
+
+nal, 86(1), 1-16.
+
+Heath, S. B. (1982). What no bedtime story means: Narrative skills at home and school. Language and
+
+Society, 11(2), 49-76.
+
+Hiebert, E. H. (1983). An examination of ability grouping for reading instruction. Reading Research
+
+Quarterly, 18(9), 231-255.
+
+Hoetker, J., & Ahlbrand, W. (1969). The persistence of recitation. American Educational Research
+
+Journal, 6, 145-167.
+
+Homme, L. (1966, November). Contingency management. Clinical Child Psychology Newsletter, 4.
+
+Jackson, P. (1968). Life in classrooms. New York: Holt, Rinehart & Winston.
+
+John-Steiner, V. P., & Oesterreich, H. (1975). Learning styles among Pueblo children: Final report to
+
+National Institute of Education. Albuquerque: University of New Mexico, College of Education.
+
+Teaching mind in society
+
+203
+
+Jordan, C., Tharp, R. G., & Vogt, L. (1985). Compatibility of classroom and culture: General principles, with Navajo and Hawaiian instances (Working Paper). Honolulu: Kamehameha Schools/ Bishop Estate, Center for Development of Early Education.
+
+Joyce, B. R., & Clift, R. (1984). The phoenix agenda: Essential reform in teacher education. Educa­
+
+tional Researcher, ¡3(4), 5-18.
+
+Keenan, E. O., & Schieffelin, B. B. (1976). Topic as a discourse notion: A study of topic in the
+
+conversations of children and adults. In C. Li (Ed.), Subject and topic (p. 335-384). New York:
+
+Academic Press.
+
+Knoblock, P., & Goldstein, A. P. (1971). The lonely teacher. Boston: Allyn & Bacon.
+
+Langer, J. A., & Applebee, A. N. (1986). Reading and writing instruction: Toward a theory of teaching
+
+and learning. In E. Z. Rothkopf (Ed.) (1986), Review of research in education (Vol. 13). Washing­
+
+ton, DC: American Educational Research Association.
+
+Lemke, J. L. (1982). Classroom communication of science: Final report (Report No. (SEDR-79-18961).
+
+Washington, DC: National Science Foundation. (ERIC Document Reproduction Service No. ED
+
+222 346)
+
+Leont'ev, A. N. (1981). The problem of activity in psychology. In J. V. Wertsch, (Ed.), The concept
+
+of activity in Soviet psychology (pp. 37-71). Armonk, NY: Sharpe.
+
+Leont'ev, A. N. (1983). The mastery of scientific concepts by students as a problem of educational
+
+psychology. In A. N. Leont'ev (Ed.), Selected psychological works (. 2). Moscow: Pedagogika.
+
+(Original work published 1935)
+
+Meichenbaum, D. (1977). Cognitive behavior modification:
+
+An integrative approach. New York:
+
+Plenum.
+
+Minick, N. (1985). L. S. Vygotsky and Soviet activity theory: New perspectives on the relationship
+
+between mind and society. Unpublished doctoral dissertation, Northwestern University, Evanston,
+
+IL.
+
+Minick, N. (1987). Implications of Vygtosky's theories for dynamic assessment. In C. S. Lidz (Ed.),
+
+Dynamic assessment:
+
+An interactional approach to evaluating learning potential (pp. 116-140).
+
+New York: Gilford.
+
+Nerlove, S. B., & Snipper, A. S. (1981). Cognitive consequences of cultural opportunity. In R. H.
+
+Munroe, R. L. Monroe, & B. B. Whiting (Eds), Handbook of cross-cultural human development
+
+(pp. 423-474). New York: Garland.
+
+Ochs, E. (1982). Talking to children in Western Samoa. Language in Society, 11, 77-104.
+
+Ong, W. Orality and literacy: The technologizing of the world. New York: Methuen.
+
+Paris, S., Lipson, M., & Wixson, K. (1983). Becoming a strategic reader. Contemporary Educational
+
+Psychology, 8, 293-316.
+
+Pettit, G. A. (1946). Primitive education in North America. University of California Publications in
+
+American Archeology and Ethnology, No. 43 (Whole No. 1).
+
+Price-Williams, D. R. (1975). Explorations in cross-cultural psychology. San Francisco: Chandler.
+
+4ogoff, B. (1982). Integrating context and cognitive development. In M. E. Brown & A. L. Brown
+
+(Eds.), Advances in developmental psychology (Vol. 2, . 125-120). HiUsdale,
+
+NJ' ErIbâUni
+
+ogoff, . (in press). The
+
+^
+
+CÄ Vteevi
+
+Feinman & S. Feinman (Eds), S0^1iipffUëBt&bWQdOetmw^$ttfYbbl!i?Fiènum,
+
+s hooi \n P GÜttVC
+
+rason, S. . (1971). The cufture\cfthefs6tiöêi
+»son, s B. (1983). Schooling
+effelin, . . (1985). AcquisitiçWfStüiflírmal and informal
+
+(pp 88-123
+
+'aneuage acquiSVtVOlV'AOV l.The data^z&J^^jIÎjÿfÿdale, NJ: Erlbaum.
+
+\uu,nr.^ Mckson, |.,, & \i«^^'"''srnhne^.'Xole '
+
+' '
+
+' '
+
+'
+
+5|4 of social relationships in communication at home * *
+
+'  V¥*Mogy of . Cambridge,MA: d at scnooi. in .
+. « I n n 88-123) Washington, DC:
+
+(Eds.), Children in and out of school: Ethnography and education (pp. 88 12 )
+
+Harcourt Brace Jovanovich and Center for Applied Linguistics.
+
+(ITO). Cojmtm contrates of »! mO informul »» Saac
+
+182,553-559,
+
+of literacy
+
+MA: ! ' University
+
+Press.
+
+204
+
+R. Gallimore and R. Tharp
+
+Sloat, K. C. M., Tharp, R. G., & Gallimore, R- (1977). The incremental effectiveness of classroom
+
+based teacher training techniques. Behavior Therapy, 5,810-818.
+
+Staats, A. W. (1968). Learning, language, and cognition. New York: Holt, Rienhart & Winston.
+
+Tafoya, M. (1983). The red & the black: Santa Clara pottery. Posterboard, Wheelwright Museum of the
+
+American Indian, Santa Fe.
+
+Teale, W. H. (1986). Home background and young children's literacy development, ln W. H. Teale
+
+& E. Sulzby (Eds.), Emergent literacy:
+
+Writing and reading (pp. 173-206). Norwood, NJ:
+
+Ablex.
+
+Tharp, R. G. (1982). The effective instruction of comprehension: Results and description of the Kame­
+
+hameha Early Education Program. Reading Research Quarterly, /7(4), 503-527.
+
+Thaip, R. G. (1985, October). Wholism and the "observational-learning c o m p l e x A comparative
+
+study of comprehension instruction among Navajo and Hawaiians. Paper read at the meeting of the
+
+National Indian Education Association, Spokane, WA.
+
+Tharp, R. G. (1987, January). Culture, cognition, and education. Symposium conducted at the Third
+
+International Conference on Thinking, Honolulu.
+
+Tharp, R. G. (1989). Psychocultural variables and constants: Effects on teaching and learning in schools.
+
+American Psychologist, 44(2), 349-359.
+
+Tharp, R. G., & Gallimore, R. (1976a). Basketball's John Wooden: What a coach can teach a teacher.
+
+Psychology Today, 9(8), 74-78.
+
+Tharp, R. G., & Gallimore, R. (1976b). The uses and limits of social reinforcement and industriousness
+
+for learning to read
+
+(Tech. Report No. 60). Honolulu.
+
+Kamehameha Schools/Bishop
+
+Estate, Ka­
+
+mehameha Early Education Program.
+
+Tharp, R. G., & Gallimore, R. (1985). The logical status of metacognitive training. Journal of Abnormal
+
+Child Psychology, 13(3), 455-466.
+
+Tharp, R. G., & Gallimore, R.
+
+(1988). Rousing minds to life:
+
+Teaching, learning, and
+
+schooling in
+
+social context. Cambridge: Cambridge University Press.
+
+Tharp, R. G., Gallimore, R., & Calkins, R. P. (1984). On
+
+the relationship between self-control and
+
+control by others. Advances en Psicologia Clinical Latinoamericano, 3,45-58.
+
+Tharp, R. G., & Wetzel,R. (1969). Behavior modification
+
+in the natural environment.
+
+New York:
+
+Academic Press.
+
+Tough, J. (1982). Language, poverty, and disadvantage in school. In L. Feagans & D. C. Faran (Eds.),
+
+The language of children reared in poverty (pp. 3-18). New York: Academic Press.
+
+Vogt, L. A., Jordan, C.
+
+J., & Tharp, R.
+
+G. (1987). Explaining school failure, producing
+
+school success:
+
+Two cases. Anthropology & Education Quarterly, 18, 276-286.
+
+Vygotsky, L. S. (1956). Izbrannie psibhologicheskie issledovania [Selected psychological research],
+
+Moscow: Izdateel'stro Akademii Pedagogicheskikh Nak.
+
+Vygtosky, L. S. (1978).
+
+Mind in society:
+
+The development of higher psychologicalprocesses (M.
+
+Cole,
+
+V. John-Steiner, S. versity Press.
+
+Scribner, & E.
+
+Souberman, Eds. and Trans).
+
+Cambridge, MA: Harvard Uni­
+
+Vygtosky, L. S. (1987). Collected works ofL. S. Vygtosky: Vol. 1. Problems of general psychology (
+
+Minick, Trans.; R. W. Rieber & S. Carton, Series Eds.). New York: Plenum. (Original wo
+
+published 1982 in Russian).
+
+Walberg, H. J. (1986). Syntheses of research on teaching. In M. C. Wittrock (Ed ), Handbook
+
+research on teaching (3rd ed.) (pp. 214-229). New York: Macmillan.
+Watson, D. R., & Tharp, R. G. (1988). Self-directed behavior (5th ed.). Monterey, CA; Brooks/C
+
+ Jwguage
+nSCb' 1 V 070
+
+mhn<H.°, ?C0Cu/tUr`i/ QfJsJ  -
+
+
+
+ofliteracv (
+
+Chl,d«n at h0m
+
+ng,on> De
+
+read
+
+Teaching mind in society
+
+205
+
+Wertsch, J. V. (1979). From
+
+social interaction to higher psychological
+
+process: A clarification and
+
+application of Vygtosky's theory. Human Development, 22, 1-22.
+
+Wertsch, J. V. (1981). The concept of activity in Soviet psychology. New York: Sharpe.
+
+Wertsch, J. V. (1985a). Culture, communication, and cognition:
+
+Vygotskian perspectives. Cambridge:
+
+Cambridge University Press.
+
+Wertsch, J. V. (Ed.) (1985b).
+
+Vygtosky and the social formation of mind Cambridge, MA: Harvard
+
+University Press.
+
+Wertsch, J. V., Minick, N., & Ams, F. A. (1984). The creation of context in joint problem-solving. In
+
+B. Rogoff&J. Lave (Eds.), Everyday cognition: Its development in social contexts (pp. 151-171).
+
+Cambridge, MA: Harvard University Press.
+
+Wertsch, J. V., & Stone, C.A. (1985). The concept of internalization
+
+in Vygtosky's account of the
+
+genesis of higher mental functions. In J. V.
+
+Wertsch (Ed.), Culture,
+
+communication, and cognition:
+
+Vygotskian perspectives (pp. 162-179). Cambridge: Cambridge University Press.
+
+White, S., & Tharp, R. G. (1988). Training handbook for coding teacher questions (Tech. Rep. No.
+
+141). Honolulu: Kamehameha Schools/Bishop Estate, Center for Development of Early Education.
+
+White, S., Tharp, R. G., Jordan, C., & Vogt, L. (1987, January). Cultural patterns of cognition re­
+
+flected in the questioning styles of Anglo and Navajo teachers. Paper presented at the Third Inter­
+
+national Conference on Thinking, Honolulu.
+
+Whiting, B., & Whiting, J. (1975). Children of six cultures. Cambridge, MA: Harvard University Press.
+
+Wittrock, M. C. (1974). Learning as a generative process. Educational Psychologist, II, 87-95.
+
+Wittrock, M. C. (Ed.) (1986). Handbook of research on teaching (3rd ed). New York: Macmillan.
+
+Wood, D. J. (1980). Teaching the young child: Some relationships between social interaction, language,
+
+and thought. In R. Olson (Ed.), The social foundations of language and thought (pp. 280-296).
+
+New York: Norton.
+
+Wood, D., McMahon, L., & Cranstoun, Y. (1980). Working with under fives. London: Grant McIntyre.
+
+
