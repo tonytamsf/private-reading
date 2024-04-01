@@ -1,0 +1,1456 @@
+14 Creating zones of possibilities:
+Combining social contexts for instruction
+
+Luis C. Moll and James B. Greenberg
+
+Of great value, in both scientific and practical respects, would be the pedagogicalpsychological investigation of the reciprocal relation between learning activity and
+the productive labor that pupils undertake together with adults. This problem has
+received precious little attention by developmental and pedagogical psychology in
+the Soviet Union, although the development of learning activity is closely tied
+precisely to productive activity.
+V. V. Davydov (1988, p. 34)
+
+One of the most interesting and important contributions of Vygotskian psychology
+is the proposal that human thinking must be understood in its concrete social and
+historical circumstances. As Luria (1982) explained it, to understand thinking one
+must go beyond the human organism. One must search for the origins of “conscious
+activity,” not in the “recesses of the human brain or in the depths of the spirit, but
+in the external conditions of life.” “Above all,” Luria continued, “this means that
+one must seek these origins in the external processes of social life, in the social and
+historical forms of human existence” (p. 25). He later reiterated as follows:
+The basic difference between our approach and that of traditional psychology will
+be that we are not seeking the origins of human consciousness in the depths of the
+“soul” or in the independently acting mechanisms of the brain. . . . Rather, we
+are operating in an entirely different sphere - in humans’ actual relationship with
+reality, in their social history, which is closely tied to labor and language. (1982,
+p. 27)
+
+In what follows we describe a research project that studies households’ social
+histories, especially their labor and language, and attempts to derive instructional
+innovations from such an analysis. In line with the quotation from Davydov (1988),
+a leading Soviet psychologist, our focus is on the labor-related activities that occur
+within and among households and on the participation of students in these activities.
+Additionally, we experiment with how to create the reciprocal relations that Davy­
+dov mentions between such activities and instruction in schools. As in the Soviet
+Union, this connection between productive (labor-related) and learning (schoolrelated) activities has received little attention in this country (but see, e.g., Heath,
+1983; Laboratory of Comparative Human Cognition, 1986; Trueba & DelgadoGañán, 1988; Weisner & Gallimore, 1985).
+319
+
+320
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+Our research project, still in progress, consists of three main, interrelated activi­
+ties conducted simultaneously as part of a research/teaching system: (1) an ethno­
+graphic analysis of the transmission of knowledge and skills among households in
+a Hispanic community of Tucson; (2) creation of an after-school laboratory where
+researchers and teachers use community information to experiment with literacy
+instruction; and (3) classroom observations in which we examine existing methods
+of instruction and explore how to change instruction by applying what is learned at
+the after-school site (see Moll, Vélez-Ibáñez, & Greenberg, 1988). We build on the
+idea that every household is, in a very real sense, an educational setting in which
+the major function is to transmit knowledge that enhances the survival of its depen­
+dents. The content and manner of this transmission, the households’ zones of prox­
+imal development, if you will, are the central feature of the ethnographic study. In
+order to examine the instructional potential of these household activities, we have
+created an after-school “lab” within which researchers, teachers, and students meet
+to experiment with the teaching of literacy. We think of this lab setting, following
+Vygotsky, as a “mediating” structure that facilitates strategic connections, multiple
+paths, between classrooms and households. The goal of the lab is to support new
+teaching practices that make ample use of both the school’s and the community’s
+resources.
+We start by presenting key elements of our household analysis. In particular, we
+highlight the social sharing of knowledge as part of the households’ functioning,
+what we have labeled the exchange of “funds of knowledge” (Greenberg, 1989;
+Vélez-Ibáñez, 1988a). We then contrast these household events with the usual so­
+cial organization of instruction in classrooms and follow with two case studies that
+attempt to combine strategically household and classroom contexts to develop in­
+novations in literacy instruction. Throughout, we indicate how we are using Vygotskian concepts in our investigation. We are influenced by his emphasis on the inter­
+dependence of children’s learning with the socially provided resources to support
+that learning. We have found his ideas on mediation particularly fruitful in helping
+to create more advanced social circumstances for teaching and learning (Vygotsky,
+1978, 1987).
+
+Zones of knowledge
+Our household study1 examines what Milardo (1988) has called the complex “in­
+terconnections bonding families to their social environments of kin, friends, neigh­
+bors, co-workers and acquaintances” (p. 9). More specifically, we are studying
+families within a Hispanic, predominantly Mexican,2 working-class community in
+Tucson, Arizona. Economically and socially, Tucson can be described as a highly
+stratified city with a dual class structure. For example, 75% of the Mexican popu­
+lation may be found in the lower-paid craft, assembly, service, and laborer occu­
+pations. Mexican wages are 80% that of Anglos, and Mexicans are twice as likely
+as Anglos to be below the poverty line. The working-class segment of the Mexican
+
+Creating zones of possibilities
+
+321
+
+population is three times larger than both the middle and upper economic class
+segments, whereas the opposite relationship is true of the Anglos’ class distribution.
+Further, 75% of Mexicans have incomes (average annual income of $14,500) that
+are within the lowest 25% of the Anglo incomes. In fact, Mexicans earn less even
+when the effects of education are controlled statistically. This dual economy in great
+part determines where people live and contributes to the geographic separation and
+ethnic concentration of the populations. Residentially, about 75% of the Mexican
+population is concentrated in “barrios” located in the city’s south side. This social
+and economic stratification is also reflected educationally. For example, only 27%
+of Mexicans have a median education level above 13.3 years, in contrast to 73%
+for the Anglo population (see Vélez-Ibáñez, Greenberg, & Johnstone, 1984).
+Our analysis concentrates on a pervasive and significant sociocultural practice or
+activity that we have called confianza (mutual trust) (see Greenberg, 1984, 1989;
+Vélez-Ibáñez, 1983a, 1983b, 1986, 1988a, 1988b; also see, e.g., Aguilar, 1984;
+Lomnitz, 1977; Stack, 1974; Wellman, 1985). This term refers to reciprocal ex­
+change relations that form social networks among households. These networks,
+often developed in response to difficult economic conditions, facilitate at least three
+important socioeconomic functions. First, they serve as a buffer against uncertain
+and changing economic circumstances. In particular, the networks facilitate differ­
+ent forms of economic assistance and labor cooperation that help families avoid the
+expenses involved in using secondary institutions, such as plumbing companies or
+automobile repair shops. Second, although not well understood, these networks
+function to “penetrate” labor markets. That is, these relations often serve as a
+pipeline to jobs in both the formal and the informal economy and as a way to bring
+labor markets “into” the networks. For example, several of the men and women in
+our sample obtained their jobs through family and non-kin contacts that form part
+of their networks. Finally, these networks serve important emotional and service
+functions, providing assistance of different types, most prominently with child care
+and rearing. In brief, these networks form social contexts for the transmission of
+knowledge, skills, and information, as well as cultural values and norms (VélezIbáñez, 1986, 1988a).
+Our work highlights the multiple, “thick” social relationships that constitute
+household life within this Mexican working-class community. Consider the follow­
+ing example taken from case study analyses we are currently developing of the
+Aguilar and the Morales (pseudonyms) families.
+In the dense social networks in which the Aguilar and Morales households are
+embedded as central nodes, exchange of mutual help not only occurs constantly but
+is a defining feature of social relations and even shapes household composition. The
+Aguilar household, for example, is an extended household which, in addition to
+Mr. Aguilar’s immediate family, includes his brother, his brother’s wife, and his
+nephew, who works in construction but is temporarily out of work. Aguilar’s brother
+came to live with them when he fell ill and could no longer work. The Aguilars
+also have four married children who have their own households. Their eldest son,
+
+322
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+Carlos, lives nearby and works in construction, even though he has a degree in
+bookkeeping from Mexico. Susana, their eldest daughter, works in a factory that
+produces telephones and is a divorced mother with two daughters. Another of Mrs.
+Aguilar’s daughters, Ana, is a bookkeeper. Still another, Maria, lives in Coolidge,
+Arizona, and works as a secretary for the Department of Transportation. Mrs. Agui­
+lar’s daughters come to visit or for babysitting almost daily. Susana’s household, in
+particular, is a satellite to that of her parents. Her mother babysits for her while she
+is at work, and they spend hours together almost daily. Not only are Mrs. Aguilar’s
+children regular visitors, but Mr. Morales, his wife, and their children come over
+frequently. The Aguilars’ neighbors also visit them almost daily. As well, the Aguilars receive visitors regularly from Sonora (Mexico), and not just relatives but often
+friends of relatives. Mrs. Aguilar is central to the maintenance of these relation­
+ships. She serves as a channel for communicating messages, babysits her grand­
+children, takes care of her sick brother-in-law, and gives advice. As Mrs. Aguilar
+expressed it, “I was molded the old way in a united family. We used to live close
+to one another and get together often; now we live in different towns, so we stay
+close by helping each other in times of need.”
+Obviously, not all household relations are as complex, multistranded, or recip­
+rocal; many, if not most, family relations are based on simple acquaintance. We
+have focused on the more intimate and complex relationships because of their im­
+portance in obtaining and providing a variety of resources to families (see VélezIbáñez, 1988a). As Wellman (1985) has suggested, densely knit networks may be
+structurally better suited for conserving and controlling existing resources. Each
+household in our sample consists of approximately six members and has about six
+related (kin) households in the general community (some as many as 16). Approx­
+imately 90% of our sample reports assisting others with tasks or chores, including
+household repairs and child care, which suggests an ongoing exchange. These ex­
+change relations, we should note, are not limited to kin or to any particular ethnic
+group; they also incorporate nonrelatives and different age groups. These families’
+multiple relationships contrast with the singular, narrow teacher-child relationship
+common in classrooms (see, e.g., Goodlad, 1984). In contrast to household net­
+works, classrooms are relatively isolated entities, something quite uncommon out­
+side the classroom.
+The most important function of these clustered households, and the reason why
+they are the object of our analysis, is that they share or exchange what we have
+termed funds of knowledge. Greenberg (1989) has suggested that one way to under­
+stand this concept is in relation to other household funds. For example, Wolf (1966),
+in his discussion of household economy, identified several funds that households
+must manipulate for subsistence and development. The most basic are caloric funds,
+needed to furnish minimum caloric intake to sustain life. He also mentioned other
+funds such as funds of rent, a charge on the households’ production resulting from
+a superior claim on the land or housing. This charge, depending on the situation,
+may be paid in money, labor, or produce. There are also replacement funds, which
+
+Creating zones of possibilities
+
+323
+
+represent the amount needed to replace or maintain minimum equipment for pro­
+duction and consumption, and ceremonial funds, used to sustain symbolic aspects
+of social relationships, such as marriage ceremonies and other rituals found in the
+social order. Each of these funds, and others we have not mentioned, entails a
+broader set of activities which require specific knowledge of strategic importance to
+households. These bodies of knowledge are what we call funds of knowledge.
+Greenberg (1989) has referred to funds of knowledge as an “operations manual of
+essential information and strategies households need to maintain their well being’ ’
+(P- 2).
+As part of our analysis we are tracing the social history of specific funds of
+knowledge. Within our study sample much of the knowledge is related to the house­
+holds’ rural origins. Many of the families have members who were farmers and
+ranchers, relatives involved in these activities, or are themselves engaged in these
+activities around Tucson. The knowledge and skills in these households are exten­
+sive. For example, we have visited families that know about different soils, the
+cultivation of plants, and water management. Other families know about animal
+husbandry, veterinary medicine, ranch economy, and mechanics, as well as carpen­
+try, masonry, electrical wiring, and fencing. We also find families that employ folk
+remedies and herbal cures or other first-aid procedures, or that practice midwifery.
+Obviously, not every household in our sample possesses knowledge about all of
+these matters. But that is precisely the point. It is unnecessary and unfeasible for
+individual persons or households to possess all this knowledge; when needed, such
+knowledge is available and accessible through social networks.
+This social distribution of knowledge is especially important in urban settings
+within a wage economy, as the funds of knowledge required of workers may be­
+come much more narrow and specialized than, for example, in a rural, farm envi­
+ronment. Households in our sample share not only knowledge regarding repair of
+homes and automobiles, home remedies, planting and gardening, as mentioned, but
+funds of knowledge specific to urban living, such as access to institutional assis­
+tance, school programs, transportation, occupational opportunities, and other ser­
+vices. In short, households' funds of knowledge are wide-ranging and abundant.
+They are central to home life and to the relationship of the families to others in their
+community. As Vélez-Ibáñez (1988b) has observed, funds of knowledge are the
+“nuts and bolts for survival.”
+Besides depicting their origins and content, we are also analyzing how specific
+household activities make use of these funds of knowledge, that is, the domains
+within which they may be learned, organized, and transmitted. We have found there
+are identifiable household pedagogies, identifiable social organizations to learning
+(cf. Greenfield & Lave, 1982). These strategies for teaching and learning must be
+understood in context, that is, in relation to the social history of the families, the
+content of the funds of knowledge, and the goals of teaching. Consider the follow­
+ing example from our case studies.
+Many of Mr. Zavala’s (a pseudonym) funds of knowledge have their roots in his
+
+324
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+father’s skills: mechanics, construction, washing machine and refrigerator repair.
+Zavala’s father worked for many years in a gasoline station; later he worked in
+construction and also repaired washers and refrigerators. When they were growing
+up, Zavala and his brothers often helped their father with these tasks. Unlike the
+elder Zavala, who had little use for education and bragged that he had gotten ahead
+without it, his son has had to rely more on formal training, schooling, and selfstudy to acquire the skills he has needed to get ahead. Whereas his father who had
+little education could become a jack-of-all-trades through skills learned on the job,
+as urban labor markets have become increasingly segmented and highly specialized
+it has become harder and harder to follow the path his father followed. Unlike his
+father, the younger Zavala believes that education is essential. For example, to get
+extra training while working as an airplane mechanic, he went to welding school.
+Again, when he had his repair shop - though he had learned something of how to
+repair appliances from his father - he needed to study books and manuals on how
+to repair the ever more complex new washing machines and refrigerators. Like his
+father, Zavala has taught practical skills to Juan (his son) by including him in do­
+mestic chores and other activities. For example, when Zavala repairs the car, he
+asks Juan to bring him the tools he needs. Even such minimal inclusion in these
+tasks allows Juan to learn by observing the whole task and by asking questions
+about what his father is doing. In this way Juan has learned enough to do simple
+repairs around the house, such as fixing the toilet by himself.
+Also consider an example from the Aguilar family. Mr. Aguilar’s son Alfredo
+often helps with (household) chores, especially when they are cooperatively orga­
+nized, as is common in activities involving exchange. His help in fixing cars is
+typical of the way in which children are taught in these contexts. In activities like
+fixing cars, there are many potential entry points, and Aguilar lets Alfredo contrib­
+ute by doing things he likes to do; at the same time, Aguilar may exclude him from
+other tasks. Thus Aguilar takes his cue from the child about what he would like to
+do and then decides whether or not he is capable of it. If he is not, the father may
+suggest things that he feels are within the child’s scope. Even though Alfredo’s help
+is minimal - helping to put in screws, checking the oil - and often ends in a mess
+- as Mrs. Aguilar put it, le gusta empuercarse ( ‘ ‘he likes to get dirty’ ’) - his efforts
+are not discouraged. There seems to be an implicit understanding that, even though
+it might be easier not to have the child’s help, his participation in the whole task is
+an essential part of learning.
+A particularly powerful strategy is the creation by a family of special circum­
+stances within which the children or others have ample opportunities to acquire
+skills or values the family wants them to learn. A good example is the Morales
+family: The Aguilars and the Moraleses are typical cross-border families with rural
+roots, part of an extended family - Mrs. Aguilar is Mr. Morales’s sister - which
+came to Tucson from the northern Sonoran (Mexico) towns of Esqueda and Fron­
+teras. The Moraleses had a parcel of land on an ejido. Mr. Aguilar’s father had
+
+Creating zones of possibilities
+
+325
+
+been a cowboy and had worked on a large ranch owned by the descendants of a
+governor of Sonora in the 19th century. Like his father, Aguilar is a cowboy. Al­
+though he worked for a time in construction after coming to the United States, he
+is currently employed on a cattle ranch near Pinal, Arizona, where he spends 5 or
+6 days a week, coming home only on Tuesdays. Like Mr. Aguilar, Mr. Morales
+initially found work in construction, but unlike his brother-in-law, he eventually
+formed his own company: Morales Patio Construction. This family concern also
+employs his son as well as his daughter-in-law as their secretary/bookkeeper.
+Nevertheless, the Moraleses’s rural roots remain strong, even idealized. In their
+back yard, the Moraleses have re-created a “rancho” complete with pony and other
+animals. Moreover, the family owns a small ranch north of Tucson that serves as a
+“recreation center” and locus for learning. They take their children and grandchil­
+dren not just to help with the chores (running the tractor, feeding animals, building
+fences) but, more importantly, to teach them the funds of knowledge entailed in
+these old family traditions, which cannot be learned in an urban context.
+Another compelling example comes from the Zavala family, discussed above.
+Notice that they don’t share the social origins of the Aguilar and Morales families,
+so the content of their funds of knowledge and the preferred modes of transmission
+differ. The Zavalas are an urban working-class family, with no ties to the rural
+hinterland. They have seven children. Their eldest daughter, however, is no longer
+at home but lives with her boyfriend and son. Mr. Zavala is best characterized as
+an entrepreneur. He works as a builder, part-time, and owns some apartments in
+Tucson and properties in Nogales (a nearby border town). Mrs. Zavala was bom in
+Albuquerque, New Mexico, in 1950 but came to Tucson as a young child; she left
+school in the 11th grade. Mr. Zavala was bom in Nogales, Sonora, in 1947, where
+he lived until he finished the sixth grade. His father too was from Nogales. His
+father had little education and began to work at the age of 9 to help support the
+family. His family then moved to Nogales, Arizona, where he went to school for
+another 2 years. When he was 17, Zavala left home and joined the army and spent
+2 years stationed on military bases in California and Texas. After his discharge, he
+returned to Nogales, Arizona, and worked for a year installing television cable and
+heating and cooling ducts. In 1967 Zavala came to Tucson, first working as a house
+painter for 6 months, then in an airplane repair shop where he worked for 3 years.
+In 1971 he opened a washing machine and refrigerator repair shop, a business he
+had for 3 years. Since 1974, Zavala works in construction part-time, builds and
+sells houses, and owns four apartments (two of which he built in the back yard of
+his home).
+Everyone in the Zavala household, including the children, is involved in informalsector economic activities to help the family. Juan, for example, who is in the sixth
+grade, has a bicycle shop in the back of the house. He buys used parts at a swap
+meet and assembles them to build bicycles, which he sells at the yard sales his
+family holds regularly. He is also building a go-cart and says he is going to charge
+
+326
+
+L . C. M o l l a n d J. B. G r e e n b e r g
+
+kids 15 cents a ride. His sisters Carmen and Zoraida sell candies, which their mother
+buys in Nogales, to their schoolmates. The children have used the money they have
+earned to buy the family a video cassette recorder.
+What is important about these activities is not necessarily that a youngster can fix
+a car or a toilet, use farm equipment, or build a bicycle, but the social matrix in
+which these skills are acquired. In the Zavala family, as in the Aguilar and Morales
+families, contexts for assisted performance are constantly generated by their pro­
+ductive activity and by their relations of exchange. These social relations provide a
+motive and a context for applying and for acquiring knowledge. The key point is
+that funds of knowledge are manifested through events or activities. That is, funds
+of knowledge are not possessions or traits of people in the family but characteristics
+of people-in-an-activity. Our household observations suggest the importance of tak­
+ing into account not only visible, apparent knowledge, where contexts of applica­
+tion, such as cooking a meal, are ubiquitous, but more latent, hidden knowledge,
+displayed in helping or teaching others or as part of the families’ production. Within
+these activities, much of the teaching and learning is initiated by the children’s
+interests and their questions. That is, children are active in creating their own activ­
+ities or are active within the structure of the tasks created by the adults. In either
+case, knowledge is obtained by the children, not imposed by the adults.
+What are some implications for instruction of the sketch provided above? In our
+terms, there are various household zones of proximal development, manifested in
+different ways depending on the social history of the family and the purpose and
+goal of the activity. These zones are clearly content- or knowledge-based and rarely
+trivial. They usually matter; that is, they are authentic. It is when the content of the
+interactions is important or needed that people are motivated to establish the social
+contexts for the transfer or application of knowledge and other resources. It follows
+that it is by creating similar authentic activities in schools that we can access these
+funds of knowledge and investigate their relevance for academic instruction.
+These household zones are also adaptive in that they are organized in many ways,
+often diffuse, and involve multiple persons. In our terms, they are multistranded.
+A key characteristic of the social exchanges is their reciprocity. In fact, reciprocity
+is the glue maintaining the structure of these important social relationships. As
+Vélez-Ibáñez (1988a) has observed, reciprocity represents an “attempt to establish
+a social relationship on an enduring basis. Whether symmetrical or asymmetrical,
+the exchange expresses and symbolizes human social interdependence” (p. 142).
+That is, reciprocal practices establish serious obligations that are not only based on
+the assumption of confianza (trust) but lead to the reestablishment of trust with each
+exchange and the development of long-term relationships. Each exchange with
+kinsmen, friends, and neighbors not only entails many practical activities (every­
+thing from home and automobile repair to animal husbandry and music) but con­
+stantly provides contexts in which proximal development can occur - contexts where
+children have ample opportunities to participate with people whom they trust. There
+
+Creating zones of possibilities
+
+327
+
+are, as Valsiner (1988) puts it, redundant ways of constructing zones of proximal
+development (ZPD):
+The ZPD can be constructed not only by the purposeful efforts of the instructor of
+the child, but also by cultural structuring of the environment in such ways that the
+developing child at any time is guided by his/her environment to make use of the
+parts of that environment that are currently within the ZPD. ... not only instruc­
+tion but also the individual learner can define the ZPD, given the culturally struc­
+tured life environment that provided the “stimulus means” for the child’s own
+construction of the ZPD and, by that, of the child’s own future development, (p.
+147)
+
+Without a focus on social relationships and persons-in-activities, it is very easy
+for outsiders (educators) to underestimate the wealth of funds of knowledge avail­
+able in working-class households. Funds of knowledge are available in these house­
+holds regardless of the families’ years of formal schooling or prominence assigned
+to literacy. Yet this knowledge and its forms of transmission, as we discuss in the
+next section, rarely make their way into classrooms in any substantive way. From
+our perspective, then, funds of knowledge represent a major, untapped resource for
+academic instruction.
+
+Zones of possibilities
+In what follows we describe two case studies developed collaboratively with teach­
+ers. Both case studies, or modules, as we call them, originated through our discus­
+sions with teachers at the after-school lab. These modules are intended to facilitate
+a connection among the household analysis, work at the after-school lab, and class­
+room practices. That is, these modules are ways to conduct “formative” or “teach­
+ing” experiments in classrooms, and their development is closely monitored, es­
+pecially through participant observations (see Hedegaard, this volume; Moll &
+R. Diaz, 1987). The modules take into account the specifics of each classroom, the
+teacher and the students, and instructional constraints the teachers may face and
+specific goals they may want to attain. Additionally, each module allows for indepth study of a topic or theme. This theme of study must be conducive to plenty
+of reading and writing and to going beyond current instructional practices. Finally,
+it must be a theme that is relevant to the classroom curriculum.
+The first case study started as a classroom demonstration intended to motivate the
+children to write. The children’s activities, however, quickly became elaborate,
+extending far beyond the classroom, with important consequences for their writing.
+The second case study involved a teacher’s attempts to organize instruction in ways
+that connect with households’ funds of knowledge. In implementing these activi­
+ties, and in developing others, we have come to realize fully the difficulty of intro­
+ducing innovations into practice (see Gallimore & Tharp, this volume). Teachers
+face various constraints, including district goals that must be accomplished, a cur-,
+riculum to follow, tests to administer, in-services to attend, and what seems an
+
+328
+
+L. C. M oll a n d J. B. G r e e n b e r g
+
+overwhelming amount of paper work to complete. In addition, current instructional
+practices, with the usual requirements of following a specific curricular sequence
+with its emphasis on the teacher as the holder and transmitter of knowledge, repre­
+sent a formidable obstacle to implementing instructional innovations. We have come
+to appreciate better Langer and Applebee’s (1986, 1987) conclusion that traditional
+instructional practices make introducing innovations into classrooms a very difficult
+task. That is, the majority of school tasks, with their rote recitation requirements,
+provide students “little room to claim ownership for what was being written or
+read” (Langer & Applebee, 1986, p. 196, italics added). These instructional prac­
+tices also provide teachers and researchers little room to maneuver in trying out new
+methods of instruction.
+In our classroom observations we have found many of the rote and reductionist
+instructional elements that characterize working-class schooling in general (see,
+e.g., Anyon, 1980; Oakes, 1986). Lessons rarely extend beyond the classroom or
+incorporate ideas, interests, or activities of the students and their families. Literacy
+instruction is heavily dependent on basal readers, and what is read or written is
+usually imposed; student interests are rarely considered. Furthermore, with impor­
+tant exceptions, the intellectual level of the lessons is low; we have observed infre­
+quently activities that are clearly intellectually challenging to the students or activ­
+ities requiring research or investigation on the part of the students. It is these social
+arrangements for learning that prompted Greenberg (1989) to call classrooms “zones
+of underdevelopment.”
+Nevertheless, classrooms are not uniform in their practices. In all of the class­
+rooms we have observed some lessons that were advanced, interesting, or demand­
+ing of the students. We borrow from the notes of one of our classroom observers.3
+Instruction in this [third-grade, bilingual] classroom . . . occurs through a struc­
+ture that encourages children to be responsible and independent. There was no
+whole group instruction or teacher directed activity. Rather, the students know
+what to do and proceeded with very little help from the teacher. The students were
+working on individual contracts for this [Ancient Egypt] theme so they each made
+decisions about what to do for the extended period of time, set about doing it and
+only conferred with the teacher about free time requests or help with materials.
+. . . The concept of negotiation is strong in this classroom. Present in the negotia­
+tion process is the attitude that the students are very involved in developing their
+own curriculum. The teacher verbalized the negotiation process with the students
+both in a large group and individually and checked that the students kept their end
+of the bargain. . . . The intellectual level is quite high and challenging in this
+classroom and the teacher feels it is better to have high expectations for all the
+students than to limit their progress. The expectation is set for the highest abilities
+and then the teacher and the aide help the students achieve their best given that
+expectation. The teacher says there are very few children who have difficulty meet­
+ing her high goals. The curriculum involved in the current Ancient Egypt theme
+was impressive in that the amount of content is so high. The [students’] contract
+represents that content in its depth and difficulty. It appears to me that the intellec­
+tual level of this third grade classroom is higher than many classrooms at the 4th,
+5th and 6th grade levels.
+
+Creating zones of possibilities
+
+329
+
+These more advanced lessons, although unusual, are clearly not unique (see Moll,
+1988). There exist in every classroom opportunities for change. That is, all lessons
+are not automatically rote learning, and not all teachers’ questioning requests some
+form of factual recitation from the students; the teachers try to create variety within
+their classrooms. It is upon this variety that we build in creating social conditions
+that engage students in more advanced instructional activities.
+Therefore, an important goal of the lab was to develop a collegial, working re­
+lationship between the teachers and researchers. We wanted to turn the lab into a
+place where we could provide the teachers with strategic assistance in developing
+and implementing innovations (cf. Berliner, 1985; Laboratory of Comparative Hu­
+man Cognition, 1982). In our work with teachers we emphasized the need for stu­
+dents to assume more control over their own learning, in ways similar to the class­
+room described above. We introduced the idea of students deciding their own units
+of study, seeking answers to their own questions, and using themselves and their
+peers as resources for thinking. The role of the teachers, we proposed, was to
+facilitate or mediate the students’ activities but not to control them by imposing a
+required sequence or task or by providing answers. From our perspective, teachers
+must trust (and assist) students to make appropriate decisions and grow into self­
+responsibility (see Goodman & Goodman, this volume; Langer, 1987; Moll, 1989).
+
+The first case study
+This first case study4 started from two teachers’ concerns about their students’ lack
+of writing. The students in both classrooms (fourth and fifth grades) are predomi­
+nantly Mexican, all of them being bilingual or monolingual Spanish speakers. There
+is a wide range of literacy abilities within these classrooms, including students in
+the beginning stages and proficient students performing above grade level. The
+child we feature in the case study, Elena (a pseudonym), is in the fifth grade and
+classified as Spanish monolingual. A quiet and soft-spoken child, Elena formed part
+of a small group of students who preferred to write in Spanish. We concentrate on
+Elena’s activities and writing because the details of her work help illustrate essential
+elements of our study. However, Elena is not unique; in fact, she is representative
+of several other students in these classrooms.
+The module was organized around three activities. The first was the formation of
+a study group between the teachers and the researchers. In these study groups the
+participants read research articles on literacy instruction and discussed how to apply
+some of these ideas in practice. These meetings, held weekly with the teachers as
+part of the after-school lab, also served to plan the modules and evaluate their
+progress. The second activity involved demonstration lessons. The teachers invited
+the researchers to implement lessons in their classrooms that would interest the
+students in writing. In particular, they were interested in eliciting topics from stu­
+dents and organizing lessons to help the students address those topics in writing.
+
+330
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+After the demonstration lessons, one of the teachers identified 11 students who were
+interested in developing a video that would explore in more depth specific topics of
+interest to the students. This combination writing/video development activity be­
+came too elaborate to be confined to the classroom. The students, therefore, agreed
+to work with the researchers on the lessons at the after-school lab, and it became
+one of the regular lab activities.
+We will summarize the module by describing three phases in its development:
+the initial writing, the extension to the household, and writing to develop the video.
+For each phase, we provide examples of Elena’s writing. It is important to under­
+stand the changes in her writing in the context of the specific module activities. We
+will show how Elena drew on the available resources to develop her writing and her
+ideas, and how her writing was shaped by the goals and structure of the activity.
+Particularly important for our purposes is how Elena used writing as a tool to extend
+and organize her thinking and plan her activities, how Elena assumed ownership of
+the activity and the writing process. The key role of the adults in this process was
+in mediating the activities, especially in helping the students to be active in creating
+and shaping their tasks. The adults did not control the writing, as is common in
+classrooms; instead, they oriented the students to the use of other persons and ma­
+terials in developing their writing. That is, following our household analysis, they
+obtained funds of knowledge by connecting the literacy activity to parents, com­
+munity organizations, and libraries, among other resources.
+The module also shows that by studying children in diverse circumstances we
+gain a more sophisticated perspective on what they are capable of doing. The stu­
+dents themselves initiated most of the writing and the accompanying activities. In
+the case of Elena, none of the writing, except the initial writing, was required by
+the instructor. As such, both the students’ and the instructor’s activities departed
+considerably from the usual classroom practices.
+Initial writing. As part of the demonstration lessons, the children in the classroom
+brainstormed a list of topics for writing, discussed topics of special interest to them,
+and began writing on one of the topics. Some of the students, including Elena, were
+particularly interested in developing further their computer communications with a
+school in Ponce, Puerto Rico, one of the lab’s ongoing activities.5 Elena formed
+part of a group of students who preferred the lesson in Spanish. Although most of
+these children understood much of the demonstration lessons, conducted in English,
+they felt more confident discussing their topics and writing in Spanish. During the
+first lesson, Elena, like many of her classmates, appeared unsure. She did not seem
+confident in sharing her responses and writing and did not actively participate in the
+lesson; she appeared unresponsive. When it was time to write, Elena said, “Pero
+Miss, no se que escribir.” The instructor encouraged Elena to select one of her
+topics and write about it. After some hesitation, she began to write about her ideas
+of what a school in Ponce (Puerto Rico) might be like. This draft serves as Elena’s
+first writing sample. She wrote as follows:
+
+Creating zones of possibilities
+
+331
+
+Las escuelas an decer como un cuarto chico son como echas comodamente para
+los alumnos y los maestros también ande tener acientos echos de madera y pintados
+también an de estar limpias y acomodada ande ser como un techo de lamina luego
+como sacate encima para que de sombra también los usan para que es te fresca en
+el calor y caliente en el frió ellosan de estar my agusto en las escuelas porque a
+ellos les gusta el modo decer las escuelas también las escuelas están echas de lodo
+y queda un poco ásperas Las . . . (E.O., 3/20/89)
+(The schools must be like a small room they are like made comfortably for the
+pupils and the teachers also they must have seats made of wood and painted also
+they must be clean and orderly they must be like a tin roof later like grass on top
+to give shade also they use them so that it will stay cool be very comfortable in the
+schools because they like they ways the schools are also the schools are made of
+mud and remain a bit rough The . . .)
+
+Note that Elena selected the topic because it was of interest to her, and she
+revealed some prior knowledge of the topic. For example, she discussed how a
+building may be adapted to changes in climate and possibly assumed that the ma­
+terials used in construction may be indigenous to Puerto Rico’s tropical region.
+Elena may also be using her own knowledge of adobe construction in Tucson and
+Mexico to guess about how schools are constructed in Ponce. An analysis of Elena’s
+writing shows that her intent was to write an informational piece of writing. She
+begins with the statement “Las escuelas an decer . . . ” (The schools must be ... ;
+Las escuelas han de ser), indicating with this opening that the text will inform about
+the topic of schools. The text is also not in the form of an outline, list, or story but
+in a narrative paragraph similar to those found in content-area textbooks. It appears
+that Elena is aware of or borrowing from a textbook organizational structure. Text­
+books organize content into groups of sentences that inform about a particular con­
+cept. Once that concept has been explained, a new concept is described with a new
+group of sentences delineated by a paragraph. Elena attempted to do the same,
+although she did not utilize new paragraphs to begin new concept descriptions.
+Perhaps what is most noticeable in the text is Elena’s spelling and lack of punc­
+tuation. Elena spelled phonetically, the way words sounded, and used no conven­
+tional punctuation. Yet, in parts of the text her ideas flowed, and she used words
+that indicated the connection between her thoughts. For example, she used “tam­
+bién” (también; also) instead of punctuation to inform the reader that one sentence
+had ended and another had begun. When her description changed from the interior
+to the exterior of the classroom, she did not use any punctuation but again used the
+word “también” to connect her sentences conceptually and provide the text with
+some semantic coherence. By focusing on these surface difficulties in her writing,
+however, difficulties that can be corrected with instruction, we may underestimate
+greatly what Elena is capable of doing with print.
+Extending beyond the classroom. After her first writing Elena decided she wanted
+to develop a video about Tucson to send to the students in Puerto Rico. In devel­
+oping ideas for the video, she interviewed her father about Tucson, and together
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+332
+
+IN's classroom
+
+After-school lab
+
+9 ff 9
+Elena's activities
+
+T eícher-researcher
+(Demonstration lessons)
+
+study groups
+
+Extending the module
+Video production : 1
+writing, interviewing
+
+6 weeks
+Code:
+1 - Parents
+2-Lab staff
+3-Theoretical articles
+4-Teachers
+5-Peers
+
+6-Community organizations (e.g., Museum)
+7-Students
+8-Library /resource materials
+9-Classroom in Ponce
+10-School community
+
+Figure 14.1. The classroom’s social networks
+
+they looked in encyclopedias for suggestions. They also contacted an aunt who had
+been a longtime resident of Tucson to obtain additional information about the city.
+This research, we should mention again, was self-initiated, not assigned by the
+instructor. This extension of the literacy activity beyond the classroom was also not
+unique to Elena; it formed part of the general structure of the module. Figure 14.1
+depicts the various social networks that formed part of the study groups and the
+after-school lab. Also included in the figure are the specific social relations Elena
+used in developing her activities. These social relations represent resources, new
+means to accomplish the goals of her project, that are not usually found or used in
+classroom instruction. Here we highlight what Elena wrote at home with her fa­
+
+Creating zones of possibilities
+
+333
+
+ther’s assistance. She decided to visit a local museum and depict its content as part
+of a video documentary:
+ir al museo con una già para que me enseñe esplique lo que significa cada cosa y
+que mediga más o menos cuando hicieron cada cosa y ir apuntando lo que me va
+diciendo la già de cada cosa asi les doy enformasion a los niños de Puerto Rico
+para que vean como hera antes Tucson Arizona y enseñar como se vestían los
+indios que vivían en Tucson. Como eran las camas, y las casas donde vivían.
+Enseñar que hacían las casas de soquete y que aun esiste una casa hecha por los
+indios y de soquete eso creo que les va a interesar a los niños de Puerto Rico como
+de mi hedad porque ami me interesa mucho saber del tiempo pasado como vivían
+y lo que usaban para vivir que comían y como hacían las casas de soquete para que
+no se cayera enseñar la cosas que hay en la cosina como las piedras donde molían
+la comida y la estufa de dos placas. Y el baño la vañera era una bandejas y había
+la ropa como votas y camisas pantalones de cuero que se ponían los indios nativos
+y sus maletas. La sala era como tenia unos muebles de madera y unos libreros y en
+medio abia una alfombra muy antigua tejida (E.O., 5/4/89)
+(go to the museum with a guide so that he can show explain to me what each thing
+signifies and tell me more or less when each thing was made and write down each
+thing the guide tells me that way I can give information to the children from Puerto
+Rico so that they can see how Tucson Arizona used to be and show how the Indians
+that lived in Tucson used to dress. How the beds were, and the houses where they
+lived. Show that they made their houses from mud and that even now there exists
+a house made by the Indians and from mud that I think will interest the children
+from Puerto Rico about my age because I am very interested in knowing about
+times past how did they live and what they used to live what did they eat and how
+did they make the mud houses so that they wouldn’t fall show the things that there
+are in the kitchen like the stoves where they ground food and the two burner stove.
+And the bathroom the bathtub was some pans and there was the clothes like boots
+and shirts suede pants which the native Indians wore and their suitcases. The living
+room had some wooden furniture and some bookshelves and in the middle there
+was a very old knitted rug)
+
+The text seems to take the form of a list of ideas that Elena’s father may have
+shared with her. Elena recognizes that there is no need to write a complete narrative
+because the рифове of the text is to provide suggestions to herself and a plan of
+action during her upcoming video sessions. What is most interesting is that Elena
+used the text to communicate with herself, to regulate her own behavior, to plan
+her activities. For example, she starts the list by directing herself, as the reader,
+through each step of the tour, beginning with a general statement about the mu­
+seum, then progressing through each room. She’s also very conscious of her audi­
+ence, specifying what type of information she thinks the children in Puerto Rico,
+her eventual audience, will find interesting and why. Along with the detailed de­
+scription, Elena prepared a storyboard for the videotaping. The storyboard consists
+of step-by-step video instructions and corresponding audio segments accompanying
+the video. Elena even drew sketches of what the camera should be focusing on and
+underneath each sketch wrote a brief description of what she would say.
+It is also evident that Elena’s spelling improved, which may be because of her
+
+334
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+father’s help. In contrast to her previous writing, she also begins to use some punc­
+tuation, for example, periods at the end of some sentences and capital letters at the
+beginning of sentences. The text, for its purposes, has unity and hangs together
+coherently; it is grammatical despite the lack of conventional punctuation. This is
+not to say she does not need assistance with the conventions for writing, such as
+punctuation, which would enhance the communicative power of her writing. But
+this assistance can be provided by the instructor or a more capable peer in the
+context of using writing for communication.
+Video preparation. Preparation of the video was a major undertaking. Elena had
+carefully planned the visit and written questions to ask the tour guide, the expert on
+the site. Elena chose the Fremont House as her site, one of the first and few remain­
+ing homes still standing in one of Tucson’s original barrios. The house is now a
+museum that contains many artifacts of its time. She chose the date to go to the
+museum and film her video and asked others to do the videotaping while she inter­
+viewed the guide and toured the historical site. Elena produced this final writing
+sample as an outline to guide the sequences of her video:
+Boy a presentar al già para ve si me ayuda
+Boy a decir de que vamos hablar durante la pelicula
+Despues boy a entrar ala casa y empesar a esplicar cada cosa
+Enseñar las recamaras con todo adentro
+Enseñar las armas que usaban para matar animales
+Enseñar la cosina con la mesa, las sillas y las estufas
+(E.O., 5/10/89)
+(I will introduce the guide to see if he will help me
+I will say what we are going to talk about during the film
+Afterward I will enter the house and begin explaining each thing
+Show the bedrooms with everything inside
+Show the arms which they used to kill the animals
+Show the kitchen with the table, the chairs and the stoves)
+
+Armed with her plans and outlines, Elena was very confident throughout the
+videotaping and interview. Her questions were well thought out and clear. For ex­
+ample, she asked the guide what was done to protect the structure from erosion.
+Although Elena encountered some obstacles in her interview - for example, the
+guide was not compietely fluent in Spanish - she was undaunted by the experience
+and completed, through her own volition, the task she set for herself at the begin­
+ning of the module.
+Despite the brief writing sample, we can detect improvements in spelling and
+vocabulary. For example, Elena is using the aspirated h (as in hablar, speak) and
+does not overgeneralize by using it with words such as empezar (to begin) and
+enseñar (to teach) as she did in her previous writing. For an outline, her sentences
+are well designed and grammatically acceptable, and her description of events is
+coherent and clear. But what is impressive is Elena’s use of writing over the course
+of the module to help her think, plan, conduct, and successfully complete her activ-
+
+Creating zones of possibilities
+
+335
+
+ity. She went from a tentative, reluctant writer to a student who used writing to
+accomplish her intellectual goals.
+It seems obvious that Elena has already internalized the actions and knowledge
+to participate fruitfully in a creative activity and to use literacy not only to com­
+municate with others but to communicate with herself - to mediate and regulate her
+own actions. We are not claiming she developed these abilities working in our
+module; she probably already had this literate capacity. However, we created the
+supportive circumstances and facilitated the resources and tools, the new means,
+that allowed her to display her competence. We created a zone of proximal devel­
+opment that led to the student’s utilization of social resources to accomplish her
+goals. Elena’s displaying what she knew provided us, and the teacher, with a good
+indication of what Vygotsky called the child’s potential for instruction; in this in­
+stance, the child’s potential to benefit from instruction that is more complex and
+challenging than what she is currently offered. These opportunities to observe stu­
+dents “showing off” what they can do with print are rare in classrooms as presently
+organized, especially if the students are working-class and Spanish-speaking (but
+see Moll, 1988). These students, and their teachers, are provided with little room
+to maneuver or to deviate from the standard curriculum. How can we organize
+lessons to facilitate for these children continuous or multiple displays of compe­
+tence? How can teachers and students take maximum advantage of existing social
+resources to reorganize instruction? The second case study addresses these issues.
+
+The second case study
+One of the initial activities in the lab centered around construction and building, a
+theme of interest to the students. Construction, it also turns out, is one of the most
+prominent funds of knowledge found in the homes. We, therefore, viewed this
+“construction module” as an important opportunity to extend our ideas about inte­
+grating home and school knowledge. We started the work by showing the students
+slides of a group of men constructing a home in rural Mexico, as a way of eliciting
+their comments on the building process. We also asked the children to develop
+models of buildings or houses and provided them with wood, paper, and other
+materials with which to construct.
+One of the teachers who attended the lab, Ina A. (a pseudonym), decided she
+wanted to develop a similar construction module in her classroom.6 Ina teaches
+sixth grade in a bilingual program; she has approximately 30 students in her class,
+and they are predominantly Spanish-dominant, Mexican children. Along with an­
+other teacher, she is responsible for Spanish reading for the intermediate students
+in her school. This is Ina’s fourth year of teaching. She is a native of Mexico and
+has been living in the Tucson area for approximately 5 years.
+Although Ina followed the assigned curriculum, she deviated often to implement
+supplementary activities. For example, she used the assigned basal reader but sup­
+plemented it with novels, newspaper and magazine stories, and poems. She also
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+336
+
+After-school lab
+
+Classroom
+
+Implementation
+
+Teacher's research and planning
+
+Use of libraries &
+district media center
+
+Funds of knowledge &
+comm, participation
+
+Professional meetings
+& inservices
+
+Construction modulo
+model building
+eading , writing ,math
+Extending
+
+the module
+
+Modeling a city :
+planning, regulations
+Genera lization
+Biographical writing Λ
+Formal interviews, »compare generation^/
+
+t
+
+Career development
+community visits
+Figure 14.2. The construction module
+
+had the class write often, including poems, short stories, narratives, and descrip­
+tions, but reported that the children were reluctant writers, not an unusual situation.
+The teacher started her module sharing our belief that the use of outside, community
+resources could give more meaning to the learning experiences of the students. She
+mentioned that the “parents and children will see the role of the community [in
+education] as something that is worthwhile.” She was concerned with how parents
+perceived the school and believed that parents felt that they didn’t belong. How­
+ever, she also believed that parents were interested and willing to help. The module
+and its extensions are depicted graphically in Figure 14.2. We will discuss its de­
+velopment, highlighting the use of social resources for teaching and learning.
+Beginning. The teacher introduced the idea of the construction module to the class
+and discussed with the students possibilities for research on this topic. The students
+
+Creating zones of possibilities
+
+337
+
+accepted the idea of the new research. The teacher believed, however, that the work
+required to conduct the module would be more in-depth and extensive than anything
+they had done before. For the teacher, the module clearly represented a new chal­
+lenge for her and for the students.
+After introducing and clarifying the idea of the module, the teacher asked the
+students to visit the library and start locating information on building or construc­
+tion. In particular, the students obtained materials on the history of dwellings and
+on different ways of constructing structures. Through her own research in a com­
+munity library and in the school district’s media center (see Figure 14.2), the teacher
+identified a series of books on construction and on different professions, including
+volumes on architects and carpenters, and decided to use them as part of the mod­
+ule. The initial module was successful. The students followed their library research
+by building a model house or other structure as homework and wrote brief essays
+describing their research and explaining their construction. The students wrote in
+different ways. Some described in detail how they built the model; two students
+collaborated on a story based on the details of their model, inventing a character
+named Maria, whose father constructs houses:
+La casa de María está en un pueblo lejano y está hecha por su padre. La casa de
+María tiene dos cuartos un cuarto para su mamá y papá. El otro de azul es de ella.
+Su cuarto no tiene nada ni de sus padres. La sala tiene dos sillones y una mesita en
+el medio. El baño es chico y es ancho no es lujoso lo unico lujoso es un espejo
+chico. La cocina tiene una estufa poco lujosa y tiene una mesa. La casa fue hecha
+de troncos de árboles muy buenos y bonitos. María y su familia están contentos en
+su casa tienen dos cuartos, un baño, la sala y la cocina. También tienen electricidad
+gas y agua. Por fuera de la casa esta lujoso y bonito. Tiene un río tres árboles con
+piedritas alrededor. Ellos tienen poco dinero pero su papá trabaja haciendo casas.
+Asi que viven bien. A nosotros nos gusto la cocina, la sala, las camitas, los árbolitos y nos gusto como la hicimo estuvimos una hora haciendo la casita. Nos gusto
+y aprobechamos el tiempo que estuvimos haciéndola. Nosotros creemos que ust­
+edes también aprobecharon su tiempo en la de ustedes. Fin.
+(Maria’s house is in a far away town and was made by her father. Maria’s house
+has two rooms a room for her mom and dad. The other blue one is hers. Her room
+has nothing nor her parents’. The living room has two couches and a small table in
+the middle. The bathroom is small and is wide it is not luxurious the only luxurious
+thing is a small mirror. The kitchen has a stove lacking in luxury and has a table.
+The house was made from very good and pretty tree trunks. Maria and her family
+are happy in their house they have two rooms, a bathroom, the living room and the
+kitchen. They also have electricity gas and water. On the outside the house is
+luxurious and pretty. It has a river three trees with little rocks around them. They
+have little money but her dad works making houses. So they live well. We liked
+the kitchen, the living room, the little beds, the little trees and we liked how we
+made it we spent an hour making the little house. We like it and we made good
+use of the time that we spent building it. We believe that you all also made good
+use of your time in making yours. End.)
+
+Another student compared his model to the human body; note the use of meta­
+phors and precise construction terms, such as hormigón armado (reinforced con­
+crete).
+Sin barillas, no podrías mantener en pie una casa. Caerías al suelo como una
+mareoneta sin hilos que la sostenga. Una casa sin esqueleto se caería del mismo
+
+338
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+modo. Sin embargo, ei esqueleto de una casa no esta constituido por huesos como
+los nuestros, Sino por hormigón armado. Para Construir una casa necesitas, antes
+que nada, hacer los cimientos, es decir, una sólida base de hormigón. Sobre ésta
+se levanta el esqueleto de la casa y lia está construida. Nosotros utilisamos carton
+goma y picadientes para hacer una casita primero estábamos pegando los puros
+picadientes y se caían entonces decidimos ponerle carton y luego le pegamos los
+picadientes y no se cayo.
+(Without steel rods, you couldn’t maintain a house upright. It would fall to the
+ground like a puppet without strings to sustain it. A house without a frame would
+fall the same way. Nevertheless, the frame [esqueleto, skeleton] of a house is not
+constituted by bones like ours, but by reinforced steel. To construct a house one
+needs, first of all, to make the foundations, that is to say, a solid base of reinforced
+steel. On top of this the frame is built and now it is constructed. We utilized
+cardboard glue and toothpicks to make the little house we were first glueing only
+the toothpicks and they would fall then we decided to add carton and then we glued
+the toothpicks and it did not fall.)
+
+In short, the teacher was able to get the students to write about their experiences
+and in the process improved the activities she learned at the lab.
+Mobilizing funds of knowledge. The teacher, however, did not stop there; she ex­
+tended the module beyond what we had accomplished in the lab. The teacher pro­
+posed to the class inviting parents as experts to provide information on specific
+aspects of construction and mentioned that she had already invited one father, a
+mason, to describe his work. She was particularly interested in having the father
+describe his use of construction instruments and tools and tell how he estimated or
+measured the area or perimeter of the location in which he works. The teacher
+reported that the children were surprised by the thought of inviting their parents as
+experts, especially given some of the parents’ lack of formal schooling, and were
+intrigued by the idea.
+The visit by the first parent was a key to the module. Neither the teacher nor the
+students were sure what to expect. The teacher described it as follows:
+The first experience was a total success. . . . We received two parents. The first
+one, Mr. S., father of one of my students, works at [the school district] building
+portable classrooms. He built his own house, and he helped my student do his
+project. He explained to the students the basic details of construction. For example,
+he explained about the foundation of a house, the way they need to measure the
+columns, how to find the perimeter or area. . . . After his visit, the children wrote
+what they learned about this topic. It was interesting to see how each one of them
+learned something different: e.g., the vocabulary of construction, names of tools,
+economic concerns, and the importance of knowing mathematics in construction.
+Building on her initial success, the teacher invited other parents or relatives to
+make their expertise available to the class. We quote again from the teacher’s notes:
+The next parent was Mr. T. He was not related to any of the students. He is part
+of the community and a construction worker. His visit was also very interesting.
+He was nervous and a little embarrassed, but after a while he seemed more relaxed.
+The children asked him a great number of questions. They wanted to know how to
+make the mix to put together bricks. ... He explained the process and the children
+
+Creating zones of possibilities
+
+339
+
+were able to see the need for understanding fractions in mathematics because he
+gave the quantities in fractions. They also wanted to know how to build arches. He
+explained the process of building arches through a diagram on the board, and told
+the students that this was the work of engineers.
+
+The teacher also invited people she knew to contribute to the class. What is
+important is that the teacher invited parents and others in the community to contrib­
+ute substantively to the development of lessons, to access their funds of knowledge
+for academic purposes. Theirs was an intellectual contribution to the content and
+process of classroom learning. The parents came to share their knowledge, exper­
+tise, or experiences with the students. This knowledge, in turn, became part of the
+students’ work or a focus of analysis, as illustrated eloquently in the following
+English writing sample from one of the girls in the class:
+Mr. S. came today and in a way he taught us how to build a house. He taught
+us how to measure for the materials and which materials we needed and how to get
+the best only. He also taught us that if you buy an expensive house from a company
+it may be made from real cheap stuff and just maybe it might fall apart. And that
+if you build a house without a ridge or varillas it may tip over and just fall apart.
+When you are putting the ridge you must put an joist hanger or the ridge will fall.
+Also you must put cement first then you put in the varillas. For the wall the ply­
+wood fir is better than the waffle board. But the waffle board is cheaper than ply­
+wood fir. And that for the door and the window you put a metal board for it could
+hold the material or blocks. He also said that if you paid another worker that isn’t
+from the company he might cheat you, like tell you to pay by the hour. And then
+they’ll take a long time. So then you have to pay them more because they worked
+more hours. If you do it yourself you might save, I said you might because if you
+don’t know you will be wasting a lot of money because will not be knowing what
+you are doing . . . and if you are paying the worker how much both of you decided
+they might do it real fast. He also said that you’ll need to put at least 3 or 4 feet of
+cement above the ground so that termites do not go in. And that the bottom of the
+plywood or what ever you are using people put some termite poison. But well it is
+better to have a brick house and to build it yourself because you might save a lot
+of money.
+If you do not know how to make your own home or just a storage room like
+Mr. S. you might want a friend to help. You should also know the size or amount
+of the wood, bricks, nails, or any other supply that you might need so that you
+don’t spend a fortune or a lot of money on some dum storage room that you didn’t
+even do right and that in a week it’ll fall down.
+So if you are wanting a house or just a room make sure you know what you're
+doing. Take my advise I listened to someone who does know. Don’t try to do it
+yourself because you’ll probably end up with nothing because it’ll probably fall.
+He also showed the size of some nails and other supplies.
+
+Another girl wrote, although in less detail, about the same visit, and the visitor
+happened to be her uncle.
+My tio Mr. S. came to our class to talk about the facts of house making. My tio
+is a carpenter. He told us about how some people are Honest and some people are
+not Honest. Most honest people are like your family and friends. After you put
+some bricks you put fiber glass and then put tirmite liquet and then some serock.
+My tio said its better to build a house out of brick instead of wood. There are some
+word he told us I only remember is Ridge, Fiber glass, Stager, Bolts, Joist Hanger,
+
+340
+
+L. C.
+
+Moll
+
+and
+
+J. B.
+
+Greenberg
+
+Ina's Classroom
+
+'s
+
+Use of libraries &
+district media center
+
+♦i Construction module
+
+Extending the module
+
+4 weeks
+
+Modeling a city :
+planning, regulations Г
+
+Г
+
+Generalization
+Biographical writing \
+Formal interviews, |
+compare generations/
+
+Code :
+1 -Students1 own knowledge
+2-Students' parents & relatives
+5-Other students' parents or relatives
+4-Teacher’s own network
+
+Career development V
+community visits Г
+
+5-School & district staff
+6-Community members
+7-University faculty S, students
+
+Figure 14.3. Social networks for teaching
+
+Serock, plywood, waffle board, and panel. The elictricion and pluming gos threw
+the bottom of the ground, these days houses are made easy and cheap. I think it is
+better to make a house out of brick.
+
+Obviously, these visits were not trivial; they mattered for the development of the
+lessons. As such, these invitations and classroom visits helped create a new instruc­
+tional routine in this classroom, which helped the teacher and students exceed the
+curriculum, stretch the limits of their writing, and expand the knowledge that formed
+lessons. Figure 14.3 illustrates this mobilization of funds of knowledge through the
+creation of social networks for teaching. In total, about 20 people visited the class­
+room during the module implementation. The teacher utilized at least seven differ­
+ent sources of funds of knowledge, listed below.
+
+Creating zones of possibilities
+
+341
+
+1. The students’ own
+knowledge: The first step in the module activities was for the
+students to discuss
+and present what they knew about the topic and to visit the
+library to search for written sources that would help them elaborate their knowl­
+edge.
+2. The students’ parents and relatives: The first visitor to the classroom was one of
+the students’ parents, and in subsequent activities the parents became a regular
+source of information and assistance with the academic tasks.
+3. Other students’ parents or relatives: The teacher also invited parents of students not
+in her class, thus extending beyond her classroom the immediate network of knowl­
+edge available to her and to the students.
+4. The teacher’s own
+network: In extending the module the teacher used her own
+social network as a
+resource of knowledge, inviting relatives and friends to partic­
+ipate in the lessons.
+5. School staff and teachers: The teacher also used the expertise of others in the
+school, including teachers and other staff.
+6. Community members without school-age children: The teacher also invited other
+members of the surrounding community who were not necessarily part of the chil­
+dren’s or her immediate social network.
+7. University faculty and students: This group includes the lab staff and other univer­
+sity personnel.
+
+As we will show next, these social networks became a regular feature of classroom
+instruction.
+Extending the module. Establishing social networks to access funds of knowledge
+for academic learning generated important secondary activities in this classroom
+that went far beyond the initial module. For example, the class invited the brother
+of one of the students, who was studying to be a draftsman, to present construction
+plans to the class and explain how he developed them. Stimulated by the presenta­
+tion, the students decided to extend the module by going beyond the building of
+individual structures and combining them to form a community. But developing a
+community with its streets, services, parks, and private and public buildings re­
+quired considerable research. The students and the teacher followed two strategies:
+They returned to the library to do research, acquiring additional information on
+what a town or city requires for its development, for example, obtaining water and
+providing electricity. To supplement the library research, the students conducted
+observations in their own communities to determine what other aspects of urban life
+they might need to incorporate into their model. The teacher provided the class with
+a large poster of a town, which she found during her own research, and the students
+placed it on the side wall of the classroom, near their models. As was now a routine,
+part of the classroom task, the students presented their research in writing and shared
+it orally with the class or with others in the school. Consider the following example:
+There are many people that work in construction. First there is a designer. She
+designs the way the inside of the building will look like. She finds the best quality
+furniture to match the color of the room, she also gets the rugs, curtains etc. to
+match the color. The architecture designs the building. He must figure out the
+length, width and how many rooms there will be.
+The estimators figures out how much everything will cost, he tries to find the
+
+342
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+best, least expensive tools for the job. he also has to extimate how long will it take
+to finish, because every day they must pay money.
+The carpenter does all the wood work. He designs all the wood work. He designs
+the frame to start the building. He also does sticks so when they pour the concret
+it is straight. The electrician puts the wires inside the walls for electricity, he also
+does the outlets for connecting things, to have lights and other needs.
+The plumber is someone who does drains. He does bathroom wires and he puts
+a hose like, so that water can come out of a fountain.
+
+An important consequence of the module was the way it shaped the students’ and
+the teacher’s perception of the parents and the community in general. In a sense,
+the teacher convinced herself that valuable knowledge exists beyond the classroom
+and that it could be mobilized for academic learning. She also understood that
+teaching through the community, as represented by the people in the various social
+networks and their collective funds of knowledge, could become part of the class­
+room routine, that is, part of the “core” curriculum. We describe next this gener­
+alization of the activities into the curriculum.
+
+Generalization, The two activities we describe below were developed by the teacher
+and students, independent of our assistance. As such, they represent a generaliza­
+tion of the construction module activities into the curriculum. This is a key point.
+The module started as a temporary and supplementary activity, but as the teacher
+extended the module, it became more central to the classroom’s activities, a vehicle
+to accomplish the teacher’s curricular goals. The teacher generalized the module by
+incorporating the core curriculum within the module’s activities. This generaliza­
+tion illustrates the extent to which the teacher and her class had taken over, appro­
+priated, in the Vygotskian sense, the initial module’s activities and created some­
+thing new to address the needs of this specific classroom. An example will illustrate
+this process of appropriation.
+The teacher had attended an in-service on writing and was provided with a pack­
+age of materials on possible writing activities. She noticed that one of the activities
+concerned writing biographies and deliberately chose this topic as a theme to rein­
+force the instructional process involving funds of knowledge which the class had
+started with the construction module. The logic of developing this new module is
+what is of interest here. It depicts how the teacher re-created her own version of the
+module and suggests the way she was acquiring ownership of the procedures and
+goals of the activity. What follows is the sequence of the module’s activities:
+1. The goal of the activity was for the students to write a biography. The procedures
+included the students’ writing about the lives of people from different generations.
+The study materials included questions about people’s activities as children, a topic
+that particularly interested the students. The teacher used the available languagearts materials to train the children in how to interview others. The students also
+started to identify whom they wanted to invite to the classroom for the class to
+interview and persons they could interview outside the classroom.
+2. As an extension of the materials, the students developed questions in Spanish and
+English that they could ask the interview subjects, among them questions about
+
+Creating zones of possibilities
+
+343
+
+different jobs that people had done. This topic had become quite salient in the
+previous module, when the students analyzed the division of labor that goes into
+constructing a building. The topic is also related to the identification of people’s or
+households’ funds of knowledge.
+3. The teacher and the students invited people from three different generations, rep­
+resenting the decades of the 1940s, 1960s, and 1970s. The teacher discussed with
+those invited the types of questions they could expect the students to ask.
+4. During a 4-week period, a total of 12 people visited the class. These people were
+identified and contacted through the social networks previously discussed (see Fig­
+ure 14.3). In this instance, the class drew people from all of the sources available
+to them. The children interviewed the people in both Spanish and English.
+5. The students wrote summaries of the interviews, highlighting specific questions or
+areas of interest to them.
+6. The students were then asked to interview two other people in the community who
+represented two different generations and to write a comparison based on their
+interviews.
+7. Finally, the students brought pictures from their families depicting different gen­
+erations. These pictures were discussed in class and posted on the front board as a
+symbol of the students’ research and the theme of study.
+
+This process represents how the teacher reapplied in her instructional practice the
+principles that guide the activities of the lab, and she was able to do so indepen­
+dently, without our assistance. She picked a theme that was significant to the chil­
+dren and helpful to her in achieving the curricular goals. She also adjusted the
+packaged curriculum to include funds of knowledge not available within the class­
+room. This incorporation of funds of knowledge was accomplished by bringing into
+the classroom community people who could be reached through the available social
+networks, but the teacher also used homework assignments to tap the funds of
+knowledge of the students’ homes and other locations.
+All of the activities, from the planning and interviewing to the preparation of a
+final product, involved considerable reading and writing in both languages on the
+part of the students. As the students’ writing samples suggest, literacy in English
+and Spanish occurred as a means of analysis and expression, not as isolated reading
+and writing exercises. To support the development of writing, and to enable indi­
+vidual assessments, the teacher organized peer-editing groups that focused on how
+to improve the writing to facilitate the clear expression of ideas, whether in English
+or Spanish. The teacher evaluated the students’ progress by their ability to deal with
+new and more complex activities, and by their ability to read and produce more
+sophisticated writing to accomplish those activities. As Langer (1987) has sug­
+gested, it is necessary
+to look for successful literacy learning not in isolated bits of knowledge, but in
+students’ growing ability to use language and literacy in more and broader activi­
+ties. It will also be necessary to judge progress in learning by students’ ability to
+successfully complete those activities. When we do this, the nature of instructional
+activities will change dramatically - from pretend to real tasks, from parts to wholes,
+from practice to doing, and from recitation to thinking, (p. 17)
+
+Following this module, the teacher organized yet another module, this time coinciding with the end of the school year - on career development. The topic
+
+344
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+evolved from the children’s questions and work during the previous modules, as
+they came into contact with diverse jobs and family labor histories. Their guiding
+question was: What do you see in your future? Next to the board displaying the
+family pictures, the students and teachers developed posters depicting various jobs
+and professions. Through the social networks, they invited high school and univer­
+sity teachers and students to discuss various careers and how to enter them. They
+also visited local schools and interacted with professors and students. As with other
+modules, the children used their reading and writing to mediate and analyze their
+interactions with the “living knowledge” brought into the classroom by their social
+networks or encountered in the community during their visits.
+
+Discussion
+“For Vygotsky,” Bakhurst (1986) has suggested, “the identity of psychology as a
+science depended on the degree to which it could contribute to the transformation
+of the object it investigates. Its task was not simply to mirror but to harness reality”
+(pp. 122-123, italics in original). It is this “harnessing” of social resources for the
+transformation of teaching and learning that is the essence of our project. Our analy­
+sis shows that families control their resources through social relations that connect
+households to each other and facilitate, among other functions, the transmission of
+knowledge among participants. We have termed these diverse, socially mediated
+transactions the exchange of funds of knowledge. It is how these social systems of
+knowledge operate - these extended zones of proximal development - that has
+attracted our attention. These social relations of exchange are multistranded and
+flexible in that they involve many people and can be arranged or rearranged de­
+pending on the specific needs of the participants. These exchanges are also recip­
+rocal. It is this reciprocity that establishes and maintains the necessary trust among
+participants to keep the system active and useful.
+We have come to think of both the content and process of exchange of funds of
+knowledge as enormously useful in mediating instruction. Our claim is that by
+developing social networks that connect classrooms to outside resources, by mobi­
+lizing funds of knowledge, we can transform classrooms into more advanced con­
+texts for teaching and learning. The first case study showed that by developing units
+of study that connect literacy to the social world teachers can provide students with
+practice in a wide range of oral and written language uses. The study featured the
+work of a girl who was very reluctant to participate in class. Through the activities
+that formed part of the module, activities she initiated, she actively created her own
+learning situations by involving her father in the research, visiting a local historical
+site, producing a videotape, and interviewing a tour guide. These activities, in turn,
+created many opportunities to write and to use writing to guide her thinking. Re­
+gardless of the limitations in the writing of any specific student, teachers can de­
+velop many circumstances within which to assess students’ strengths and weak­
+nesses and within which to provide instruction to develop their writing.
+
+Creating zones of possibilities
+
+345
+
+The second case study shifted the analysis from an individual lesson and showed
+how a teacher changed her classroom from a relatively self-contained entity, as is
+the case with most classrooms, with little or no interaction with the outside world
+into a classroom whose learning activities were enhanced by the participation of
+community members. Through the development of social networks for teaching,
+the teacher facilitated the intellectual contribution of parents and other adults to
+academic lessons. This parental participation, in turn, provided the teacher and
+students not only with an appreciation of the knowledge of the parents but with an
+additional context for learning. As with the households, the key to these networks
+was their reciprocity. Parents and other persons readily agreed to contribute to les­
+sons because of the implicit assumption that the students would benefit academi­
+cally. These networks could not be sustained if the parents, teachers, or students
+believed them to be educationally insignificant. For most classrooms, this infusion
+of funds of knowledge would mean reorganizing the context of literacy instruction
+from a passive recitation model to an interactive, more holistic approach that would
+make full use of student and parental experiences. To be successful, the introduc­
+tion of funds of knowledge into the classroom must facilitate the development of
+new, more advanced literacy activities for the students.
+In both case studies, we refrained from imposing a curriculum on teachers; that
+is a recipe for failure. Instead, we worked collaboratively with teachers and built
+on their needs or interests. In our first case study, the teachers were motivated by
+their concerns about the students’ writing. We found they needed considerable sup­
+port before they began experimenting with instruction. The formation of study groups
+as part of the after-school lab greatly facilitated these teachers’ participation in the
+project by creating a setting where they could think, question their own teaching,
+plan activities, and address practical concerns. The teacher in the second case study
+was motivated to develop new activities in her classroom and willing to re-create
+and extend in her class the module she observed in the lab. That she was already
+testing the limits of her curriculum by including in her classroom supplementary
+activities facilitated implementing the innovation. Her efforts show that teachers
+can develop literacy activities that exceed in sophistication, intellectual level, and
+scope what is currently being taught in schools.
+Vygotsky (1987) wrote that in “receiving instruction in a system of knowledge,
+the child learns of things that are not before his eyes, things that far exceed the
+limits of his actual and even potential immediate experience” (p. 180). We hardly
+believe that rote instruction of low-level skills is the system of knowledge that
+Vygotsky had in mind. We perceive the students’ community, and its funds of
+knowledge, as the most important resource for reorganizing instruction in ways that
+“far exceed” the limits of current schooling. An indispensable element of our ap­
+proach is the creation of meaningful connections between academic and social life
+through the concrete learning activities of the students. We are convinced that teachers
+can establish, in systemic ways, the necessary social relations outside classrooms
+that will change and improve what occurs within the classroom walls. These social
+
+346
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+connections help teachers and students to develop their awareness of how they can
+use the everyday to understand classroom content and use classroom activities to
+understand social reality.
+
+Notes
+1 A total of 35 families are participating in the household study. All are families of fourth-graders
+(bilingual classrooms) participating in the implementing and comparison schools of our project,
+except for 6 families of fifth- and sixth-grade children participating in the after-school lab. Our goal
+was to sample families as follows: 10 students from the “treatment” classroom who also participate
+in the lab; 10 students from the “treatment” classroom who do not participate in the lab; 10 students
+from the comparison classroom. Attrition has forced us to modify our sample to include fifth- and
+sixth-graders. However, the distribution of students representing the treatment and comparison class­
+rooms remains faithful to the original design. We are currently recruiting additional families into the
+study. Our thanks to our colleagues, Carlos Vêlez, Gerardo Bemache, Javier Tapia, and Claudina
+Cabrera, all of the Bureau of Applied Research in Anthropology, University of Arizona, who have
+conducted most of the participant observations in the households and helped to elaborate the analysis
+presented herein. The project is funded by a contract from the Office of Bilingual Education and
+Minority Language Affairs, Department of Education, Washington, DC, as part of the Innovative
+Approaches Research Project, directed by Charlene Rivera, Development Associates, Inc.
+2 Following Vélez-Ibáñez (1988), we are using the term Mexican to designate native-born of Mexico
+as well as those of Mexican parentage bom in the United States. This designation is also consistent
+with the self-descriptions of the persons, regardless of generation, in our study sample. The present
+study builds directly on our previous work addressing social and educational issues of Latino families
+and students (see, e.g., Moll, 1988; Moll & S. Diaz, 1987; Vélez-lbáñez, 1983a, 1988a).
+3 Kathy Whitmore conducted these observations.
+4 Rosi Andrade and Elizabeth Saavedra, in collaboration with the teachers, developed this case study
+and were the instructors in the examples described here. They also helped develop the analysis
+presented in this chapter.
+5 As part of the lab’s activities, we communicated by computer with students in Ponce, Puerto Rico,
+San Diego, California, and New York City. These written communications were conducted in both
+English and Spanish. Our thanks to Dennis Sayers and Project Orillas for facilitating the link-up with
+Puerto Rico and New York.
+6 Arminda Fuentevilla and Hilda Angiulo helped develop the analysis presented herein.
+
+References
+Aguilar, J. (1984). Trust and exchange; Expressive and instrumental dimensions of reciprocity in a
+peasant community. Ethos, /2(1), 3-29.
+Anyon, J. (1980). Social class and the hidden curriculum of work. Journal of Education, /62(1), 6792.
+Bakhurst, D. J. (1986). Thought, speech, and the genesis of meaning; On the 50th anniversary of
+Vygotsky’s Myslenie i Ree’ [Speech and thinking]. Studies in Soviet thought, 31, 102-129.
+Berliner, D. C. (1985). Laboratory settings and the study of teacher education. Journal of Teacher
+Education, 36(6), 2-8.
+Davydov, V. V. (1988). Learning activity: The main problems needing further research. Multidiscipli­
+nary Newsletter for Activity Theory, /(1—2), 29-36.
+Goodlad, J. (1984). A place called school. New York: McGraw-Hill.
+Greenberg, J. B. (1984). Household economy and economic sector participation in Douglas, Arizona,
+and Agua Prieta, Sonora. Unpublished manuscript.
+Greenberg, J. B. (1989, April). Funds of knowledge: Historical constitution, social distribution, and
+transmission. Paper presented at the annual meetings of the Society for Applied Anthropology,
+Santa Fe, NM.
+
+Creating zones of possibilities
+
+347
+
+Greenfield, P., & Lave, J. (1982). Cognitive aspects of informal education. In D. Wagner & H. Steven­
+son (Eds.), Cultural perspectives on child development (pp. 181-207). San Francisco: Freeman.
+Heath, S. B. (1983). Ways with words: Language, life, and work in communities and classrooms.
+Cambridge: Cambridge University Press.
+Laboratory of Comparative Human Cognition. (1982). A model system for the study of learning diffi­
+culties. Quarterly Newsletter of the Laboratory of Comparative Human Cognition, 4(3), 39-66.
+Laboratory of Comparative Human Cognition. (1986). The contributions of cross-cultural research to
+educational practice. American Psychologist, 4/(10), 1049-1058.
+Langer, J. (1987). A sociocognitive perspective on literacy. In J. Langer (Ed.), Language, literacy, and
+culture: Issues in society and schooling (pp. 1-20). Norwood, NJ: Ablex.
+Langer, J., & Applebee, A. (1986). Reading and writing instruction: Toward a theory of teaching and
+learning. In E. Z. Rothkopf (Ed.), Review of research in education (pp. 171-194). Washington,
+DC: American Educational Research Association.
+Langer, I., & Applebee, A. (1987). How writing shapes thinking: A study of teaching and learning
+(NCTE Research Report No. 22). Urbana, IL: National Council of Teachers of English.
+Lomnitz, L. (1977). Networks and marginality: Life in a Mexican shantytown. New York: Academic
+Press.
+Luria, A. R. (1982). Language and cognition. New York: Wiley.
+Milardo, R. (Ed.) (1988). Families and social networks. Beverly Hills, CA: Sage.
+Moll, L. C. (1988). Key issues in teaching Latino students. Language Arts, 65(5), 465-472.
+Moll, L. C. (1989). Teaching second-language students: A Vygotskian perspective. In D. Johnson &
+D. Roen (Eds.), Richness in writing: Empowering ESL students (pp. 55-69). New York: Longman.
+Moll, L. C., & Díaz, R. (1987). Teaching writing as communication: The use of ethnographic findings
+in classroom practice (pp. 195-221). In D. Bloome (Ed.), Literacy and schooling (pp. 55-65).
+Norwood, NJ: Ablex.
+Moll, L. C., & Díaz, S. (1987). Change as the goal of educational research. Anthropology and Educa­
+tion Quarterly, 18(4), 300-311.
+Moll, L.C., Vélez-lbáñez, C., & Greenberg, J. (1988). Project implementation plan. Community knowl­
+edge and classroom practice: Combining resources for literacy instruction (Technical Report, De­
+velopment Associates Subcontract No. L-10). Tucson: University of Arizona, College of Education
+and Bureau of Applied Research in Anthropology.
+Oakes, J. (1986). Tracking, inequality, and the rhetoric of school reform: Why schools don’t change.
+Journal of Education, /6#, 61—80.
+Stack, C. (1974). All our kin: Strategies for survival in a black community. New York: Harper Colo­
+phon.
+Trueba, H.T., & Delgado-Gaitán, C. (Eds.) (1988). School & society: Learning content through culture.
+New York; Praeger.
+Valsiner, J. (1988). Developmental psychology in the Soviet Union. Sussex: Harvester.
+Vélez-lbáñez, C. G. (1983a). Bonds of mutual trust. New Brunswick, NJ: Rutgers University Press.
+Vélez-lbáñez, C. G. (1983b). Rituals of marginality. Berkeley: University of California Press.
+Vélez-lbáñez, C. G. (1986). incorporating mechanisms of exchange among Mexicanos in the U.S.
+borderlands. Paper presented at the Fourth Symposium of Mexican and United States Universities,
+“One border: Two nations,’’ Sanie Fe, NM.
+Vélez-lbáñez, C. G. (1988a). Networks of exchange among Mexicans in the U.S. and Mexico: Local
+level mediating responses to national and international transformations. Urban Anthropology, /7(1),
+27-51.
+Vélez-lbáñez, C. G. (1988b, November). Forms and functions of funds of knowledge among Mexicans
+in the southwest. Paper presented at the annual meeting of the American Anthropological Associa­
+tion, Phoenix, AZ.
+Vélez-lbáñez, C., Greenberg, J., & Johnstone, В. (1984). The ethnic, economic, and educational struc­
+ture of Tucson, Arizona: The limits of possibility for the Mexican Americans in 1982. Proceedings
+of the Meetings of the Rocky Mountain Council on Latin American Studies, /, 154-164.
+Vygotsky, L. S. (1978). Mind in society. Cambridge, MA: Harvard University Press.
+Vygotsky, L. S. (1987). Speech and thinking. In L. S. Vygotsky, Collected Works (Vol. 1, pp. 39285) (R. Rieber & A. Carton, Eds.; N. Minick, Trans.). New York: Plenum.
+
+348
+
+L. C. M o l l a n d J. B. G r e e n b e r g
+
+Weisner, T., & Gallimore, R. (1985, December). The convergence of ecocultural and activity theory.
+Paper presented at the annual meetings of the American Psychological Association, Washington,
+DC.
+Wellman, B. (1985). Domestic work, paid work, and net work. In S. Duck & D. Pearman (Eds.),
+Understanding personal relationships: An interdisciplinary approach (pp. 159-185). Beverly Hills,
+CA: Sage.
+Wolf, E. (1966). Peasants. Englewood Cliffs, NJ: Prentice-Hall.
+
+
